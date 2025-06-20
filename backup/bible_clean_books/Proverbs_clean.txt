@@ -1,0 +1,946 @@
+Chapter_Header: 1
+Verse_Ch: 1:1 大卫的儿子以色列王所罗门的箴言： ###EN### The proverbs of Solomon the son of David, the king of Israel:
+Verse_Ch: 1:2 要使人晓得智慧和训诲，辨识通达的言语； ###EN### For knowing wisdom and instruction; For discerning words of understanding;
+Verse_Ch: 1:3 使人领受训诲，处事明智，有公义、公平和公正； ###EN### For receiving instruction in wise conduct, Righteousness, justice, and equity;
+Verse_Ch: 1:4 使愚蒙人灵明，使少年人有知识和谋略； ###EN### For giving prudence to the simple, Knowledge and discretion to the young man;
+Verse_Ch: 1:5 使智慧人听见，增长学识，使聪明人得着智谋； ###EN### That the wise man may hear and increase in learning, And he who has understanding may acquire sound counsel;
+Verse_Ch: 1:6 使人明白箴言和譬喻，懂得智慧人的言辞和隐语。 ###EN### For understanding proverb and figure, The words of the wise and their difficult sayings.
+Verse_Ch: 1:7 敬畏耶和华是知识的开端；愚妄人藐视智慧和训诲。 ###EN### The fear of Jehovah is the beginning of knowledge; Fools despise wisdom and instruction.
+Verse_Ch: 1:8 我儿，要听你父亲的训诲，不可离弃你母亲的指教； ###EN### Hear, my son, the instruction of your father, And do not reject the teaching of your mother;
+Verse_Ch: 1:9 因为这要作你头上的华冠，你项上的金链。 ###EN### For they will be a wreath of grace for your head And ornaments for your neck.
+Verse_Ch: 1:10 我儿，恶人若引诱你，你不可随从。 ###EN### My son, if sinners entice you, Do not consent.
+Verse_Ch: 1:11 他们若说，你与我们同去，我们要埋伏流人的血，要无故蹲伏害无辜的人； ###EN### If they say, Come with us; let us lie in wait for blood; Let us ambush the innocent without cause;
+Verse_Ch: 1:12 我们要像阴间把他们活活吞下，把他们如同下坑的人囫囵吞了。 ###EN### Let us swallow them alive like Sheol, And whole, like those who go down into the pit.
+Verse_Ch: 1:13 我们必得各样宝物，将所掳来的，装满我们的房屋； ###EN### We will find all manner of precious goods; We will fill our houses with booty;
+Verse_Ch: 1:14 你与我们一同有分，大家共用一个囊袋。 ###EN### Throw in your lot with us; We will all have one purse -
+Verse_Ch: 1:15 我儿，不要与他们同行这道路；禁止你的脚走他们的途径。 ###EN### My son, do not walk with them on this way; Keep your foot from their path.
+Verse_Ch: 1:16 因为他们的脚向恶奔跑；他们急速流人的血。 ###EN### For their feet run toward evil, And they hasten to shed blood.
+Verse_Ch: 1:17 好像飞鸟，虽有网罗张设在眼前，仍视而不见； ###EN### For in vain is the net spread In the eyes of any bird;
+Verse_Ch: 1:18 这些人埋伏，是为自流己血；蹲伏，是为自害己命。 ###EN### Yet they lie in wait for their own blood; They ambush their own lives!
+Verse_Ch: 1:19 凡贪恋财利的，所行之路都是如此；这会夺去得财者的命。 ###EN### Such are the ways of everyone greedy for gain; It takes away the life of its owners.
+Verse_Ch: 1:20 智慧在街市上呼喊，在广场上发声。 ###EN### Wisdom cries out in the street; She utters her voice in the open squares.
+Verse_Ch: 1:21 在热闹街头喊叫，在城门口，在城里发出言语，说， ###EN### At the head of the tumultuous street she cries; At the entrance of the gates in the city she utters her sayings:
+Verse_Ch: 1:22 你们愚蒙人喜爱愚昧，亵慢人喜欢亵慢，愚顽人恨恶知识，要到几时呢？ ###EN### How long, O simple ones, will you love simpleness, And will scoffers delight themselves in scoffing, And will fools hate knowledge?
+Verse_Ch: 1:23 你们当因我的责备回转；看哪，我要将我的灵浇灌你们，将我的话指示你们。 ###EN### Turn yourselves at my reproof-Immediately I will pour out my spirit on you; I will make my words known to you.
+Verse_Ch: 1:24 我呼唤，你们拒绝；我伸手，无人理会， ###EN### Because I called and you refused; I stretched out my hand and no one heeded,
+Verse_Ch: 1:25 反倒轻弃我一切的劝戒，不肯受我的责备。 ###EN### And you neglected all my counsel And would have none of my reproof;
+Verse_Ch: 1:26 你们遭灾难，我也必发笑；惊恐临到你们，我必嗤笑。 ###EN### I also will laugh at your calamity; I will mock when what you dread comes,
+Verse_Ch: 1:27 惊恐临到你们，好像狂风；灾难来到，如同旋风；急难困苦临到你们身上。 ###EN### When what you dread comes like a storm, And your calamity comes like a whirlwind, When distress and anguish come upon you.
+Verse_Ch: 1:28 那时，他们必呼求我，我却不答应；恳切的寻找我，却寻不见。 ###EN### Then they will call on me, but I will not answer; They will seek me diligently, but they will not find me.
+Verse_Ch: 1:29 因为他们恨恶知识，不选择敬畏耶和华， ###EN### Because they hated knowledge And did not choose the fear of Jehovah,
+Verse_Ch: 1:30 不肯受我的劝戒，藐视我一切的责备， ###EN### And would have none of my counsel And despised all my reproof;
+Verse_Ch: 1:31 所以他们必吃自己行径的果子，饱尝自设的计谋。 ###EN### They shall eat of the fruit of their own way And be filled with their own devices.
+Verse_Ch: 1:32 愚蒙人背道，必杀己身；愚顽人安逸，必灭己命。 ###EN### For the turning away of the simple will kill them, And the prosperity of the foolish will cause them to perish;
+Verse_Ch: 1:33 惟有听从我的，必安然居住，得享安宁，免受灾祸的惊恐。 ###EN### But he who listens to me will dwell securely And will live at ease, without the dread of evil.
+Chapter_Header: 2
+Verse_Ch: 2:1 我儿，你若领受我的言语，将我的诫命珍藏在你里面， ###EN### My son, if you receive my words And treasure up my commandments within you,
+Verse_Ch: 2:2 侧耳听智慧，倾心求聪明； ###EN### Making your ear attentive to wisdom And inclining your heart to understanding;
+Verse_Ch: 2:3 你若呼求明哲，扬声求聪明， ###EN### Indeed, if you cry out for discernment And lift up your voice for understanding;
+Verse_Ch: 2:4 寻找她，如寻找银子，搜求她，如搜求隐藏的珍宝， ###EN### If you seek her like silver And search for her like hidden treasures,
+Verse_Ch: 2:5 你就明白如何敬畏耶和华，得以认识神。 ###EN### Then you will understand the fear of Jehovah And find the knowledge of God.
+Verse_Ch: 2:6 因为耶和华赐人智慧；知识和聪明都由祂口而出； ###EN### For Jehovah gives wisdom; From His mouth come knowledge and understanding;
+Verse_Ch: 2:7 祂给正直人积存真智慧，给行为纯全的人作盾牌， ###EN### He stores up sound wisdom for the upright; He is a shield to those who walk in integrity,
+Verse_Ch: 2:8 保守公平的途径，护庇虔诚人的道路。 ###EN### Guarding the paths of justice And keeping the way of His faithful ones.
+Verse_Ch: 2:9 你就必明白公义、公平、公正，和一切善美的途径。 ###EN### Then you will understand righteousness and justice And equity, indeed, every good path.
+Verse_Ch: 2:10 智慧必进入你心，你魂必喜悦知识； ###EN### For wisdom will enter your heart, And knowledge will be pleasant to your soul;
+Verse_Ch: 2:11 谋略必护卫你；聪明必保守你： ###EN### Discretion will watch over you; Understanding will keep you:
+Verse_Ch: 2:12 救你脱离邪恶的道路，脱离说乖谬话的人。 ###EN### To deliver you from the way of evil, From the man who speaks perverse things,
+Verse_Ch: 2:13 那等人舍弃正直的途径，行走黑暗的道路， ###EN### From those who forsake the paths of uprightness To walk in the ways of darkness,
+Verse_Ch: 2:14 喜悦作恶，欢喜恶人的乖僻， ###EN### Who rejoice in doing evil And delight in the perverseness of evil,
+Verse_Ch: 2:15 他们的途径弯曲，他们的道路偏岔。 ###EN### Whose paths are crooked, And who are devious in their ways;
+Verse_Ch: 2:16 智慧要救你脱离淫妇，就是那油嘴滑舌的外女； ###EN### To deliver you from the strange woman, From the adulteress who flatters with her words,
+Verse_Ch: 2:17 她离弃少年的同伴，忘了神的盟约； ###EN### Who forsakes the companion of her youth And forgets the covenant of her God;
+Verse_Ch: 2:18 她的家陷入死亡，她的路引向阴间。 ###EN### For her house sinks down to death, And her paths lead to the dead;
+Verse_Ch: 2:19 凡到她那里去的，不得转回，也得不着生命的途径。 ###EN### None who go to her ever return, Nor do they attain to the paths of life;
+Verse_Ch: 2:20 智慧必使你行善人的道路，守义人的途径。 ###EN### That you may walk in the way of good men And keep the paths of the righteous;
+Verse_Ch: 2:21 因为正直人必在地上居住；完全人必在其上存留。 ###EN### For the upright will dwell in the land, And the perfect will remain in it;
+Verse_Ch: 2:22 惟有恶人必从地上剪除，奸诈的必从其上拔出。 ###EN### But the wicked will be cut off from the land, And the treacherous will be uprooted from it.
+Chapter_Header: 3
+Verse_Ch: 3:1 我儿，不要忘记我的指教，你心要谨守我的诫命； ###EN### My son, do not forget my instruction, But let your heart keep my commandments;
+Verse_Ch: 3:2 因为它必将长久的日子、生命的年数与平安，加给你。 ###EN### For length of days and years of life And peace will they add to you.
+Verse_Ch: 3:3 不可使慈爱、真实离弃你：要系在你颈项上，写在你心版上。 ###EN### Do not let lovingkindness and truth forsake you: Bind them around your neck; Write them upon the tablet of your heart.
+Verse_Ch: 3:4 这样，你必在神和人眼前蒙恩宠，有美好的悟性。 ###EN### Thus you will find favor and a reputation for fine understanding In the sight of God and man.
+Verse_Ch: 3:5 你要全心信靠耶和华，不可倚靠自己的聪明； ###EN### Trust in Jehovah with all your heart, And do not rely on your own understanding;
+Verse_Ch: 3:6 在你一切的道路上，都要认定祂，祂必修直你的途径。 ###EN### In all your ways acknowledge Him, And He will make your paths straight.
+Verse_Ch: 3:7 不要自以为有智慧；要敬畏耶和华，远离恶事。 ###EN### Do not be wise in your own eyes; Fear Jehovah, and depart from evil.
+Verse_Ch: 3:8 这便医治你的身体，滋润你的骨头。 ###EN### It will be healing to your body And refreshment to your bones.
+Verse_Ch: 3:9 你要以财物，和一切初熟的出产，尊荣耶和华。 ###EN### Honor Jehovah with your substance And with the firstfruits of all your produce;
+Verse_Ch: 3:10 这样，你的仓房必充满有余，你的酒醡必盈溢新酒。 ###EN### Then your barns will be filled with plenty, And your vats will burst open with new wine.
+Verse_Ch: 3:11 我儿，你不可轻看耶和华的惩治，也不可厌烦祂的管教； ###EN### My son, do not despise the chastening of Jehovah, Nor be weary of His discipline;
+Verse_Ch: 3:12 因为耶和华所爱的，祂必管教，正如父亲管教所喜爱的儿子。 ###EN### For whom Jehovah loves He disciplines, Even as a father, the son in whom he delights.
+Verse_Ch: 3:13 寻得智慧，得着聪明的，这人便为有福。 ###EN### Blessed is the man who finds wisdom, And the man who gains understanding.
+Verse_Ch: 3:14 因为赚得智慧胜过赚得银子，其收益强于金子。 ###EN### For her profit is better than the profit of silver, And her income is better than gold.
+Verse_Ch: 3:15 智慧比珊瑚更宝贵，你一切所喜爱的，都不足与她比较。 ###EN### She is more precious than corals, And nothing you desire compare with her.
+Verse_Ch: 3:16 她右手有长寿，左手有财富与尊荣。 ###EN### Length of days is in her right hand; In her left hand are riches and honor.
+Verse_Ch: 3:17 她的道路是安乐的道路；她的路径全是平安。 ###EN### Her ways are ways of pleasantness, And all her paths are peace.
+Verse_Ch: 3:18 对持守她的人，她是生命树；持定她的是有福的。 ###EN### She is a tree of life to those who lay hold of her, And happy are those who hold her fast.
+Verse_Ch: 3:19 耶和华以智慧立大地，以聪明定诸天； ###EN### Jehovah by wisdom founded the earth; He established the heavens by understanding;
+Verse_Ch: 3:20 以知识使深渊裂开，使天空滴下甘露。 ###EN### By His knowledge the depths were broken open And the skies drop down the dew.
+Verse_Ch: 3:21 我儿，要谨守真智慧和谋略，不可使这些离开你的眼目。 ###EN### My son, do not let these depart from your sight: Keep sound wisdom and discretion;
+Verse_Ch: 3:22 这些必作你魂的生命，作你颈项的美饰。 ###EN### And they will be life for your soul And a graceful ornament for your neck.
+Verse_Ch: 3:23 你必安然行路，你的脚必不至绊跌。 ###EN### Then you will walk on your way securely, And your foot will not stumble.
+Verse_Ch: 3:24 你躺下，必不惧怕；你躺卧，必睡得香甜。 ###EN### When you lie down, you will not be afraid; But you will lie down, and your sleep will be sweet.
+Verse_Ch: 3:25 忽然来的惊恐，你不要害怕；恶人的毁灭临到，你也不要恐惧。 ###EN### Do not be afraid of sudden fear, Nor of the destruction of the wicked when it comes;
+Verse_Ch: 3:26 因为耶和华是你所信靠的，祂必保守你的脚不被缠住。 ###EN### For Jehovah will be your confidence, And He will keep your foot from being caught.
+Verse_Ch: 3:27 你手若有行善的力量，就不可推辞，当向那应得的人施行。 ###EN### Do not withhold good from those to whom it is due, When it is in the power of your hand to do so.
+Verse_Ch: 3:28 你那里若有现成的，不可对邻舍说，去罢，明天再来，我必给你。 ###EN### Do not say to your neighbor, Go, and come back; And tomorrow I will give it-when you have it with you.
+Verse_Ch: 3:29 你的邻舍既在你附近安居，你不可设计害他。 ###EN### Do not devise harm against your neighbor, While he lives securely beside you.
+Verse_Ch: 3:30 人未曾加害于你，你不可无故与他相争。 ###EN### Do not strive with a man without cause, If he has done you no harm.
+Verse_Ch: 3:31 不可嫉妒强暴的人，也不可选择他所行一切的路。 ###EN### Do not envy a man of violence, And do not choose any of his ways;
+Verse_Ch: 3:32 因为乖僻人为耶和华所憎恶；祂亲密的指教与正直人同在。 ###EN### For the perverse man is an abomination to Jehovah, But His intimate counsel is with the upright.
+Verse_Ch: 3:33 耶和华咒诅恶人的家庭，赐福与义人的居所。 ###EN### The curse of Jehovah is in the house of the wicked man, But He blesses the dwelling place of the righteous.
+Verse_Ch: 3:34 祂讥诮那好讥诮的人，赐恩给谦卑的人。 ###EN### To scorners He is scornful, But to the humble He gives grace.
+Verse_Ch: 3:35 智慧人必承受尊荣，愚昧人必加添自己的羞辱。 ###EN### The wise will inherit honor, But fools increase their own disgrace.
+Chapter_Header: 4
+Verse_Ch: 4:1 众子阿，要听父亲的训诲，要留心听，好得聪明。 ###EN### Hear, my sons, the instruction of a father, And be attentive, that you may gain understanding;
+Verse_Ch: 4:2 因我授与你们的是美好的学识；不可离弃我的指教。 ###EN### For I give you good teaching; Do not forsake my instruction.
+Verse_Ch: 4:3 我在父亲面前为孝子，在母亲眼中为独一的娇儿。 ###EN### For I was a son to my father, Tender and the only beloved in the sight of my mother.
+Verse_Ch: 4:4 父亲教训我说，你心要谨记我的言语；遵守我的命令，便得存活。 ###EN### And he taught me and said to me, Let your heart hold fast to my words; Keep my commandments and live;
+Verse_Ch: 4:5 要得智慧，得聪明；不可忘记，也不可偏离我口中的言语。 ###EN### Get wisdom; get understanding; Do not forget nor turn away from the words of my mouth.
+Verse_Ch: 4:6 不可离弃智慧，智慧就保守你；要爱她，她就护卫你。 ###EN### Do not forsake her, and she will keep you; Love her, and she will guard you.
+Verse_Ch: 4:7 智慧的开端就是，你要取得智慧；在你一切所得之中，要取得聪明。 ###EN### The beginning of wisdom is this: Get wisdom; and in all your getting, get understanding.
+Verse_Ch: 4:8 珍重智慧，她就使你高升；怀抱智慧，她就使你尊荣。 ###EN### Prize her highly, and she will exalt you; She will honor you if you embrace her.
+Verse_Ch: 4:9 她必将华冠加在你头上，把荣冕交给你。 ###EN### She will give a garland of grace for your head; A crown of beauty will she bestow on you.
+Verse_Ch: 4:10 我儿，你要听，要接受我的言语，你一生的年日就必增多。 ###EN### Hear, my son, and receive my words, And the years of your life will be many.
+Verse_Ch: 4:11 我已指教你走智慧的道路，引导你行正直的途径。 ###EN### I have taught you in the way of wisdom; I have led you in the paths of uprightness.
+Verse_Ch: 4:12 你行走，脚步必不受阻碍；你奔跑，也不至跌倒。 ###EN### When you walk, your steps will not be hindered; And when you run, you will not stumble.
+Verse_Ch: 4:13 要持定训诲，不可放松；当护卫她，因为她是你的生命。 ###EN### Take hold of instruction; do not let go; Guard her, for she is your life.
+Verse_Ch: 4:14 不可进恶人的途径；不要行坏人的道路。 ###EN### Do not enter the path of the wicked, And do not walk in the way of the evil.
+Verse_Ch: 4:15 要躲避，不可经过；要转身而去。 ###EN### Avoid it; do not pass by it; Turn away from it and pass on by.
+Verse_Ch: 4:16 这等人若不行恶，就睡不着觉；不使人跌倒，就不得安眠； ###EN### For they cannot sleep unless they do evil; And they are robbed of their sleep unless they cause someone to stumble.
+Verse_Ch: 4:17 因为他们吃的是奸恶饼，喝的是强暴酒。 ###EN### For they eat the bread of wickedness And drink the wine of violence.
+Verse_Ch: 4:18 但义人的途径好像黎明的光，越照越明，直到日午。 ###EN### But the path of the righteous is like the light of dawn, Which shines brighter and brighter until the full day.
+Verse_Ch: 4:19 恶人的道路好像幽暗；自己不知因什么绊跌。 ###EN### The way of the wicked is like deep darkness; They do not know what they stumble over.
+Verse_Ch: 4:20 我儿，要留心听我的言语，侧耳听我的讲论。 ###EN### My son, be attentive to my words; Incline your ear to my sayings.
+Verse_Ch: 4:21 都不可使这些离你的眼目；要持守在你心中。 ###EN### Do not let them depart from your sight; Keep them in the midst of your heart.
+Verse_Ch: 4:22 因为对寻得的人，这些乃是生命，又是全身的医治。 ###EN### For they are life to those who find them, And healing to all their flesh.
+Verse_Ch: 4:23 你要切切保守你心，因为生命的果效发之于心。 ###EN### Keep your heart with all vigilance, For from it are the issues of life.
+Verse_Ch: 4:24 你要除掉邪僻的言辞，远离乖谬的谈论。 ###EN### Put away from you crooked speech, And put perverse talk far from you.
+Verse_Ch: 4:25 你的眼目要向前正看，你的眼睛当向前直观。 ###EN### Let your eyes look directly ahead, And let your gaze be straight in front of you.
+Verse_Ch: 4:26 要修直你脚下的途径，坚定你一切的道路。 ###EN### Make straight the path of your feet, And all your ways will be established.
+Verse_Ch: 4:27 不可偏向左右；要使你的脚离开邪恶。 ###EN### Do not turn to the right or to the left; Turn your foot away from evil.
+Chapter_Header: 5
+Verse_Ch: 5:1 我儿，要留心听我的智慧，侧耳听我的聪明， ###EN### My son, be attentive to my wisdom; Incline your ear to my understanding,
+Verse_Ch: 5:2 为要使你谨守谋略，嘴唇护卫知识。 ###EN### That you may keep discretion, And your lips may guard knowledge.
+Verse_Ch: 5:3 因为淫妇的嘴滴下蜂蜜，她的口比油更滑； ###EN### For the lips of a strange woman drip honey, And her mouth is smoother than oil;
+Verse_Ch: 5:4 至终她却苦似茵蔯，快如两刃的刀。 ###EN### But in the end she is bitter as wormwood, Sharp as a two-edged sword.
+Verse_Ch: 5:5 她的脚下入死地；她的脚步迈向阴间。 ###EN### Her feet go down to death; Her steps hold fast to Sheol.
+Verse_Ch: 5:6 她不走生命平坦的途径；她所行的变迁不定，自己却不知道。 ###EN### She does not make straight the path of life: Her ways wander, and she does not know it.
+Verse_Ch: 5:7 众子阿，现在要听从我，不可离弃我口中的话。 ###EN### And now, my sons, listen to me, And do not depart from the words of my mouth.
+Verse_Ch: 5:8 你所行的路要离她远，不可就近她的房门； ###EN### Keep your way far from her, And do not go near the door of her house;
+Verse_Ch: 5:9 免得将你的尊荣给了别人，将你的岁月给了残忍的人； ###EN### Lest you give your honor to others, And your years to the cruel;
+Verse_Ch: 5:10 免得别人满得你的赀财，你劳碌得来的归入外人的家； ###EN### Lest strangers be filled with your wealth, And your labors go to the house of a foreigner,
+Verse_Ch: 5:11 终久，你的皮肉和身体销毁，你就悲叹， ###EN### And you mourn at your end, When your flesh and your body are consumed,
+Verse_Ch: 5:12 说，我怎么恨恶训诲，我的心怎么藐视责备！ ###EN### And you say, How I have hated instruction, And my heart has despised reproof!
+Verse_Ch: 5:13 也不听从我教师的话，又不侧耳听那教导我的人； ###EN### And I have not listened to the voice of my teachers Nor inclined my ear to my instructors;
+Verse_Ch: 5:14 我在会众和大会里，几乎落在诸般的恶中。 ###EN### I was almost into every evil In the midst of the congregation and assembly.
+Verse_Ch: 5:15 你要喝自己池中的水，饮自己井里流动的水。 ###EN### Drink waters out of your own cistern, And running water out of your own well.
+Verse_Ch: 5:16 你的泉源岂可涨溢在外，如同溪水流在街上？ ###EN### Should your springs be shed forth, Like streams of water in the streets?
+Verse_Ch: 5:17 这水惟独归你一人，不可与别人同用。 ###EN### Let them be yours alone, And not for strangers with you.
+Verse_Ch: 5:18 要使你的泉源蒙福；要喜悦你少年所娶的妻， ###EN### Let your fountain be blessed, And rejoice in the wife of your youth,
+Verse_Ch: 5:19 她如可爱的麀鹿，可喜的母鹿；愿她的胸怀使你时时满足，她的爱情使你常常迷恋。 ###EN### A lovely hind and a graceful doe. Let her breasts satisfy you at all times. May you be ravished with her love always.
+Verse_Ch: 5:20 我儿，你为何迷恋淫妇？为何抱外女的胸怀？ ###EN### For why should you be ravished, my son, with a strange woman And embrace the bosom of an adulteress?
+Verse_Ch: 5:21 因为人的道路都在耶和华眼前，祂也考量人一切的途径。 ###EN### For the ways of a man are before the eyes of Jehovah, And He ponders all his paths.
+Verse_Ch: 5:22 恶人必被自己的罪孽捉住，他必被自己罪恶的绳索缠绕。 ###EN### The wicked man is taken by his own iniquities, And he is held fast by the cords of his own sin.
+Verse_Ch: 5:23 他因不受训诲就必死亡，又因愚妄过甚，必走迷了路。 ###EN### He will die for lack of instruction, And in the greatness of his folly he will go astray.
+Chapter_Header: 6
+Verse_Ch: 6:1 我儿，你若为邻舍作保，替生人击掌担保， ###EN### My son, if you have become a surety for your neighbor, If you have given your hands as a pledge for a stranger,
+Verse_Ch: 6:2 你就被口中的话语缠住，被嘴里的言语捉住。 ###EN### You are snared by the words of your mouth; You are caught by the words of your mouth.
+Verse_Ch: 6:3 我儿，你既落在邻舍手中，就当这样行才可救自己：你要去，降卑自己，恳求你的邻舍。 ###EN### Do this now, my son, and deliver yourself, Since you have come into the hand of your neighbor: Go, humble yourself, and plead with your neighbor.
+Verse_Ch: 6:4 不容你的眼睛睡觉，不容你的眼皮打盹。 ###EN### Do not give sleep to your eyes, Nor slumber to your eyelids.
+Verse_Ch: 6:5 要救自己，如羚羊脱离猎户的手，如鸟脱离捕鸟人的手。 ###EN### Deliver yourself like a gazelle from the hunter's hand And like a bird from the fowler's hand.
+Verse_Ch: 6:6 懒惰人哪，你去察看蚂蚁的行径，就可得智慧。 ###EN### Go to the ant, you sluggard; Consider its ways, and be wise,
+Verse_Ch: 6:7 蚂蚁没有元帅，没有官长，没有统管， ###EN### Which, having no chief, Officer, or ruler,
+Verse_Ch: 6:8 尚且在夏天预备食物，在收割时聚敛粮食。 ###EN### Prepares its food in summer And gathers its sustenance in the harvest.
+Verse_Ch: 6:9 懒惰人哪，你要躺卧到几时呢？你何时睡醒起来呢？ ###EN### How long, sluggard, will you lie there? When will you arise from your sleep?
+Verse_Ch: 6:10 再睡片时，打盹片时，抱着手躺卧片时， ###EN### A little sleep, a little slumber, A little folding of the hands to rest,
+Verse_Ch: 6:11 你的贫穷就必如强盗来临，你的缺乏就必如拿兵器的人来到。 ###EN### And your poverty will come upon you like a robber, And your want, like an armed man.
+Verse_Ch: 6:12 卑劣之徒，作恶之人，行事满口乖僻， ###EN### A worthless man, a wicked man, Goes around with a perverse mouth,
+Verse_Ch: 6:13 挤眉弄眼，用脚示意，用指点划， ###EN### Winking with his eyes, signaling with his feet, Pointing with his fingers;
+Verse_Ch: 6:14 心存乖僻，常设恶谋，布散纷争。 ###EN### With perverseness in his heart, he is devising evil continually; He injects discord.
+Verse_Ch: 6:15 所以，灾难必忽然临到；他必顷刻破败，无法可治。 ###EN### Therefore his calamity will come suddenly; In a moment he will be broken, and there will be no remedy.
+Verse_Ch: 6:16 耶和华所恨恶的有六样，连祂魂所憎恶的共有七样， ###EN### There are six things that Jehovah hates; Indeed, seven that are an abomination to His soul:
+Verse_Ch: 6:17 就是高傲的眼、撒谎的舌、流无辜人血的手、 ###EN### Haughty eyes, a lying tongue, And hands that shed innocent blood,
+Verse_Ch: 6:18 图谋恶计的心、飞跑行恶的脚、 ###EN### A heart that devises wicked schemes, Feet that hurry to run to evil,
+Verse_Ch: 6:19 吐谎言的假见证人、并在弟兄中布散纷争的人。 ###EN### A false witness who utters lies, And one who injects discord among brothers.
+Verse_Ch: 6:20 我儿，要谨守你父亲的诫命，不可离弃你母亲的指教， ###EN### My son, keep the commandment of your father, And do not reject the teaching of your mother;
+Verse_Ch: 6:21 要常系在你心上，绑在你颈项上。 ###EN### Bind them continually on your heart; Tie them around your neck.
+Verse_Ch: 6:22 你行走，它必引导你；你躺卧，它必看守你；你睡醒，它必与你谈论。 ###EN### When you walk about, it will guide you, When you lie down, it will watch over you; And when you awake, it will talk with you.
+Verse_Ch: 6:23 因为诫命是灯，指教是光，训诲的责备是生命的道路， ###EN### For the commandment is a lamp, and the teaching a light, And the reproofs of instruction are the way of life,
+Verse_Ch: 6:24 能保守你远离恶妇，远离外女油滑的舌头。 ###EN### To keep you from the evil woman, From the smooth tongue of the adulteress.
+Verse_Ch: 6:25 你心中不要贪恋她的美色，也不要被她的眼皮勾引； ###EN### Do not desire her beauty in your heart, Nor let her catch you with her eyelids;
+Verse_Ch: 6:26 因为妓女的代价只是一块饼；淫妇却猎取人宝贵的性命。 ###EN### For the price of a harlot is a loaf of bread, But the wife of another man hunts for the precious soul.
+Verse_Ch: 6:27 人若怀里搋火，衣服岂能不烧着呢？ ###EN### Can a man take fire in his bosom And his clothes not be burned?
+Verse_Ch: 6:28 人若在火炭上走，脚岂能不灼伤呢？ ###EN### Can a man walk on hot coals And his feet not be scorched?
+Verse_Ch: 6:29 与邻舍之妻同寝的，也是如此；凡挨触她的，必难免受罚。 ###EN### So it is with him who goes in to his neighbor's wife; No one who touches her will be unpunished.
+Verse_Ch: 6:30 贼因饥饿偷窃充饥，人不藐视他； ###EN### The thief is not despised if he steals To satisfy himself when he is hungry;
+Verse_Ch: 6:31 他若被发现，就要赔还七倍，要将家中所有的尽都交出。 ###EN### But if he is found out, he shall restore sevenfold; He must give over all the substance of his house.
+Verse_Ch: 6:32 与妇人行淫的，便是无知；行这事的，自毁性命。 ###EN### He who commits adultery with a woman lacks sense; He who does it destroys his own soul.
+Verse_Ch: 6:33 他必受伤损，遭凌辱；他的羞耻不得涂抹。 ###EN### He will find wounds and dishonor, And his reproach will not be wiped away.
+Verse_Ch: 6:34 因为嫉恨乃是男人的烈怒，在报仇的日子绝不留情。 ###EN### For jealousy is the rage of a man, And he will not spare in the day of vengeance.
+Verse_Ch: 6:35 什么赎价，他都不顾；你虽送许多礼物，他也不肯干休。 ###EN### He will not regard any ransom, Nor will he be content if you give him great gifts.
+Chapter_Header: 7
+Verse_Ch: 7:1 我儿，你要遵守我的言语，将我的诫命珍藏在你里面。 ###EN### My son, keep my words, And treasure up my commandments within you.
+Verse_Ch: 7:2 要遵守我的诫命，就得存活；保守我的指教，好像保守眼中的瞳人。 ###EN### Keep my commandments, and live; And my teaching, like the apple of your eye.
+Verse_Ch: 7:3 系在你指头上，写在你心版上。 ###EN### Bind them on your fingers; Write them on the tablet of your heart.
+Verse_Ch: 7:4 要对智慧说，你是我的姊妹，要称呼聪明为密友， ###EN### Say to wisdom, You are my sister, And call understanding your close friend,
+Verse_Ch: 7:5 好保守你远离淫妇，远离说谄媚话的外女。 ###EN### That they may keep you from the strange woman, From the adulteress who flatters with her words.
+Verse_Ch: 7:6 曾在我房屋的窗户内，从我窗棂之间往外观看， ###EN### For at the window of my house I looked out through my lattice,
+Verse_Ch: 7:7 见愚蒙人内，少年人中，分明有一个无知的少年人， ###EN### And I saw among the simple ones, I discerned among the youths, A young man lacking sense,
+Verse_Ch: 7:8 从街上经过，走近淫妇的巷口，步上通往她家的路， ###EN### Passing along the street near her corner; And he takes the way to her house,
+Verse_Ch: 7:9 在黄昏，或晚上，或半夜，或黑暗之中。 ###EN### In the twilight, in the evening of the day, In the deep of night and darkness.
+Verse_Ch: 7:10 有一个妇人来迎接他，是妓女的打扮，心怀诡诈。 ###EN### And there comes a woman to meet him, Dressed as a harlot and cunning of heart.
+Verse_Ch: 7:11 这妇人喧嚷，任性不羁，在家里停不住脚－ ###EN### She is rowdy and defiant; Her feet do not stay at home -
+Verse_Ch: 7:12 有时在街市上，有时在宽阔处，或在各巷口蹲伏等候； ###EN### Now in the street, now in the squares, And at every corner she lies in wait.
+Verse_Ch: 7:13 她拉住那少年人，与他亲嘴，厚颜无耻的对他说， ###EN### And she grabs him and kisses him; And with an impudent face she says to him,
+Verse_Ch: 7:14 我原要献祭，今日才还了所许的愿。 ###EN### I had to make offerings; Today I have paid my vows.
+Verse_Ch: 7:15 因此，我出来迎接你，恳切要见你的面，果然遇见了你。 ###EN### Therefore I have come out to meet you, To earnestly seek your presence; and I have found you.
+Verse_Ch: 7:16 我已经用毯子和埃及细麻织的花纹布，铺了我的床； ###EN### I have decked my couch with coverings, Colored spreads of the linen of Egypt;
+Verse_Ch: 7:17 我又用没药、沉香、桂皮，薰了我的榻。 ###EN### I have sprinkled my bed with myrrh, Aloes, and cinnamon.
+Verse_Ch: 7:18 你来，我们可以饱尝爱情，直到早晨；我们可以彼此亲爱欢乐。 ###EN### Come, let us drink our fill of love until the morning; Let us delight ourselves with love.
+Verse_Ch: 7:19 因为我丈夫不在家，出门行远路。 ###EN### For my husband is not at home; He has gone on a long journey.
+Verse_Ch: 7:20 他手拿银囊，到月望才回家。 ###EN### He has taken the money bag with him; He will come home at the full moon.
+Verse_Ch: 7:21 淫妇用许多花言巧语诱惑他，用谄媚的话哄逼他。 ###EN### With her great persuasiveness she beguiles him; With her smooth talk she compels him.
+Verse_Ch: 7:22 少年人立刻跟随她，好像牛往宰杀之地，又像人带着锁炼去受愚妄人受的惩治， ###EN### He goes after her immediately, As an ox goes to the slaughter, Or as someone in fetters, to the correction of the fool,
+Verse_Ch: 7:23 直到箭穿他的肝；他如同雀鸟急投网罗，并不知这会自丧己命。 ###EN### Until an arrow pierces through his liver. As a bird hastens to the snare, So he does not know that this will cost him his life.
+Verse_Ch: 7:24 众子阿，现在要听从我，留心听我口中的话。 ###EN### And now, my sons, listen to me, And pay attention to the words of my mouth.
+Verse_Ch: 7:25 你的心不可偏向淫妇的道路，不要迷入她的途径。 ###EN### Do not let your heart turn aside to her ways; Do not stray into her paths.
+Verse_Ch: 7:26 因为被她伤害仆倒的不少，被她杀戮的甚多。 ###EN### For many are those whom she has brought down wounded, And numerous are all who have been slain by her.
+Verse_Ch: 7:27 她的家是通往阴间的道路，下到死亡的密宫。 ###EN### Her house is the way to Sheol, Going down to the chambers of death.
+Chapter_Header: 8
+Verse_Ch: 8:1 智慧岂不呼叫？聪明岂不扬声？ ###EN### Does not wisdom call, And understanding lift up her voice?
+Verse_Ch: 8:2 她在路旁高处的顶上，在十字路口站立； ###EN### On the top of the heights, by the way, Where the paths meet, she takes her stand;
+Verse_Ch: 8:3 在城门旁，在城门口，在城门的出入处大声呼喊： ###EN### Beside the gates, at the entry of the city, At the entrance of the doors, she cries aloud:
+Verse_Ch: 8:4 众人哪，我呼叫你们，我向世人发声，说， ###EN### To you, O men, I call; And my voice is to the sons of men.
+Verse_Ch: 8:5 愚蒙人哪，你们要会悟灵明；愚昧人哪，你们当心里明白。 ###EN### O simple ones, understand prudence; And, O fools, be of an understanding heart.
+Verse_Ch: 8:6 你们当听，因我要说尊高的事；我张嘴要论正直的事。 ###EN### Hear, for I will speak noble things; And the opening of my lips will yield right things.
+Verse_Ch: 8:7 我的口要发出真理，我的嘴憎恶邪恶。 ###EN### For my mouth will utter truth, And wickedness is an abomination to my lips.
+Verse_Ch: 8:8 我口中的言语都是公义，其中并无弯曲乖僻。 ###EN### All the words of my mouth are in righteousness; There is nothing twisted or crooked in them.
+Verse_Ch: 8:9 这些言语对明达的人，是正直的；对有知识的人，是正确的。 ###EN### They are all straight to him who understands, And right to those who find knowledge.
+Verse_Ch: 8:10 你们当受我的训诲，不受银子；宁得知识，胜得精金。 ###EN### Receive my instruction, and not silver; And knowledge rather than choice gold.
+Verse_Ch: 8:11 因为智慧比珊瑚更美，一切可喜爱的都不足与比较。 ###EN### For wisdom is better than corals, And nothing that you desire compares with her.
+Verse_Ch: 8:12 我智慧与灵明同居，又寻得知识和谋略。 ###EN### I, wisdom, dwell with prudence, And I find knowledge and discretion.
+Verse_Ch: 8:13 敬畏耶和华就要恨恶邪恶；骄傲、狂妄、恶道、以及乖谬的口，都为我所恨恶。 ###EN### The fear of Jehovah is to hate evil; Pride and arrogance and the evil way And the perverse mouth, I hate.
+Verse_Ch: 8:14 我有计谋和真智慧；我乃聪明，我有能力。 ###EN### Counsel is mine and sound wisdom; I am understanding; I have might.
+Verse_Ch: 8:15 帝王藉我掌权，君王藉我定公平。 ###EN### By me kings reign, And rulers decree justice.
+Verse_Ch: 8:16 首领和贵胄－世上一切公正的审判官，都是藉我掌权。 ###EN### By me princes rule, And nobles-all who judge righteously.
+Verse_Ch: 8:17 爱我的，我也爱他；殷切寻求我的，就必寻见。 ###EN### I love those who love me, And those who seek me diligently will find me.
+Verse_Ch: 8:18 丰富和尊荣在我，恒久的赀财和公义也在我。 ###EN### Riches and honor are with me, Enduring wealth and righteousness.
+Verse_Ch: 8:19 我的果实胜过金子，强如精金；我的出产超乎精选的银子。 ###EN### My fruit is better than gold, even fine gold; And my yield than choice silver.
+Verse_Ch: 8:20 我走在公义的道路上，行在公平的途径中， ###EN### I walk in the way of righteousness, In the midst of the paths of justice,
+Verse_Ch: 8:21 使爱我的承受资产，并充满他们的府库。 ###EN### That I may cause those who love me to inherit substance And that I may fill their treasuries.
+Verse_Ch: 8:22 耶和华在祂造化的起头，在太初造作万物之先，就有了我。 ###EN### Jehovah possessed me in the beginning of His way, Before His works of old.
+Verse_Ch: 8:23 从亘古，从太初，未有大地以前，我已被立。 ###EN### I was set up from eternity, From the beginning, before the earth was.
+Verse_Ch: 8:24 未有深渊，未有满溢的水泉以先，我已生出。 ###EN### When there were no depths, I was brought forth, When there were no fountains abounding with water.
+Verse_Ch: 8:25 大山未曾奠定，小山未有以先，我已生出； ###EN### Before the mountains were settled, Before the hills, I was brought forth;
+Verse_Ch: 8:26 那时耶和华还没有造出大地和田野，并世上最初的尘土。 ###EN### When He had not yet made the earth and the fields, Nor the first dust of the world.
+Verse_Ch: 8:27 祂立诸天，我在那里；祂在渊面周围，画出圆圈， ###EN### When He established the heavens, I was there; When He inscribed a circle upon the surface of the deep,
+Verse_Ch: 8:28 上使穹苍坚硬，下使渊源稳固， ###EN### When He made firm the skies above, When the fountains of the deep became strong,
+Verse_Ch: 8:29 为沧海定出界限，使水不越过祂的命令，画定大地的根基； ###EN### When He set for the sea its boundary, That the waters should not transgress His commandment, When He marked out the foundations of the earth;
+Verse_Ch: 8:30 那时我在祂旁边为工师，日日为祂所喜爱，常常在祂面前欢跃， ###EN### Then I was by Him, as a master workman; And I was daily His delight, Rejoicing always before Him,
+Verse_Ch: 8:31 欢跃于祂所预备居人之地；并且世人是我所喜爱的。 ###EN### Rejoicing in His habitable earth; And my delight was in the sons of men.
+Verse_Ch: 8:32 众子阿，现在要听从我；因为谨守我道路的，便为有福。 ###EN### Now therefore, my sons, listen to me; For blessed are they who keep my ways.
+Verse_Ch: 8:33 要听训诲，要有智慧，不可轻忽。 ###EN### Hear instruction, and be wise; And do not neglect it.
+Verse_Ch: 8:34 听从我，日日在我门口儆醒，在我门框旁边守候的，那人便为有福。 ###EN### Blessed is the man who listens to me, Watching daily at my doors, Waiting at my doorposts.
+Verse_Ch: 8:35 因为寻得我的，就寻得生命，也必从耶和华得恩惠。 ###EN### For whoever finds me finds life, And will obtain favor from Jehovah.
+Verse_Ch: 8:36 但得罪我的，却害自己的性命；恨恶我的，都喜爱死亡。 ###EN### But he who sins against me wrongs his own soul; All who hate me love death.
+Chapter_Header: 9
+Verse_Ch: 9:1 智慧建造房屋，凿出七根柱子； ###EN### Wisdom has built her house; She has hewn out her seven pillars;
+Verse_Ch: 9:2 她宰牲调酒，设摆筵席； ###EN### She has slaughtered her beasts; She has mingled her wine; She has also set her table;
+Verse_Ch: 9:3 打发使女出去，自己在城中至高处呼叫，说， ###EN### She has sent forth her maidens; She calls from the highest places of the city:
+Verse_Ch: 9:4 谁是愚蒙人，可以转到这里来。又对那无知的人说， ###EN### Whoever is simple, let him turn in here; As for him who lacks sense, she says to him,
+Verse_Ch: 9:5 你们来，吃我的饼，喝我调和的酒； ###EN### Come, eat of my bread, And drink of the wine which I have mingled.
+Verse_Ch: 9:6 你们要舍弃愚蒙，就得存活，并要走聪明的道路。 ###EN### Forsake foolishness, and live, And walk in the way of understanding.
+Verse_Ch: 9:7 指正亵慢人的，必受羞辱；责备恶人的，必遭玷污。 ###EN### He who corrects a scorner gets dishonor for himself, And he who reproves a wicked man blemishes himself.
+Verse_Ch: 9:8 不要责备亵慢人，免得他恨你；要责备智慧人，他必爱你。 ###EN### Do not reprove a scorner, lest he hate you; Reprove a wise man, and he will love you.
+Verse_Ch: 9:9 指教智慧人，他就越发有智慧；指示义人，他就增长学识。 ###EN### Impart something to a wise man, and he will become wiser still; Teach a righteous man, and he will increase in learning.
+Verse_Ch: 9:10 敬畏耶和华是智慧的开端，认识至圣者便是聪明。 ###EN### The fear of Jehovah is the beginning of wisdom, And the knowledge of the Holy One is understanding.
+Verse_Ch: 9:11 你借着我，日子必增多，一生的年岁也必加添。 ###EN### For by me your days will be multiplied, And the years of your life will be increased.
+Verse_Ch: 9:12 你若有智慧，是与自己有益；你若亵慢，就必独自担当后果。 ###EN### If you are wise, you are wise for yourself; And if you are scornful, you alone will bear it.
+Verse_Ch: 9:13 愚昧妇人喧嚷；她是愚蒙，一无所知。 ###EN### The woman Foolishness is rowdy; She is simple and knows nothing.
+Verse_Ch: 9:14 她坐在自己的家门口，坐在城中高处的座位上， ###EN### And she sits at the door of her house, On a seat in the heights of the city,
+Verse_Ch: 9:15 呼叫过路的，就是直行其道的人，说， ###EN### To call to those who pass by, Who go straight on their ways:
+Verse_Ch: 9:16 谁是愚蒙人，可以转到这里来。 ###EN### Whoever is simple, let him turn in here; And as for him who lacks sense, she says to him,
+Verse_Ch: 9:17 又对那无知的人说，偷来的水是甜的，暗得的饼是好的。 ###EN### Stolen waters are sweet, And bread gotten in secret is pleasant.
+Verse_Ch: 9:18 人却不知有阴魂在她那里，她的客人在阴间的深处。 ###EN### But he does not know that the dead are there, That her guests are in the depths of Sheol.
+Chapter_Header: 10
+Verse_Ch: 10:1 所罗门的箴言：智慧之子使父亲喜乐；愚昧之子叫母亲忧愁。 ###EN### The proverbs of Solomon. A wise son makes a father glad, But a foolish son is a grief to his mother.
+Verse_Ch: 10:2 不义之财毫无益处；惟有公义能救人脱离死亡。 ###EN### Treasures of wickedness profit nothing, But righteousness delivers from death.
+Verse_Ch: 10:3 耶和华不让义人受饥饿；但恶人所欲的，祂必推开。 ###EN### Jehovah will not allow the soul of the righteous man to go hungry, But he thrusts away the desire of the wicked.
+Verse_Ch: 10:4 闲懒的手，造成贫穷；殷勤的手，使人富足。 ###EN### A slack hand causes poverty, But the hand of the diligent makes rich.
+Verse_Ch: 10:5 夏天聚敛的，是明智之子；收割时睡觉的，是贻羞之子。 ###EN### He who gathers in summer is a prudent son, But he who sleeps at harvest time is a son who brings shame.
+Verse_Ch: 10:6 祝福临到义人的头；恶人的口包藏强暴。 ###EN### Blessings are upon the head of the righteous man, But the mouth of the wicked conceals violence.
+Verse_Ch: 10:7 义人的记念被称赞；恶人的名字必朽烂。 ###EN### The memory of the righteous man is blessed, But the name of the wicked will rot.
+Verse_Ch: 10:8 心中有智慧的，必受命令；说话愚妄的，必致倾倒。 ###EN### The wise in heart will receive commandments, But the foolish in speech will be cast down.
+Verse_Ch: 10:9 行为纯全的，步步安稳；道路弯曲的，必致败露。 ###EN### He who walks in integrity walks securely, But he who perverts his ways will be known.
+Verse_Ch: 10:10 挤眉弄眼的，使人忧伤；说话愚妄的，必致倾倒。 ###EN### He who winks with the eye causes grief, And the foolish in speech will be cast down.
+Verse_Ch: 10:11 义人的口是生命的泉源；恶人的口包藏强暴。 ###EN### The mouth of the righteous man is a fountain of life, But the mouth of the wicked conceals violence.
+Verse_Ch: 10:12 恨能挑启争端；爱能遮掩一切过错。 ###EN### Hatred stirs up strife, But love covers all transgressions.
+Verse_Ch: 10:13 聪明人嘴里有智慧；无知人背上受刑杖。 ###EN### In the lips of one who has understanding wisdom is found, But a rod is for the back of him who lacks sense.
+Verse_Ch: 10:14 智慧人珍藏知识；愚妄人的口速致败坏。 ###EN### Wise men treasure up knowledge, But the mouth of a fool is imminent destruction.
+Verse_Ch: 10:15 富户的财物是他的坚城；穷人的贫乏是他的败坏。 ###EN### The rich man's substance is his strong city; The ruin of the poor is their poverty.
+Verse_Ch: 10:16 义人的工价引到生命；恶人的进项引到罪恶。 ###EN### The wages of the righteous man lead to life; The income of the wicked man, to sin.
+Verse_Ch: 10:17 谨守训诲的，乃在生命的途径上；离弃责备的，便失迷了路。 ###EN### He who heeds instruction is on the path of life, But he who forsakes reproof goes astray.
+Verse_Ch: 10:18 包藏怨恨的，有说谎的嘴唇；口出谗谤的，是愚昧的人。 ###EN### He who conceals hatred has lying lips, And he who utters slander is a fool.
+Verse_Ch: 10:19 多言多语难免有过；约束嘴唇乃为明智。 ###EN### When there are many words transgression does not cease, But he who restrains his lips is prudent.
+Verse_Ch: 10:20 义人的舌如同精选的银子；恶人的心所值无几。 ###EN### The tongue of the righteous man is like choice silver; The heart of the wicked is worth little.
+Verse_Ch: 10:21 义人的嘴喂养多人；愚妄人因无知而死亡。 ###EN### The lips of the righteous man feed many, But fools die for lack of sense.
+Verse_Ch: 10:22 耶和华所赐的福使人富足，并不加上忧愁。 ###EN### It is the blessing of Jehovah that makes rich, And He adds no sorrow with it.
+Verse_Ch: 10:23 愚昧人以施行恶计为戏耍；聪明人却以智慧为乐。 ###EN### Carrying out a wicked scheme is like sport to a fool, But so is wisdom to a man of understanding.
+Verse_Ch: 10:24 恶人所怕的，必临到他；义人所愿的，必蒙赐与。 ###EN### The fear of the wicked man will come upon him, And the desire of the righteous will be granted.
+Verse_Ch: 10:25 暴风一过，恶人归于无有；义人却有永久的根基。 ###EN### When the whirlwind passes, the wicked man is no more; But the righteous man is an everlasting foundation.
+Verse_Ch: 10:26 懒惰人叫差他的人如醋倒牙，如烟薰目。 ###EN### Like vinegar to the teeth and like smoke to the eyes, So is the sluggard to those who send him.
+Verse_Ch: 10:27 敬畏耶和华使人日子加多；但恶人的年岁必被减少。 ###EN### The fear of Jehovah prolongs days, But the years of the wicked will be shortened.
+Verse_Ch: 10:28 义人的盼望必得喜乐；恶人的指望必至灭没。 ###EN### The hope of the righteous is joy, But the expectation of the wicked will perish.
+Verse_Ch: 10:29 耶和华的道路是纯全人的保障，却成了作孽人的败坏。 ###EN### The way of Jehovah is a stronghold to the upright, But it is ruin to the workers of iniquity.
+Verse_Ch: 10:30 义人永不动摇；恶人不得住在地上。 ###EN### The righteous man will never be moved, But the wicked will not dwell in the land.
+Verse_Ch: 10:31 义人的口滋生智慧；乖谬的舌必被割断。 ###EN### The mouth of the righteous man brings forth wisdom, But the perverse tongue will be cut off.
+Verse_Ch: 10:32 义人的嘴能令人喜悦，恶人的口却说乖谬的话。 ###EN### The lips of the righteous man know what is acceptable, But the mouth of the wicked is perverse.
+Chapter_Header: 11
+Verse_Ch: 11:1 诡诈的天平为耶和华所憎恶；足重的法码为祂所喜悦。 ###EN### A false balance is an abomination to Jehovah, But a full weight is His delight.
+Verse_Ch: 11:2 骄傲来，羞耻也来；谦卑人却有智慧。 ###EN### When pride comes, then comes dishonor; But wisdom is with the humble.
+Verse_Ch: 11:3 正直人的纯全必引导自己；奸诈人的乖僻必毁灭自己。 ###EN### The integrity of the upright will guide them, But the perverseness of the treacherous will destroy them.
+Verse_Ch: 11:4 忿怒的日子赀财无益；惟有公义能救人脱离死亡。 ###EN### Riches do not profit in the day of wrath, But righteousness delivers from death.
+Verse_Ch: 11:5 完全人的义必使他的道路平直；但恶人必因自己的恶跌倒。 ###EN### The righteousness of the perfect man will make his way straight, But the wicked man will fall by his own wickedness.
+Verse_Ch: 11:6 正直人的义必拯救自己；奸诈人必陷在自己的贪欲中。 ###EN### The righteousness of the upright will deliver them, But the treacherous will be taken in their own craving.
+Verse_Ch: 11:7 恶人一死，他的指望必灭绝；罪人的盼望也必灭没。 ###EN### When a wicked man dies, his expectation will perish; And the hope of the strong perishes.
+Verse_Ch: 11:8 义人得拯救脱离患难，有恶人来代替他。 ###EN### The righteous man is delivered out of trouble, And the wicked man comes into it instead of him.
+Verse_Ch: 11:9 不虔敬的人用口败坏邻舍；义人却因知识得救。 ###EN### With his mouth the profane man destroys his neighbor, But through knowledge the righteous will be delivered.
+Verse_Ch: 11:10 义人得福，合城欢欣；恶人灭亡，人都欢呼。 ###EN### When it goes well with the righteous, the city exults; And when the wicked perish, there is a ringing shout.
+Verse_Ch: 11:11 因正直人祝福，城得高举；因邪恶人的口，城就倾覆。 ###EN### By the blessing of the upright the city is exalted, But it is torn down by the mouth of the wicked.
+Verse_Ch: 11:12 藐视邻舍的乃为无知，聪明人却静默不言。 ###EN### He who despises his neighbor lacks sense, But a man of understanding keeps silent.
+Verse_Ch: 11:13 往来搬弄是非的，泄漏秘密；灵里忠信的，遮隐事情。 ###EN### He who goes about as a gossip reveals secrets, But he who is of a faithful spirit conceals a matter.
+Verse_Ch: 11:14 无智谋，民就败落；谋士多，民就安全。 ###EN### Where no sound counsel is, the people fall; But in the multitude of counselors there is safety.
+Verse_Ch: 11:15 为生人作保的，必受亏损；恨恶担保的，却得安稳。 ###EN### He who is surety for a stranger will surely be troubled, But he who hates giving pledges is secure.
+Verse_Ch: 11:16 恩德的妇女取得尊荣；强暴的男子取得赀财。 ###EN### A gracious woman lays hold of honor, And violent men lay hold of riches.
+Verse_Ch: 11:17 仁慈的人赏报己魂；残忍的人扰害己身。 ###EN### The merciful man rewards his own soul, But the cruel troubles his own flesh.
+Verse_Ch: 11:18 恶人赚得虚谎的工价；播种公义的，得真实的酬报。 ###EN### The wicked man earns deceitful wages, But he who sows righteousness gets a true reward.
+Verse_Ch: 11:19 恒心为义的，必得生命；追求邪恶的，必致死亡。 ###EN### He who is steadfast in righteousness shall attain to life, And he who pursues evil advances to his own death.
+Verse_Ch: 11:20 心中乖僻的，为耶和华所憎恶；行径完全的，为祂所喜悦。 ###EN### Those who are perverse in heart are an abomination to Jehovah, But those who are perfect in their way are His delight.
+Verse_Ch: 11:21 你要确信，恶人必不免受罚；义人的后裔必得拯救。 ###EN### Be assured: The evil man will not go unpunished; But the seed of the righteous will be delivered.
+Verse_Ch: 11:22 妇女美貌而无见识，如同金环戴在猪鼻上。 ###EN### Like a nose-ring of gold in a pig's snout, So is a beautiful woman who is without discretion.
+Verse_Ch: 11:23 义人的愿望尽是美好；恶人的指望遭致忿怒。 ###EN### The desire of the righteous is only good, But the expectation of the wicked is wrath.
+Verse_Ch: 11:24 有人施散，却更增添；有人吝惜过度，反致穷乏。 ###EN### There is one who scatters and increases yet more, And there is one who withholds what is appropriate but ends up only in want.
+Verse_Ch: 11:25 好施舍的，必得丰裕；滋润人的，必得滋润。 ###EN### The blessing soul will prosper, And he who waters will also be watered himself.
+Verse_Ch: 11:26 屯积粮谷的，民必咒诅他；出卖粮谷的，祝福必临到他头上。 ###EN### As for him who withholds grain, the people will curse him; But blessing will be upon the head of him who sells it.
+Verse_Ch: 11:27 殷切求善的，就求得恩惠；惟独求恶的，恶必临到他身。 ###EN### He who diligently seeks good seeks favor; But as for him who searches after evil, it will come to him.
+Verse_Ch: 11:28 倚仗自己财物的必败落；但义人必发旺如青叶。 ###EN### He who trusts in his riches will fall, But the righteous will flourish like the green leaf.
+Verse_Ch: 11:29 扰害己家的，必承受清风；愚妄人必作心中有智慧之人的仆人。 ###EN### He who troubles his own house will inherit the wind, And a fool will be servant to the wise in heart.
+Verse_Ch: 11:30 义人所结的果子是生命树；有智慧的，必能得人。 ###EN### The fruit of the righteous man is a tree of life, And he who is wise wins souls.
+Verse_Ch: 11:31 义人在世尚且受报，恶人和罪人更是如此！ ###EN### If the righteous man will be recompensed on the earth, How much more the wicked man and the sinner!
+Chapter_Header: 12
+Verse_Ch: 12:1 喜爱管教的，就是喜爱知识；恨恶责备的，却是愚蠢。 ###EN### Whoever loves correction loves knowledge, But he who hates reproof is stupid.
+Verse_Ch: 12:2 善人必蒙耶和华的恩惠；设诡计的人，耶和华必定罪。 ###EN### A good man will obtain the favor of Jehovah, But a man of wicked devices He will condemn.
+Verse_Ch: 12:3 人靠邪恶不能坚立；义人的根必不动摇。 ###EN### A man will not be established by wickedness, But the root of the righteous will not be moved.
+Verse_Ch: 12:4 才德的妇人是丈夫的冠冕；贻羞的妇人，如同丈夫骨中的朽烂。 ###EN### A worthy woman is the crown of her husband, But she who brings shame is like rottenness in his bones.
+Verse_Ch: 12:5 义人的筹算是公平；恶人的计谋是诡诈。 ###EN### The thoughts of the righteous are just, But the counsels of the wicked are deceitful.
+Verse_Ch: 12:6 恶人的话埋伏要流人的血；正直人的口必拯救人。 ###EN### The words of the wicked lie in wait for blood, But the mouth of the upright will deliver them.
+Verse_Ch: 12:7 恶人倾覆，归于无有；义人的家，必站得住。 ###EN### The wicked are overthrown and are no more, But the house of the righteous will stand.
+Verse_Ch: 12:8 人必按自己的精明被称赞；心中乖谬的，必被藐视。 ###EN### A man will be praised according to his prudence, But he who is of a perverse heart will be despised.
+Verse_Ch: 12:9 被人轻贱，却有仆人，强如自尊，缺少食物。 ###EN### Better is he who is lightly esteemed and has a servant, Than he who honors himself and lacks bread.
+Verse_Ch: 12:10 义人顾惜他牲畜的命；恶人的心肠却是残忍。 ###EN### A righteous man regards the life of his beast, But the inward parts of the wicked are cruel.
+Verse_Ch: 12:11 耕种自己田地的，必得饱食；追随虚浮的，却是无知。 ###EN### He who tills his land will have plenty of bread, But he who pursues worthless things lacks sense.
+Verse_Ch: 12:12 恶人想望坏人的网罗；义人的根得以结实。 ###EN### The wicked man desires the catch of evil men, But the root of the righteous yields fruit.
+Verse_Ch: 12:13 恶人嘴中的过错是自己的网罗；但义人必从患难中出来。 ###EN### In the transgression of the lips there is a snare for the evil man, But the righteous man will come out of trouble.
+Verse_Ch: 12:14 人因口所结的果子，必饱得美福；人手所作的，必为自己的报应。 ###EN### A man will be satisfied with good by the fruit of his mouth, And the result of man's deeds will be rendered to him.
+Verse_Ch: 12:15 愚妄人所行的，在自己眼中看为正直，惟智慧人肯听劝戒。 ###EN### The way of a fool is right in his own eyes, But a wise man listens to counsel.
+Verse_Ch: 12:16 愚妄人的恼怒立时显露，惟精明人能忍辱藏羞。 ###EN### A fool's anger is known at once, But a prudent man conceals shame.
+Verse_Ch: 12:17 吐露真话的，说出公义；作假见证的，显出诡诈。 ###EN### He who utters truth tells forth righteousness; But a false witness, deceit.
+Verse_Ch: 12:18 有人说话浮躁，如刀刺人；智慧人的舌头却能医治人。 ###EN### There is one who speaks rashly like the piercings of a sword, But the tongue of the wise brings healing.
+Verse_Ch: 12:19 口吐真话，永远坚立；舌说谎言，只存片时。 ###EN### The lip of truth shall be established forever, But a lying tongue is only for a moment.
+Verse_Ch: 12:20 图谋恶事的，心存诡诈；策画和平的，便有喜乐。 ###EN### Deceit is in the heart of those who devise evil, But counselors of peace have joy.
+Verse_Ch: 12:21 义人不遭灾害；恶人满受祸患。 ###EN### No harm will happen to the righteous man, But the wicked are filled with trouble.
+Verse_Ch: 12:22 说谎言的嘴为耶和华所憎恶；行事忠信的，为祂所喜悦。 ###EN### Lying lips are an abomination to Jehovah, But those who deal faithfully are His delight.
+Verse_Ch: 12:23 精明人隐藏知识；愚昧人的心宣扬愚妄。 ###EN### A prudent man conceals knowledge, But the heart of fools proclaims folly.
+Verse_Ch: 12:24 殷勤人的手必掌权；懒惰的人必服苦役。 ###EN### The hand of the diligent will rule, But the slothful will be under forced labor.
+Verse_Ch: 12:25 人心忧虑，使心消沉；一句良言，使心喜乐。 ###EN### Anxiety in the heart of a man weighs it down, But a good word brings it joy.
+Verse_Ch: 12:26 义人引导他的邻舍；恶人的道路叫人失迷。 ###EN### The righteous man is a guide to his neighbor, But the way of the wicked leads them astray.
+Verse_Ch: 12:27 懒惰的人不烧烤猎物；殷勤的人却得宝贵的财物。 ###EN### The slothful man does not roast his game, But the precious substance of men is to the diligent.
+Verse_Ch: 12:28 在公义的道路上有生命；其路径之中并无死亡。 ###EN### In the way of righteousness is life, And in its pathway there is no death.
+Chapter_Header: 13
+Verse_Ch: 13:1 智慧之子听父亲的训诲；亵慢的人不听责备。 ###EN### A wise son hears his father's instruction, But a scorner does not listen to rebuke.
+Verse_Ch: 13:2 人因口所结的果子，必享美福；奸诈人的愿望乃是强暴。 ###EN### A man will eat good from the fruit of his mouth, But the desire of the treacherous is violence.
+Verse_Ch: 13:3 谨守口的，得保己命；大张嘴的，必致败坏。 ###EN### He who guards his mouth keeps his soul, But he who opens wide his lips will have destruction.
+Verse_Ch: 13:4 懒惰人羡慕，却无所得；殷勤人必得丰裕。 ###EN### The soul of the sluggard desires and has nothing, But the soul of the diligent will be made fat.
+Verse_Ch: 13:5 义人恨恶虚谎；恶人发臭蒙羞。 ###EN### A righteous man hates what is false, But a wicked man is odious and is confounded.
+Verse_Ch: 13:6 行径无可指摘的，有公义护卫；犯罪的，被邪恶倾覆。 ###EN### Righteousness guards him who is blameless in the way, But wickedness overthrows the sinner.
+Verse_Ch: 13:7 有人伪充富足，却一无所有；有人装作穷乏，却多有财物。 ###EN### There is one who pretends to be rich yet has nothing; There is one who pretends to be poor yet has great wealth.
+Verse_Ch: 13:8 人生命的赎价是他的财富，穷乏人却听不见威吓的话。 ###EN### The ransom of a man's life is his riches, But the poor hears no threatening.
+Verse_Ch: 13:9 义人的光必喜乐；恶人的灯却要熄灭。 ###EN### The light of the righteous rejoices, But the lamp of the wicked goes out.
+Verse_Ch: 13:10 傲慢只启争竞；接受劝言的，却有智慧。 ###EN### Through pride comes nothing but strife, But wisdom is with those who receive counsel.
+Verse_Ch: 13:11 不劳而得之财，必然消减；劳苦积蓄的，必见加增。 ###EN### Wealth obtained by vanity will be diminished, But he who gathers by labor increases it.
+Verse_Ch: 13:12 所盼望的迟延未得，令人心忧；所愿意的临到，乃是生命树。 ###EN### Hope deferred makes the heart sick, But when what is desired comes, it is a tree of life.
+Verse_Ch: 13:13 藐视训言的，自取灭亡；敬畏诫命的，必得赏报。 ###EN### Whoever despises the word brings destruction on himself, But he who fears the commandment will be rewarded.
+Verse_Ch: 13:14 智慧人的指教是生命的泉源，使人离开死亡的网罗。 ###EN### The teaching of the wise is a fountain of life, To turn one aside from the snares of death.
+Verse_Ch: 13:15 美好的聪明使人蒙恩；奸诈人的道路崎岖难行。 ###EN### Good understanding gives favor, But the way of the treacherous is hard.
+Verse_Ch: 13:16 凡精明人都凭知识行事；愚昧人张扬自己的愚妄。 ###EN### Every prudent man works with knowledge, But a fool displays his folly.
+Verse_Ch: 13:17 奸恶的使者必陷在祸患里；忠信的使臣却能医治人。 ###EN### A wicked messenger falls into evil, But a faithful envoy brings healing.
+Verse_Ch: 13:18 弃绝管教的，必致贫受辱；看重责备的，必得尊荣。 ###EN### Poverty and shame will come to him who refuses correction, But he who regards reproof will be honored.
+Verse_Ch: 13:19 所欲的成就，心觉甘甜；远离恶事，为愚昧人所憎恶。 ###EN### A desire accomplished is sweet to the soul, But it is an abomination to fools to depart from evil.
+Verse_Ch: 13:20 与智慧人同行的，必得智慧；和愚昧人作伴的，必受亏损。 ###EN### He who walks with wise men will be wise, But the companion of fools will be troubled.
+Verse_Ch: 13:21 祸患追赶罪人；美善赏报义人。 ###EN### Evil pursues sinners, But good recompenses the righteous.
+Verse_Ch: 13:22 善人给子孙遗留产业；罪人积存赀财，却归义人所有。 ###EN### A good man leaves an inheritance to his children's children, But the wealth of the sinner is stored up for the righteous man.
+Verse_Ch: 13:23 穷人开垦的地多产粮食，但因不义而被毁坏。 ###EN### The fallow ground of the poor yields much food, But it is destroyed through injustice.
+Verse_Ch: 13:24 不忍用杖打儿子的，是恨恶他；疼爱儿子的，趁早管教。 ###EN### He who spares his rod hates his son, But he who loves him chastens him early.
+Verse_Ch: 13:25 义人吃得心满意足；恶人肚腹缺粮。 ###EN### The righteous man eats to the satisfying of his soul, But the belly of the wicked will lack.
+Chapter_Header: 14
+Verse_Ch: 14:1 智慧妇人建立家室；愚妄妇人亲手拆毁。 ###EN### The wise woman builds her house, But the foolish one tears it down with her own hands.
+Verse_Ch: 14:2 行动正直的，敬畏耶和华；行事乖僻的，却藐视祂。 ###EN### He who walks in his uprightness fears Jehovah, But he who is perverse in his ways despises Him.
+Verse_Ch: 14:3 愚妄人口中骄傲，如杖责打己身；智慧人的嘴必保守自己。 ###EN### In the mouth of a fool is a rod for his pride, But the lips of the wise will preserve them.
+Verse_Ch: 14:4 家里无牛，槽头干净；但出产加多，乃凭牛力。 ###EN### Where no oxen are, the manger is clean, But much increase comes by the strength of the ox.
+Verse_Ch: 14:5 忠信的见证人不说谎话；假见证人吐出谎言。 ###EN### A faithful witness will not lie, But a false witness utters lies.
+Verse_Ch: 14:6 亵慢人寻找智慧，却寻不着；聪明人轻易得着知识。 ###EN### A scoffer seeks wisdom and finds none, But knowledge comes easily to one who has understanding.
+Verse_Ch: 14:7 当离开愚昧人的面，因为你不见他嘴中有知识。 ###EN### Go from the presence of a foolish man, For you will not perceive in him the lips of knowledge.
+Verse_Ch: 14:8 精明人的智慧在乎明白自己的道路；愚昧人的愚妄乃是诡诈。 ###EN### The wisdom of the prudent man is to understand his way, But the folly of fools is deceit.
+Verse_Ch: 14:9 赎愆祭讥诮愚妄人，正直人却互相喜悦。 ###EN### A trespass offering mocks fools, But among the upright there is good will.
+Verse_Ch: 14:10 心中的苦楚自己知道，心里的喜乐外人无分。 ###EN### The heart knows its own bitterness, And a stranger does not share in its joy.
+Verse_Ch: 14:11 奸恶人的房屋必倒毁；正直人的帐棚必兴盛。 ###EN### The house of the wicked will be destroyed, But the tent of the upright will flourish.
+Verse_Ch: 14:12 有一条路，人以为正，至终却是死亡之路。 ###EN### There is a way which seems right to a man, But the end of it is the ways of death.
+Verse_Ch: 14:13 人在喜笑中，心也伤痛；快乐至极就是愁苦。 ###EN### Even in laughter the heart is sorrowful, And the end of joy is grief.
+Verse_Ch: 14:14 心中退后的，必饱得自己行径的结果；善人必从自己得满足。 ###EN### The backslider in heart will be filled with his own ways, And a good man will be satisfied from himself.
+Verse_Ch: 14:15 愚蒙人凡话都信；精明人步步慎思。 ###EN### The simple man believes every word, But the prudent man considers his steps.
+Verse_Ch: 14:16 智慧人惧怕，就远离恶事；愚昧人却狂傲自恃。 ###EN### A wise man fears and departs from evil, But the fool is arrogant and is confident.
+Verse_Ch: 14:17 急躁易怒的，行事愚昧；设诡计的，被人恨恶。 ###EN### He who is quick to anger will deal foolishly, And a man of wicked devices is hated.
+Verse_Ch: 14:18 愚蒙人得愚妄为产业；精明人得知识为冠冕。 ###EN### The simple inherit folly, But the prudent are crowned with knowledge.
+Verse_Ch: 14:19 坏人俯伏在善人面前，恶人俯伏在义人门口。 ###EN### The evil bow down before the good, And the wicked, at the gates of the righteous man.
+Verse_Ch: 14:20 贫穷人连邻舍也恨他；富足人有许多朋友。 ###EN### The poor man is hated even by his own neighbor, But the rich man has many friends.
+Verse_Ch: 14:21 藐视邻舍的，这人有罪；恩待贫穷的，这人快乐。 ###EN### He who despises his neighbor sins, But happy is he who is gracious to the poor.
+Verse_Ch: 14:22 谋恶的，岂非走入迷途么？谋善的，必得慈爱和真实。 ###EN### Do not they who devise evil go astray? But lovingkindness and truth are with those who devise good.
+Verse_Ch: 14:23 诸般劳苦必有利益；嘴上徒言乃致穷乏。 ###EN### In all labor there is profit, But mere talk leads only to poverty.
+Verse_Ch: 14:24 智慧人的冠冕乃是他们的财富；愚昧人的愚妄终是愚妄。 ###EN### The crown of the wise is their riches, But the folly of fools is only folly.
+Verse_Ch: 14:25 作真见证的，救人性命；吐出谎言的，施行诡诈。 ###EN### A truthful witness delivers souls, But he who utters lies causes deceit.
+Verse_Ch: 14:26 敬畏耶和华的，有坚固的倚靠，他的儿女也有避难所。 ###EN### In the fear of Jehovah is strong confidence, And his children will have a place of refuge.
+Verse_Ch: 14:27 敬畏耶和华是生命的泉源，可以使人离开死亡的网罗。 ###EN### The fear of Jehovah is a fountain of life, That one may turn aside from the snares of death.
+Verse_Ch: 14:28 帝王荣耀在于民多；君王衰败在于民少。 ###EN### In a multitude of people is the king's glory, But in an absence of people is the ruin of the prince.
+Verse_Ch: 14:29 不轻易发怒的，大有聪明；灵里暴躁的，大显愚妄。 ###EN### He who is slow to anger is of great understanding, But he who has a hasty spirit exalts folly.
+Verse_Ch: 14:30 心中安静是肉体的生命；嫉妒是骨中的朽烂。 ###EN### A tranquil heart is life to the flesh, But envy is rottenness to the bones.
+Verse_Ch: 14:31 欺压贫寒的，是辱没造他的主；恩待穷乏的，乃是尊敬主。 ###EN### He who oppresses the poor reproaches his Maker, But he who is gracious to the needy honors Him.
+Verse_Ch: 14:32 恶人在自己的恶行上，必被推倒；义人临死，有所投靠。 ###EN### The wicked man is thrust down in his evildoing, But the righteous man has a refuge when he dies.
+Verse_Ch: 14:33 智慧安居在聪明人心中；愚昧人内里所存的，显而易见。 ###EN### Wisdom rests quietly in the heart of one who has understanding, But in the inward part of fools it makes itself known.
+Verse_Ch: 14:34 公义使邦国高举；罪恶是人民的羞辱。 ###EN### Righteousness exalts a nation, But sin is a reproach to any people.
+Verse_Ch: 14:35 明智的臣子蒙王恩惠；贻羞的仆人遭其盛怒。 ###EN### The king's favor is toward a servant who acts prudently, But his overflowing wrath will be toward him who causes shame.
+Chapter_Header: 15
+Verse_Ch: 15:1 回答柔和，使怒消退；言语暴戾，激起怒气。 ###EN### A soft answer turns away anger, But a grievous word stirs up anger.
+Verse_Ch: 15:2 智慧人的舌善发知识，愚昧人的口吐出愚妄。 ###EN### The tongue of the wise utters knowledge well, But the mouth of fools pours out folly.
+Verse_Ch: 15:3 耶和华的眼目无处不在；恶人善人，祂都鉴察。 ###EN### The eyes of Jehovah are in every place, Keeping watch on the evil and the good.
+Verse_Ch: 15:4 安慰人的舌是生命树；乖谬人的嘴使灵忧伤。 ###EN### A soothing tongue is a tree of life, But perverseness in it is a breaking of the spirit.
+Verse_Ch: 15:5 愚妄人藐视父亲的管教；领受责备的，乃是精明。 ###EN### A fool despises his father's correction, But he who regards reproof gets prudence.
+Verse_Ch: 15:6 义人的家中多有财宝；恶人的进项带来扰害。 ###EN### In the house of the righteous man there is much treasure, But in the income of the wicked there is trouble.
+Verse_Ch: 15:7 智慧人的嘴播扬知识；愚昧人的心并不如此。 ###EN### The lips of the wise disperse knowledge, But the heart of fools does not do so.
+Verse_Ch: 15:8 恶人献祭，为耶和华所憎恶；正直人祷告，为祂所喜悦。 ###EN### The sacrifice of the wicked is an abomination to Jehovah, But the prayer of the upright is His delight.
+Verse_Ch: 15:9 恶人的道路，为耶和华所憎恶；追求公义的，为祂所喜爱。 ###EN### The way of the wicked man is an abomination to Jehovah, But He loves one who pursues righteousness.
+Verse_Ch: 15:10 舍弃正路的，必受严惩；恨恶责备的，必致死亡。 ###EN### There is grievous correction for one who forsakes the way, And he who hates reproof will die.
+Verse_Ch: 15:11 阴间和灭亡尚且敞露在耶和华面前，何况世人的心呢！ ###EN### Sheol and Abaddon lie open before Jehovah. How much more the hearts of the children of men!
+Verse_Ch: 15:12 亵慢人不爱责备他的人，也不就近智慧人。 ###EN### A scorner does not love him who reproves him; He will not go to the wise.
+Verse_Ch: 15:13 心中喜乐，使面容焕发；心里忧愁，灵受损伤。 ###EN### A joyful heart makes a cheerful countenance, But by sorrow of heart the spirit is broken.
+Verse_Ch: 15:14 聪明人的心寻求知识；愚昧人的口以愚妄为粮。 ###EN### The heart of one who has understanding seeks knowledge, But the mouth of fools feeds on folly.
+Verse_Ch: 15:15 困苦人的日子，都是祸患；心中欢畅的，常享筵席。 ###EN### All the days of the afflicted are evil, But he who is of a cheerful heart has a continual feast.
+Verse_Ch: 15:16 少有财宝，敬畏耶和华，强如多有财宝，烦乱不安。 ###EN### Better is a little with the fear of Jehovah Than great treasure and turmoil with it.
+Verse_Ch: 15:17 吃素菜而彼此相爱，强如吃肥牛却带仇恨。 ###EN### Better is a dinner of vegetables where love is Than a fattened ox and hatred with it.
+Verse_Ch: 15:18 暴怒的人挑启争端；不轻易发怒的人止息纷争。 ###EN### A wrathful man stirs up contention, But he who is slow to anger quiets strife.
+Verse_Ch: 15:19 懒惰人的道路像荆棘的篱笆；正直人的路径是修平的大道。 ###EN### The way of the sluggard is like a hedge of thorns, But the path of the upright is paved.
+Verse_Ch: 15:20 智慧之子使父亲喜乐，愚昧的人藐视母亲。 ###EN### A wise son makes a father glad, But a foolish man despises his mother.
+Verse_Ch: 15:21 无知的人以愚妄为乐，聪明的人按正直而行。 ###EN### Folly is joy to him who lacks sense, But a man of understanding makes straight his going.
+Verse_Ch: 15:22 不先商议，所谋挫败；谋士众多，所谋成就。 ###EN### Where there is no counsel, plans are frustrated; But in the multitude of counselors they are established.
+Verse_Ch: 15:23 口善应对，自觉喜乐；言语合时，何等美好！ ###EN### A man has joy in the apt answer of his mouth; And a word in its season, how good it is!
+Verse_Ch: 15:24 生命的道路领智慧人向上，使他远离在下的阴间。 ###EN### To the wise man the way of life leads upward, That he may depart from Sheol below.
+Verse_Ch: 15:25 耶和华必拆毁骄傲人的家，却要立定寡妇的地界。 ###EN### Jehovah will tear down the house of the proud, But He will establish the territory of the widow.
+Verse_Ch: 15:26 邪恶的计谋为耶和华所憎恶，可喜悦的话乃为纯净。 ###EN### Evil plans are an abomination to Jehovah, But pleasant words are pure.
+Verse_Ch: 15:27 贪恋财利的，扰害己家；恨恶贿赂的，必得存活。 ###EN### He who is greedy for gain troubles his own house, But he who hates bribes will live.
+Verse_Ch: 15:28 义人的心，思量如何回答；恶人的口，吐出恶言。 ###EN### The heart of the righteous man ponders how to answer, But the mouth of the wicked pours out evil things.
+Verse_Ch: 15:29 耶和华远离恶人，却听义人的祷告。 ###EN### Jehovah is far from the wicked, But He hears the prayer of the righteous.
+Verse_Ch: 15:30 眼有光，使心喜乐；好信息，使骨滋润。 ###EN### The light of the eyes rejoices the heart, And good news makes the bones fat.
+Verse_Ch: 15:31 耳听生命责备的，必住在智慧人中。 ###EN### The ear that listens to the reproof of life Will lodge among the wise.
+Verse_Ch: 15:32 忽视管教的，轻看自己的性命；听从责备的，却得聪明。 ###EN### He who ignores instruction despises his own soul, But he who listens to reproof acquires understanding.
+Verse_Ch: 15:33 敬畏耶和华是智慧的训诲，尊荣以前必有谦卑。 ###EN### The fear of Jehovah is the instruction of wisdom, And humility comes before honor.
+Chapter_Header: 16
+Verse_Ch: 16:1 心中的筹画在于人，舌头的应对出于耶和华。 ###EN### The plans of the heart belong to man, But the answer of the tongue is from Jehovah.
+Verse_Ch: 16:2 人一切所行的，在自己眼中看为清洁，惟耶和华衡量人的灵。 ###EN### All the ways of a man are clean in his own eyes, But Jehovah weighs the spirits.
+Verse_Ch: 16:3 你所作的要交托耶和华，你所谋的就必成就。 ###EN### Commit your works to Jehovah, And your purposes will be established.
+Verse_Ch: 16:4 耶和华所造的，各有其目的，连恶人也是为祸患的日子所造。 ###EN### Jehovah has made everything for its own purpose, Yes, even the wicked for the day of evil.
+Verse_Ch: 16:5 凡心里骄傲的，为耶和华所憎恶；你要确信，他必不免受罚。 ###EN### Every one who is proud in heart is an abomination to Jehovah; Be assured: He will not be unpunished.
+Verse_Ch: 16:6 因怜悯真实，罪孽得蒙遮盖；因敬畏耶和华，人就远离恶事。 ###EN### By lovingkindness and truth iniquity is expiated, And by the fear of Jehovah men depart from evil.
+Verse_Ch: 16:7 人所行的若蒙耶和华喜悦，耶和华甚至使他的仇敌与他和好。 ###EN### When a man's ways please Jehovah, He causes even his enemies to be at peace with him.
+Verse_Ch: 16:8 少有进项却有公义，强如多有进项却无公理。 ###EN### Better is a little with righteousness, Than great income with injustice.
+Verse_Ch: 16:9 人心筹算自己的道路，惟耶和华指引他的脚步。 ###EN### A man's heart devises his way, But Jehovah directs his steps.
+Verse_Ch: 16:10 王的嘴中有神的判语；审判之时，他的口必不差错。 ###EN### A divine decision is on the lips of the king; His mouth will not transgress in judgment.
+Verse_Ch: 16:11 公道的天平和秤都属耶和华；囊中的一切法码都是祂所制定的。 ###EN### A just balance and just scales are Jehovah's; All the weights of the bag are His work.
+Verse_Ch: 16:12 作恶为王所憎恶，因国位是靠公义坚立。 ###EN### It is an abomination to kings to commit wickedness, For the throne is established by righteousness.
+Verse_Ch: 16:13 公义的嘴为王所喜悦，说话正直的，为王所喜爱。 ###EN### Righteous lips are the delight of kings, And they love one who speaks right.
+Verse_Ch: 16:14 王的震怒如死亡的使者，但智慧人能平息王怒。 ###EN### The wrath of a king is as messengers of death, But a wise man will appease it.
+Verse_Ch: 16:15 王的脸光使人有生命，王的恩宠好像春雨的云。 ###EN### In the light of the king's countenance is life, And his favor is like a cloud of the latter rain.
+Verse_Ch: 16:16 得智慧胜似得金子，得聪明比得银子更可取。 ###EN### How much better it is to acquire wisdom than gold, And to acquire understanding is to be chosen above silver.
+Verse_Ch: 16:17 正直人的道路是远离恶事；谨守自己道路的，保全自己的性命。 ###EN### The highway of the upright is to depart from evil; He who keeps his way preserves his soul.
+Verse_Ch: 16:18 骄傲在败坏以先；高傲的灵在跌倒之前。 ###EN### Pride goes before destruction, And a haughty spirit before a fall.
+Verse_Ch: 16:19 灵里谦卑与穷乏人来往，强如与骄傲人同分掳物。 ###EN### It is better to be of a lowly spirit with the poor, Than to divide the spoil with the proud.
+Verse_Ch: 16:20 留心训言的必得好处，信靠耶和华的便为有福。 ###EN### He who gives heed to the word will find good, And blessed is he who trusts in Jehovah.
+Verse_Ch: 16:21 心中有智慧的，必称为精明人；嘴中的甜言，加增说服力。 ###EN### The wise in heart will be called discerning, And the sweetness of speech increases persuasiveness.
+Verse_Ch: 16:22 人有智虑，智虑是他生命的泉源，但愚妄人必被愚妄惩治。 ###EN### Insight is a fountain of life to him who has it, But the correction of fools is folly.
+Verse_Ch: 16:23 智慧人的心教训他的口，又使他的嘴加增说服力。 ###EN### The heart of the wise man instructs his mouth And adds persuasiveness to his lips.
+Verse_Ch: 16:24 良言如同蜂房，使魂觉甘甜，使骨得医治。 ###EN### Pleasant words are a honeycomb, Sweet to the soul and healing to the bones.
+Verse_Ch: 16:25 有一条路，人以为正，至终却是死亡之路。 ###EN### There is a way which seems right to a man, But the end of it is the ways of death.
+Verse_Ch: 16:26 劳力人的胃口使他劳力，因为他的口腹催逼他。 ###EN### The appetite of the laboring man labors for him; For his mouth urges him on.
+Verse_Ch: 16:27 卑劣之徒挖出奸恶，嘴上仿佛有烧焦的火。 ###EN### A worthless man digs up evil, And on his lips there is a scorching fire.
+Verse_Ch: 16:28 乖僻的人播散纷争，传闲话的人离间密友。 ###EN### A perverse man spreads strife, And a whisperer separates close friends.
+Verse_Ch: 16:29 强暴人诱惑邻舍，领他走不善的道路。 ###EN### A man of violence entices his neighbor And leads him in a way that is not good.
+Verse_Ch: 16:30 眼目紧合的，是在图谋乖僻的事；嘴唇紧闭的，是要成就邪恶。 ###EN### He who shuts his eyes does so to devise perverse things; He who compresses his lips brings evil to pass.
+Verse_Ch: 16:31 白发是荣耀的冠冕，在公义的道路上必能得着。 ###EN### The gray head is a crown of glory; It will be found in the way of righteousness.
+Verse_Ch: 16:32 不轻易发怒的，胜过勇士；治服己灵的，强如取城。 ###EN### He who is slow to anger is better than the mighty; And he who rules his spirit, than he who captures a city.
+Verse_Ch: 16:33 签尽可投在怀里，一切决断却在于耶和华。 ###EN### The lot is cast into the lap, But everything it decides is from Jehovah.
+Chapter_Header: 17
+Verse_Ch: 17:1 有块干饼，平静安宁，强如设筵满屋，大家相争。 ###EN### Better is a dry morsel and quietness with it Than a house full of feasting with strife.
+Verse_Ch: 17:2 仆人办事聪明，必管辖贻羞之子，又在众兄弟中同分产业。 ###EN### A servant who deals wisely will rule over a son who causes shame, And will share in the inheritance among brothers.
+Verse_Ch: 17:3 鼎为炼银，炉为炼金；惟有耶和华熬炼人心。 ###EN### The refining pot is for silver and the furnace for gold, But Jehovah tries the hearts.
+Verse_Ch: 17:4 行恶的，留心听奸诈之言；说谎的，侧耳听邪恶之语。 ###EN### An evildoer gives heed to wicked lips, And a liar gives ear to a mischievous tongue.
+Verse_Ch: 17:5 戏笑穷人的，是辱没造他的主；幸灾乐祸的，必难免受罚。 ###EN### Whoever mocks the poor reproaches his Maker; He who rejoices at calamity will not go unpunished.
+Verse_Ch: 17:6 子孙为老人的冠冕，父亲是儿女的荣耀。 ###EN### Grandchildren are the crown of old men, And the glory of children is their fathers.
+Verse_Ch: 17:7 愚顽人说美言本不相宜，何况尊贵人说谎话呢？ ###EN### Excellent speech is not fitting for a fool; Much less are lying lips for a noble man.
+Verse_Ch: 17:8 贿赂在馈送的人眼中看如宝石，无论他转往何处，都得顺利。 ###EN### A bribe is like a precious stone in the eyes of its possessor: Wherever he turns, he prospers.
+Verse_Ch: 17:9 遮掩人过的，是寻求爱；重题旧事的，离间密友。 ###EN### He who covers a transgression seeks love, But he who repeats a matter separates close friends.
+Verse_Ch: 17:10 一句责备话深入聪明人的心，强如责打愚昧人一百下。 ###EN### A rebuke strikes deeper into him who has understanding Than a hundred stripes into a fool.
+Verse_Ch: 17:11 恶人只寻背叛；所以必有严厉的使者，奉差攻击他。 ###EN### An evil man seeks only rebellion; Therefore a cruel messenger will be sent against him.
+Verse_Ch: 17:12 宁可遇见丢崽子的母熊，不可遇见正行愚妄的愚昧人。 ###EN### Let a bear robbed of her cubs meet a man Rather than a fool in his folly.
+Verse_Ch: 17:13 以恶报善的，祸患必不离他的家。 ###EN### Whoever rewards evil for good, Evil will not depart from his house.
+Verse_Ch: 17:14 纷争的起头如水放泄；所以在争竞爆发之先，就当制止。 ###EN### The beginning of contention is like letting out water; Therefore abandon strife before it breaks out.
+Verse_Ch: 17:15 定恶人为义的，定义人为恶的，都为耶和华所憎恶。 ###EN### He who justifies the wicked man, and he who condemns the righteous man, Both of them are an abomination to Jehovah.
+Verse_Ch: 17:16 愚昧人既是无知，为何手拿价银买智慧呢？ ###EN### Why is there a price in the hand of a fool to buy wisdom, When he has no sense?
+Verse_Ch: 17:17 朋友时常亲爱，弟兄为患难而生。 ###EN### A friend loves at all times, And a brother is born for adversity.
+Verse_Ch: 17:18 在邻舍面前击掌作保的，乃是无知的人。 ###EN### A man lacking sense gives his hand as a pledge And becomes surety in the presence of his neighbor.
+Verse_Ch: 17:19 喜爱过犯的，喜爱争竞；高立门户的，自取败坏。 ###EN### He who loves transgression loves strife; He who raises high his entrance seeks destruction.
+Verse_Ch: 17:20 心存乖僻的，寻不着好处；舌弄是非的，陷在祸患中。 ###EN### He who has a crooked heart finds no good, And he who has a perverse tongue falls into evil.
+Verse_Ch: 17:21 生愚昧子的，给自己带来愁苦；愚顽人的父，毫无喜乐。 ###EN### He who begets a fool does so to his sorrow, And the father of a fool has no joy.
+Verse_Ch: 17:22 喜乐的心乃是良药，忧伤的灵使骨枯干。 ###EN### A joyful heart is good medicine, But a broken spirit dries up the bones.
+Verse_Ch: 17:23 恶人从人怀里受贿赂，为要歪曲公正的道路。 ###EN### A wicked man receives a bribe from the bosom, To pervert the ways of justice.
+Verse_Ch: 17:24 聪明人面前有智慧，愚昧人眼望地极。 ###EN### Wisdom is before the face of him who has understanding, But the eyes of a fool are on the ends of the earth.
+Verse_Ch: 17:25 愚昧之子使父亲愁烦，使生他的忧苦。 ###EN### A foolish son is a grief to his father, And bitterness to her who bore him.
+Verse_Ch: 17:26 惩罚义人为不善，责打正直的尊贵人，也为不善。 ###EN### To also punish the righteous man is not good, Nor to strike nobles for their uprightness.
+Verse_Ch: 17:27 克制言语的有知识，灵里冷静的有聪明。 ###EN### He who restrains his words has knowledge, And he who is cool in spirit is one who has understanding.
+Verse_Ch: 17:28 愚妄人静默不言可算为智慧；闭口不说可算为聪明。 ###EN### Even a fool, when he keeps silent, is counted wise; When he shuts his lips, he is counted prudent.
+Chapter_Header: 18
+Verse_Ch: 18:1 与众寡合的，寻求自己的心愿，并恼恨一切真智慧。 ###EN### He who separates himself seeks his own desire And rages against all sound wisdom.
+Verse_Ch: 18:2 愚昧人不喜爱聪明，只喜爱显露自己的心意。 ###EN### A fool has no delight in understanding, But only that his heart may reveal itself.
+Verse_Ch: 18:3 恶人来，藐视也来；羞耻到，辱骂同到。 ###EN### When the wicked man comes, contempt also comes; And with dishonor comes reproach.
+Verse_Ch: 18:4 人口中的言语乃是深水，又是涌流的河水，智慧的泉源。 ###EN### The words of a man's mouth are deep waters, A gushing stream, a fountain of wisdom.
+Verse_Ch: 18:5 瞻徇恶人的情面，审判时屈枉义人，都为不善。 ###EN### To respect the person of the wicked man is not good, Nor to turn aside the righteous man in judgment.
+Verse_Ch: 18:6 愚昧人的嘴带来争端，他的口招惹鞭打。 ###EN### A fool's lips bring strife, And his mouth invites blows.
+Verse_Ch: 18:7 愚昧人的口自取败坏，他的嘴是他生命的网罗。 ###EN### A fool's mouth is his ruin, And his lips are the snare of his soul.
+Verse_Ch: 18:8 传闲话之人的言语如同美食，进入人的深处。 ###EN### The words of a whisperer are like dainty morsels, And they go down into the innermost parts of the body.
+Verse_Ch: 18:9 作工懈怠的，与毁坏人的是弟兄。 ###EN### He also who is slack in his work Is brother to him who is a destroyer.
+Verse_Ch: 18:10 耶和华的名是坚固楼；义人奔入，便得安稳。 ###EN### The name of Jehovah is a strong tower; The righteous man runs into it and is safe.
+Verse_Ch: 18:11 富足人的财物是他的坚固城，在他想像中犹如高墙。 ###EN### The rich man's substance is his strong city And like a high wall in his own imagination.
+Verse_Ch: 18:12 败坏之先，人心高傲；尊荣以前，必有谦卑。 ###EN### Before destruction the heart of man is haughty, But before honor goes humility.
+Verse_Ch: 18:13 不先听完就回答的，便是他的愚妄和羞辱。 ###EN### As for him who gives an answer before he hears, It is folly and shame.
+Verse_Ch: 18:14 人有疾病，灵能支持；灵若忧伤，谁能承当？ ###EN### The spirit of a man can sustain his sickness, But a broken spirit who can bear?
+Verse_Ch: 18:15 聪明人的心得着知识，智慧人的耳寻求知识。 ###EN### The heart of one who has understanding acquires knowledge, And the ear of the wise seeks knowledge.
+Verse_Ch: 18:16 人的礼物为他开路，引他到尊大的人面前。 ###EN### A man's gift makes room for him And brings him before great men.
+Verse_Ch: 18:17 先诉情由的似乎有理，等他的邻舍来到，就察明实情。 ###EN### The first to plead his case seems just, Until his neighbor comes and cross-examines him.
+Verse_Ch: 18:18 掣签能止息争竞，也能在强者之间下决断。 ###EN### The lot causes contentions to cease And decides between the mighty.
+Verse_Ch: 18:19 弟兄被冒犯，挽回他比取坚固城还难；这样的争竞如同城堡的门闩。 ###EN### A brother offended is harder to be gained than a strong city, And contentions are like the bars of a castle.
+Verse_Ch: 18:20 人口中所结的果子，必充满肚腹；他嘴里所出的，必使他饱足。 ###EN### With the fruit of his mouth a man's stomach will be satisfied; With the produce of his lips he will be satisfied.
+Verse_Ch: 18:21 生死在舌头的权下，喜爱它的，必吃它所结的果子。 ###EN### Death and life are in the power of the tongue, And those who love it will eat its fruit.
+Verse_Ch: 18:22 得着妻子的，是得着好处，也是蒙了耶和华的恩惠。 ###EN### Whoever finds a wife finds a good thing, And obtains favor from Jehovah.
+Verse_Ch: 18:23 贫穷人说哀求的话；富足人厉声以对。 ###EN### The poor man utters supplications, But the rich man answers roughly.
+Verse_Ch: 18:24 滥交朋友的，自取败坏；但有一朋友比弟兄更亲密。 ###EN### A man of many friends comes to destruction, But there is a true friend that sticks closer than a brother.
+Chapter_Header: 19
+Verse_Ch: 19:1 行为纯全的贫穷人，胜过嘴唇乖谬的愚昧人。 ###EN### Better is a poor man who walks in his integrity Than he who is perverse in his lips and is a fool.
+Verse_Ch: 19:2 人无知识乃为不善，脚步急快的，难免犯罪。 ###EN### Also it is not good for a person to be without knowledge, And he who makes haste with his feet sins.
+Verse_Ch: 19:3 人的愚昧倾败他的道路，他的心却恼怒耶和华。 ###EN### The foolishness of a man subverts his way, And his heart is indignant toward Jehovah.
+Verse_Ch: 19:4 财物使朋友增多，但穷人连朋友也离开。 ###EN### Wealth adds many friends, But the poor man is separated from his friend.
+Verse_Ch: 19:5 作假见证的必不免受罚，吐出谎言的必不能逃脱。 ###EN### A false witness will not go unpunished, And he who utters lies will not escape.
+Verse_Ch: 19:6 慷慨的，有多人求他的恩情；爱送礼的，人都为他的朋友。 ###EN### Many will entreat the favor of the generous man, And every man is a friend to one who gives gifts.
+Verse_Ch: 19:7 贫穷人，弟兄都恨他；何况他的朋友，更远离他！他虽用言语追随，他们却不留下。 ###EN### All the brothers of the poor man hate him; How much more do his friends go far from him! He pursues them with words, but they are not there.
+Verse_Ch: 19:8 得着智慧之心的，爱惜己命；保守聪明的，必得好处。 ###EN### He who acquires sense loves his own soul; He who keeps understanding will find good.
+Verse_Ch: 19:9 作假见证的，不免受罚；吐出谎言的，必然灭亡。 ###EN### A false witness will not go unpunished, And he who utters lies will perish.
+Verse_Ch: 19:10 愚昧人宴乐度日是不合宜的；何况仆人管辖官长呢？ ###EN### Delicate living is not fitting for a fool; Much less for a servant to rule over princes.
+Verse_Ch: 19:11 人有明智就不轻易发怒；不追究人的过失，便是自己的荣耀。 ###EN### The discretion of a man makes him slow to anger, And it is his glory to overlook a transgression.
+Verse_Ch: 19:12 王的忿怒好像狮子吼叫，他的恩宠却如草上的甘露。 ###EN### The king's wrath is like the roaring of a lion, But his favor is like dew upon the grass.
+Verse_Ch: 19:13 愚昧的儿子是父亲的祸患，妻子的争吵如雨连连滴漏。 ###EN### A foolish son is the ruin of his father, And the contentions of a wife are a continual dripping.
+Verse_Ch: 19:14 房屋钱财是祖宗所遗留的，惟有贤慧的妻子是耶和华所赐的。 ###EN### House and wealth are an inheritance from fathers, But a prudent wife is from Jehovah.
+Verse_Ch: 19:15 懒惰使人沉睡，懈怠的人必受饥饿。 ###EN### Slothfulness casts into a deep sleep, And the idle soul will suffer hunger.
+Verse_Ch: 19:16 谨守诫命的，保全己命；轻忽己路的，必致死亡。 ###EN### He who keeps the commandment keeps his soul; He who is careless of his ways will die.
+Verse_Ch: 19:17 怜悯穷人的，就是借给耶和华；他的善行，耶和华必偿还。 ###EN### He who has pity upon a poor man lends to Jehovah, And He will repay him for his good deed.
+Verse_Ch: 19:18 管教你的儿子，他就有指望；但你不可存心毁坏他。 ###EN### Discipline your son, for there is hope; But do not set your heart on destroying him.
+Verse_Ch: 19:19 暴怒的人必受刑罚；你若救他，必须再救。 ###EN### A man of great wrath will bear the penalty; For if you deliver him, you will only have to do it again.
+Verse_Ch: 19:20 你要听劝戒，受训诲，使你终久有智慧。 ###EN### Listen to counsel, and receive instruction, That you may be wise at the end of your days.
+Verse_Ch: 19:21 人心多有计谋，惟有耶和华的筹算才能立定。 ###EN### There are many devices in a man's heart, But it is the counsel of Jehovah that will stand.
+Verse_Ch: 19:22 人的仁慈令人羡慕，穷人强如说谎的人。 ###EN### What is desirable in a man is his kindness, And a poor man is better than a liar.
+Verse_Ch: 19:23 敬畏耶和华，使人得生命；他必安居知足，不遭祸患。 ###EN### The fear of Jehovah leads to life, And he who has it will lodge in contentment; He will not be visited with evil.
+Verse_Ch: 19:24 懒惰人把手放在盘子里，就是向口撤回也不肯。 ###EN### The sluggard buries his hand in the dish, And will not even bring it back to his mouth.
+Verse_Ch: 19:25 鞭打亵慢人，愚蒙人就学会灵巧；责备聪明人，他就明白知识。 ###EN### Strike a scorner, and the simple will learn prudence; And reprove one who has understanding, and he will understand knowledge.
+Verse_Ch: 19:26 虐待父亲、撵出母亲的，是贻羞致辱之子。 ###EN### He who does violence to his father and chases away his mother Is a son that causes shame and brings reproach.
+Verse_Ch: 19:27 我儿，你若不听训诲，就必偏离知识的言语。 ###EN### Cease listening, my son, to instruction, And you will stray from the words of knowledge.
+Verse_Ch: 19:28 卑劣的见证人戏笑公平，恶人的口吞下罪孽。 ###EN### A worthless witness mocks justice, And the mouth of the wicked swallows up iniquity.
+Verse_Ch: 19:29 刑罚是为亵慢人预备的，鞭打是为愚昧人的背预备的。 ###EN### Judgments are prepared for scorners, And blows for the back of fools.
+Chapter_Header: 20
+Verse_Ch: 20:1 淡酒使人亵慢，浓酒使人喧嚷；凡因酒犯错的，就无智慧。 ###EN### Wine is a mocker, strong drink a brawler; And whoever errs by it does not become wise.
+Verse_Ch: 20:2 王的威吓，如同狮子吼叫；惹动他怒气的，是自害己命。 ###EN### The terror of a king is like the roaring of a lion; He who provokes him to anger sins against his own life.
+Verse_Ch: 20:3 远离纷争是人的尊荣，愚妄人却爱争闹。 ###EN### It is an honor for a man to keep away from strife, But every fool rushes headlong into it.
+Verse_Ch: 20:4 懒惰人因冬寒不肯耕种，到收割的时候，他必乞讨而无所得。 ###EN### The sluggard will not plow because of winter; Therefore he will beg in harvest and have nothing.
+Verse_Ch: 20:5 人心怀藏谋略，好像深水，但聪明人能汲引出来。 ###EN### Counsel in the heart of man is like deep water, But a man of understanding will draw it out.
+Verse_Ch: 20:6 人多宣告自己的仁慈，但忠信人谁能遇见呢？ ###EN### Many a man will proclaim his own kindness, But who can find a faithful man?
+Verse_Ch: 20:7 行为纯全的义人，他的子孙是有福的。 ###EN### A righteous man who walks in his integrity, Blessed are his children after him.
+Verse_Ch: 20:8 王坐在审判的位上，以眼目簸散一切邪恶。 ###EN### A king who sits on the throne of judgment Scatters away all evil with his eyes.
+Verse_Ch: 20:9 谁能说，我洁净了我的心，我脱净了我的罪？ ###EN### Who can say, I have made my heart clean; I am pure from my sin?
+Verse_Ch: 20:10 不同的法码，不同的升斗，都为耶和华所憎恶。 ###EN### Differing weights and differing measures, Both of them are an abomination to Jehovah.
+Verse_Ch: 20:11 孩童所作的是否清洁正直，都由他的行为将他自己显明出来。 ###EN### Even a child makes himself known by his deeds, Whether his work is pure and whether it is upright.
+Verse_Ch: 20:12 能听的耳，能看的眼，都是耶和华所造的。 ###EN### The hearing ear and the seeing eye-Jehovah has made both of them.
+Verse_Ch: 20:13 不要贪睡，免致贫穷；眼要睁开，就得饱食。 ###EN### Do not love sleep, or else you will come to poverty; Open your eyes, and be satisfied with bread.
+Verse_Ch: 20:14 买物的说，不好，不好；及至买去，便夸赞所买的。 ###EN### It is bad, it is bad, says the buyer; But when he has gone away, then he boasts in his purchase.
+Verse_Ch: 20:15 虽有金子和许多珊瑚，惟有知识的嘴才是宝器。 ###EN### There is gold and an abundance of corals, But the lips of knowledge are a precious jewel.
+Verse_Ch: 20:16 谁为生人作保，就拿谁的衣服；谁为外人作保，就向谁取抵押。 ###EN### Take his garment when he becomes surety for a stranger, And hold the pledge when he becomes surety for foreigners.
+Verse_Ch: 20:17 以虚谎得来的食物，人觉甘甜，过后他的口必充满沙石。 ###EN### The bread of falsehood is sweet to a man, But afterward his mouth will be filled with gravel.
+Verse_Ch: 20:18 计谋都凭筹算立定，打仗要凭智谋。 ###EN### Every plan is established by counsel, And by sound counsel make war.
+Verse_Ch: 20:19 往来传闲话的，泄漏秘密，所以大张嘴的，不可与他结交。 ###EN### He who goes about as a gossip reveals secrets; Therefore do not associate with one who opens his lips wide.
+Verse_Ch: 20:20 咒骂父母的，他的灯必熄灭在幽暗中。 ###EN### Whoever curses his father or his mother, His lamp will go out in deep darkness.
+Verse_Ch: 20:21 起初速得的产业，终久并不蒙福。 ###EN### An inheritance gained hurriedly at the beginning Will not be blessed in the end.
+Verse_Ch: 20:22 不要说，我要以恶报恶；要等候耶和华，祂必拯救你。 ###EN### Do not say, I will recompense evil; Wait for Jehovah, and He will save you.
+Verse_Ch: 20:23 不同的法码为耶和华所憎恶，诡诈的天平也为不善。 ###EN### Differing weights are an abomination to Jehovah, And false scales are not good.
+Verse_Ch: 20:24 人的脚步既为耶和华所定，人怎能明白自己的路呢？ ###EN### A man's steps are ordered by Jehovah; How then can man understand his own way?
+Verse_Ch: 20:25 人冒失说，这是圣物，许愿之后才查问，就是自陷网罗。 ###EN### It is a snare to a man to rashly say, It is holy, And after making the vows to begin to consider.
+Verse_Ch: 20:26 智慧的王簸散恶人，用碾轮辊轧他们。 ###EN### A wise king winnows the wicked And drives the threshing wheel over them.
+Verse_Ch: 20:27 人的灵是耶和华的灯，鉴察人的深处。 ###EN### The spirit of man is the lamp of Jehovah, Searching all the innermost parts of the inner being.
+Verse_Ch: 20:28 仁慈和真实保全君王；他的国位乃藉仁慈立稳。 ###EN### Lovingkindness and truth preserve the king, And his throne is upheld by kindness.
+Verse_Ch: 20:29 力量乃少年人的荣耀，白发为老年人的尊荣。 ###EN### The glory of young men is their strength, And the honor of old men is gray hair.
+Verse_Ch: 20:30 鞭伤除净人的罪恶，责打能入人的深处。 ###EN### Stripes that wound purge away evil, And strokes reach the innermost parts of the inner being.
+Chapter_Header: 21
+Verse_Ch: 21:1 王的心在耶和华手中，好像陇沟的水，祂可随意使其流转。 ###EN### The king's heart is like streams of water in the hand of Jehovah; He turns it wherever He wishes.
+Verse_Ch: 21:2 人所行的，在自己眼中都看为正，惟耶和华衡量人心。 ###EN### Every way of a man is right in his own eyes, But Jehovah weighs the hearts.
+Verse_Ch: 21:3 秉行公义和公理，比献祭更蒙耶和华悦纳。 ###EN### To do righteousness and justice Is more acceptable to Jehovah than sacrifice.
+Verse_Ch: 21:4 高傲的眼和傲慢的心，恶人的灯，乃是罪。 ###EN### A high look and a proud heart-The lamp of the wicked-is sin.
+Verse_Ch: 21:5 殷勤人的筹算，足致丰裕；行事急躁的，都必缺乏。 ###EN### The plans of the diligent lead only to plentifulness, But everyone who is hasty comes only to want.
+Verse_Ch: 21:6 用说谎之舌所得的财富，乃是飘浮的空气，死亡的网罗。 ###EN### The getting of treasures by a lying tongue Is a fleeting vapor, a snare of death.
+Verse_Ch: 21:7 恶人的强暴必将自己扫除，因他们不肯按公平行事。 ###EN### The violence of the wicked will sweep them away Because they refuse to do justice.
+Verse_Ch: 21:8 有罪之人的路甚是弯曲；至于纯净的人，他所行的乃是正直。 ###EN### The way of a guilty man is crooked; But as for the pure, his work is right.
+Verse_Ch: 21:9 宁可住在房顶的一角，不与争吵的妇人同住一屋。 ###EN### It is better to dwell in a corner of a housetop Than in a house shared with a contentious woman.
+Verse_Ch: 21:10 恶人的心乐人受祸；他眼并不怜恤邻舍。 ###EN### The soul of the wicked man desires evil; His neighbor finds no favor in his eyes.
+Verse_Ch: 21:11 亵慢人受刑罚，愚蒙人就得智慧；智慧人受训诲，便得知识。 ###EN### When the scorner is punished, the simple man becomes wise; And when the wise man is instructed, he receives knowledge.
+Verse_Ch: 21:12 那公义者留意恶人的家，使恶人倾倒毁灭。 ###EN### The Righteous One considers the house of the wicked man, Overthrowing the wicked to their ruin.
+Verse_Ch: 21:13 塞耳不听穷人哀求的，他将来呼求也不蒙应允。 ###EN### Whoever closes his ear to the cry of the poor man Also will cry and will not be heard.
+Verse_Ch: 21:14 暗中送的礼物平息怒气，怀中搋的礼品止息暴怒。 ###EN### A gift in secret pacifies anger; And a present in the bosom, strong wrath.
+Verse_Ch: 21:15 施行公理使义人喜乐，却使作孽的人败坏。 ###EN### It is joy to the righteous man to do justice, But it is destruction to the workers of iniquity.
+Verse_Ch: 21:16 偏离通达道路的人，必住在阴魂的会中。 ###EN### The man who wanders from the way of understanding Will rest in the assembly of the dead.
+Verse_Ch: 21:17 爱宴乐的，必成为穷乏人；爱酒和油的，必不富足。 ###EN### He who loves pleasure will be a poor man; He who loves wine and oil will not be rich.
+Verse_Ch: 21:18 恶人作了义人的赎价，奸诈人代替正直人。 ###EN### The wicked man is a ransom for the righteous man, And the treacherous man is in the place of the upright.
+Verse_Ch: 21:19 宁可住在旷野之地，也不与争吵易怒的妇人同住。 ###EN### It is better to dwell in a desert land Than with a contentious and vexing woman.
+Verse_Ch: 21:20 智慧人的住处积蓄宝物膏油，愚昧人将所得的吞尽。 ###EN### There is precious treasure and oil in the dwelling of the wise man, But a foolish man swallows it up.
+Verse_Ch: 21:21 追求公义慈爱的，就寻得生命、公义和尊荣。 ###EN### He who pursues righteousness and kindness Finds life, righteousness, and honor.
+Verse_Ch: 21:22 智慧人登上勇士的城墙，倾覆他们所倚靠的坚垒。 ###EN### A wise man scales the city of the mighty And brings down the strength in which they trust.
+Verse_Ch: 21:23 保守口与舌的，就保守自己免受灾难。 ###EN### Whoever guards his mouth and his tongue Keeps his soul from troubles.
+Verse_Ch: 21:24 行事骄傲而狂妄的，他的名叫傲慢、高傲、亵慢。 ###EN### Proud, Haughty, Scorner are the names Of him who works in the arrogance of pride.
+Verse_Ch: 21:25 懒惰人的心愿将他害死，因为他手不肯作工。 ###EN### The desire of the sluggard puts him to death, For his hands refuse to work.
+Verse_Ch: 21:26 有人终日贪得无餍，但义人施舍而不吝惜。 ###EN### All day long one covets greedily, But the righteous man gives and does not hold back.
+Verse_Ch: 21:27 恶人的祭物是可憎的；何况他存恶意来献呢！ ###EN### The sacrifice of the wicked is an abomination; How much more when he brings it with evil intent!
+Verse_Ch: 21:28 作假见证的必灭亡；惟有聆听真情而言的，其言长存。 ###EN### A false witness will perish, But the man who hears will speak so as to endure.
+Verse_Ch: 21:29 恶人厚颜无耻，正直人却立定自己的道路。 ###EN### A wicked man hardens his face; But as for the upright, he establishes his ways.
+Verse_Ch: 21:30 没有任何智慧、聪明、谋略能敌挡耶和华。 ###EN### There is no wisdom nor understanding Nor counsel that can avail against Jehovah.
+Verse_Ch: 21:31 马是为打仗之日预备的，但得胜乃在于耶和华。 ###EN### The horse is prepared for the day of battle, But victory belongs to Jehovah.
+Chapter_Header: 22
+Verse_Ch: 22:1 美名比大财更可取，恩宠比金银更好。 ###EN### A good name is to be chosen rather than great riches, And favor is better than silver and gold.
+Verse_Ch: 22:2 富户穷人在一件事上都一样，就是他们都为耶和华所造。 ###EN### The rich and the poor have this in common: Jehovah is the maker of them all.
+Verse_Ch: 22:3 灵巧人见祸藏躲，愚蒙人却前往受罚。 ###EN### A prudent man sees evil and hides himself, But the simple pass on and suffer punishment for it.
+Verse_Ch: 22:4 心存谦卑，敬畏耶和华，就得富有、尊荣、生命为赏赐。 ###EN### The reward of humility and the fear of Jehovah Are riches and honor and life.
+Verse_Ch: 22:5 乖僻人的路上有荆棘和网罗；保守自己性命的，必要远离这些。 ###EN### Thorns and snares are in the way of the perverse; He who guards his soul will keep far from them.
+Verse_Ch: 22:6 教养孩童走当走的道路，就是到老他也不偏离。 ###EN### Train up a child according to the way he should go; Even when he is old, he will not depart from it.
+Verse_Ch: 22:7 富户管辖穷人，欠债的是债主的仆人。 ###EN### The rich man rules over the poor, And the borrower is servant to the lender.
+Verse_Ch: 22:8 撒播不义的必收灾祸，他逞怒的杖也必废掉。 ###EN### He who sows injustice will reap iniquity, And the rod of his wrath will fail.
+Verse_Ch: 22:9 眼目慈善的，就必蒙福，因他将食物分给穷人。 ###EN### He who is generous will be blessed, For he gives some of his bread to the poor.
+Verse_Ch: 22:10 赶出亵慢人，纷争就出去；争竞和羞辱也必止息。 ###EN### Cast out the scorner, and contention will go out; Indeed, strife and dishonor will cease.
+Verse_Ch: 22:11 喜爱心里纯洁、口中有恩言的人，王必与他为友。 ###EN### He who loves pureness of heart And whose speech is gracious will have the king as his friend.
+Verse_Ch: 22:12 耶和华的眼目保守知识，但祂倾覆奸诈人的言语。 ###EN### The eyes of Jehovah preserve knowledge, But He overthrows the words of the treacherous man.
+Verse_Ch: 22:13 懒惰人说，外头有狮子，我在街上必被杀害！ ###EN### The sluggard says, There is a lion outside! I will be slain in the streets!
+Verse_Ch: 22:14 淫妇的口为深坑；耶和华所恼怒的，必陷在其中。 ###EN### The mouth of strange women is a deep pit; He with whom Jehovah is indignant will fall in there.
+Verse_Ch: 22:15 愚妄缠住孩童的心，用管教的杖可以将愚妄远远赶除。 ###EN### Foolishness is bound up in the heart of a child; But the rod of correction will drive it far from him.
+Verse_Ch: 22:16 欺压贫穷为要多增财利的，并送礼给富户的，都必缺乏。 ###EN### He who oppresses the poor to multiply his gain, And he who gives to the rich will only come to want.
+Verse_Ch: 22:17 你当侧耳听智慧人的言语，留心我的知识； ###EN### Incline your ear, and hear the words of the wise, And apply your heart to my knowledge;
+Verse_Ch: 22:18 你若心中存记，嘴上准备，这便为美。 ###EN### For it is a pleasant thing if you keep them within you; Let them be ready on your lips.
+Verse_Ch: 22:19 我今日以此特特指教你，为要使你信靠耶和华。 ###EN### So that your trust may be in Jehovah, I have made them known to you today, even to you.
+Verse_Ch: 22:20 谋略和知识的美事，我岂没有写给你么？ ###EN### Have not I written to you excellent things Of counsels and knowledge,
+Verse_Ch: 22:21 要使你知道真理之言的确实，你好将真理之言回覆那些打发你的人。 ###EN### To make you know the certainty of the words of truth, That you may answer back words of truth to those who send you?
+Verse_Ch: 22:22 你不可因穷人贫穷就抢夺他的物，也不可在城门口欺压困苦人； ###EN### Do not rob the poor, because he is poor; Nor oppress the afflicted in the gate;
+Verse_Ch: 22:23 因耶和华必为他们辨屈；抢夺他们的，耶和华必夺取那些人的命。 ###EN### For Jehovah will plead their cause, And rob the life of those who rob them.
+Verse_Ch: 22:24 好生气的人，不可与他结交；暴怒的人，不可与他来往； ###EN### Make no friendship with a man who is given to anger, And with a wrathful man do not go;
+Verse_Ch: 22:25 恐怕你学他的行径，使自己陷在网罗里。 ###EN### Lest you learn his ways And get a snare for your soul.
+Verse_Ch: 22:26 不要与人击掌作保，也不要为欠债的担保。 ###EN### Do not be one of those who give their hand as a pledge Or one of those who are a surety for debts.
+Verse_Ch: 22:27 你若没有什么偿还，何必使人夺去你睡卧的床呢？ ###EN### If you have nothing with which to pay, Why should your bed be taken away from under you?
+Verse_Ch: 22:28 你先祖所立古时的地界，你不可挪移。 ###EN### Do not remove the ancient boundary marker, Which your fathers have set up.
+Verse_Ch: 22:29 你看见办事敏捷的人么？他必站在君王面前，必不站在微贱人面前。 ###EN### Do you see a man skilled in his work? He will stand before kings; He will not stand before obscure men.
+Chapter_Header: 23
+Verse_Ch: 23:1 你若与官长坐席，要留意在你面前的是谁。 ###EN### When you sit to eat with a ruler, Consider carefully who is before you;
+Verse_Ch: 23:2 你若是贪食的，就当拿刀放在喉咙上。 ###EN### And put a knife to your throat If you are a man of great appetite.
+Verse_Ch: 23:3 不可贪恋他的美食，因为那是骗人的食物。 ###EN### Do not desire his delicacies, For they are deceitful food.
+Verse_Ch: 23:4 不要劳碌求财富，要停下自己的思虑。 ###EN### Do not weary yourself to become rich; Cease from your consideration of it.
+Verse_Ch: 23:5 你定睛在财富上，财富却消失了；因财富必长翅膀，如鹰向天飞去。 ###EN### When you set your eyes upon it, it is gone; For wealth certainly makes itself wings, Like an eagle that flies toward heaven.
+Verse_Ch: 23:6 不要吃嫉妒之人的饭，也不要贪他的美食； ###EN### Do not eat the bread of one who is envious, And do not desire his delicacies;
+Verse_Ch: 23:7 因为他里面怎样思量，他为人就是怎样。他虽对你说，请吃，请喝，他的心却与你相背。 ###EN### For as he thinks within himself, so he is. He says to you, Eat and drink; But his heart is not with you.
+Verse_Ch: 23:8 你所吃的那点食物必吐出来，你所说的甘美言语也白说了。 ###EN### You will vomit up the morsel which you have eaten, And waste your pleasant words.
+Verse_Ch: 23:9 你不要说话给愚昧人听，因他必藐视你言语中的智慧。 ###EN### Do not speak in the hearing of a fool, For he will despise the wisdom of your words.
+Verse_Ch: 23:10 不可挪移古时的地界，也不可擅入孤儿的田地。 ###EN### Do not remove the ancient boundary marker, Or go into the fields of the fatherless;
+Verse_Ch: 23:11 因他们的救赎主大有能力；祂必向你为他们辨屈。 ###EN### For their Redeemer is strong; He will plead their cause against you.
+Verse_Ch: 23:12 你要留心领受训诲，侧耳听从知识的言语。 ###EN### Apply your heart to instruction, And your ears to words of knowledge.
+Verse_Ch: 23:13 不可不管教孩童；你用杖打他，他必不至于死。 ###EN### Do not withhold correction from a child; If you beat him with the rod, he will not die.
+Verse_Ch: 23:14 你若用杖打他，就可以救他的魂免下阴间。 ###EN### If you beat him with the rod, You will deliver his soul from Sheol.
+Verse_Ch: 23:15 我儿，你的心若有智慧，我的心也必喜乐。 ###EN### My son, if your heart is wise, My own heart will also rejoice;
+Verse_Ch: 23:16 你的嘴若说正直话，我的心肠也必欢乐。 ###EN### My inward parts will also exult, When your lips speak right things.
+Verse_Ch: 23:17 你的心不要嫉妒罪人，只要终日敬畏耶和华； ###EN### Do not let your heart envy sinners, But live in the fear of Jehovah all day long;
+Verse_Ch: 23:18 因为末后必有好结局，你的指望必不至断绝。 ###EN### For surely there is a latter end, And your hope will not be cut off.
+Verse_Ch: 23:19 我儿，你当听，要有智慧，好在正路上引导你的心。 ###EN### Listen, my son, and be wise, And direct your heart in the way.
+Verse_Ch: 23:20 不要在醉酒的和贪吃肉的人中间来往； ###EN### Do not be among those who get drunk with wine, Among gluttonous eaters of flesh;
+Verse_Ch: 23:21 因为醉酒贪食的，必致贫穷；好睡觉的，必穿破烂衣服。 ###EN### For the drunkard and the glutton will come to poverty, And drowsiness will clothe them with rags.
+Verse_Ch: 23:22 你要听从生你的父亲；你母亲老了，也不可藐视她。 ###EN### Listen to your father who begot you, And do not despise your mother when she is old.
+Verse_Ch: 23:23 你当买真理，不可出卖；要买智慧、训诲和聪明。 ###EN### Buy truth, and do not sell it; Buy wisdom and instruction and understanding.
+Verse_Ch: 23:24 义人的父亲必大得快乐；人生智慧的儿子，必因他喜乐。 ###EN### The father of the righteous man will greatly exult, And he who begets a wise child will rejoice in him.
+Verse_Ch: 23:25 你要使父母欢喜，使生你的快乐。 ###EN### Let your father and your mother rejoice, And let her who bore you exult.
+Verse_Ch: 23:26 我儿，要将你的心归我；你的眼目也要守住我的道路。 ###EN### My son, give me your heart, And let your eyes observe my ways.
+Verse_Ch: 23:27 因为妓女是深坑，外女是窄井。 ###EN### For a harlot is a deep pit, And an adulteress is a narrow well.
+Verse_Ch: 23:28 她埋伏好像强盗，她使人间增添奸诈的人。 ###EN### Indeed, she lies in wait as a robber, And increases the number of the treacherous among men.
+Verse_Ch: 23:29 谁有祸患？谁有忧愁？谁有争斗？谁有怨言？谁无故受伤？谁眼目红赤？ ###EN### Who has woe? Who has sorrow? Who has contentions? Who has complaining? Who has wounds without cause? Who has redness of eyes?
+Verse_Ch: 23:30 就是那流连饮酒，常去寻找调和酒的人。 ###EN### Those who linger late over wine, Those who go to seek out mixed wines.
+Verse_Ch: 23:31 你不可只看酒发红，在杯中闪烁，下咽舒畅； ###EN### Do not look upon the wine when it is red, When it sparkles in the cup, When it goes down smoothly;
+Verse_Ch: 23:32 它终久要如蛇咬你，如毒蛇刺你。 ###EN### In the end it bites like a serpent, And stings like an adder.
+Verse_Ch: 23:33 你眼必看见怪异的事，你心必发出乖谬的话； ###EN### Your eyes will see strange things, And your heart will utter perverse things;
+Verse_Ch: 23:34 你必像躺在海中，或像卧在桅杆顶上。 ###EN### And you will be like one who lies down while at sea, Or like one who lies down at the top of a mast.
+Verse_Ch: 23:35 你必说，人打我，我却未受伤；人鞭打我，我竟不觉得；我几时清醒呢？我还要去寻酒。 ###EN### They struck me, you will say, but I was not hurt; They beat me, but I did not feel it; When will I awake? I will seek another drink.
+Chapter_Header: 24
+Verse_Ch: 24:1 你不要嫉妒恶人，也不要想望与他们相处； ###EN### Do not be envious of evil men, Nor desire to be with them;
+Verse_Ch: 24:2 因为他们的心筹画强暴，他们的口谈论奸恶。 ###EN### For their heart meditates violence, And their lips talk of mischief.
+Verse_Ch: 24:3 房屋凭智慧建造，又靠聪明立稳； ###EN### Through wisdom a house is built, And by understanding it is established,
+Verse_Ch: 24:4 其房间因知识充满各样宝贵美好的财物。 ###EN### And by knowledge the rooms are filled With all precious and pleasant riches.
+Verse_Ch: 24:5 智慧人有能力，有知识的人加添能力。 ###EN### A wise man is strong, And a man of knowledge increases power.
+Verse_Ch: 24:6 你去打仗要凭智谋，谋士众多便可得胜。 ###EN### For by sound counsel you can wage your war, And in the multitude of counselors there is victory.
+Verse_Ch: 24:7 智慧极高，非愚妄人所能及，所以他在城门内不敢开口。 ###EN### Wisdom is too high for a fool; He does not open his mouth in the gate.
+Verse_Ch: 24:8 设计作恶的，必称为阴险之人。 ###EN### He who devises to do evil, Men will call him a mischief-maker.
+Verse_Ch: 24:9 愚妄人的计谋乃是罪恶，亵慢人为人所憎恶。 ###EN### The devising of folly is sin, And the scorner is an abomination to men.
+Verse_Ch: 24:10 你在患难之日若胆怯，你的力量就有限。 ###EN### If you faint in the day of adversity, Your strength is limited.
+Verse_Ch: 24:11 人被拉到死地，你要解救；人蹒跚走向被杀之地，你须拦阻。 ###EN### Deliver those who are being taken away to death, And those who are staggering to be slain, oh, hold back!
+Verse_Ch: 24:12 你若说，看哪，这事我们未曾知道－那衡量人心的岂不明白么？保守你性命的岂不知道么？祂岂不按各人所行的报应各人么？ ###EN### If you say, Look, we did not know this-Does not He who weighs the hearts consider it? And He who keeps your soul, does He not know it? And will He not render to every man according to his work?
+Verse_Ch: 24:13 我儿，你要吃蜜，因为这是好的；吃蜂房下滴的蜜，在你上膛是甘甜的； ###EN### My son, eat honey, for it is good, And the drippings from the honeycomb, which are sweet to your taste:
+Verse_Ch: 24:14 要知道智慧之于你的魂，也是如此。你若找着，末后必有好结局，你的指望也不至断绝。 ###EN### Know that wisdom is such for your soul; If you find it , then there will be a latter end, And your hope will not be cut off.
+Verse_Ch: 24:15 恶人哪，不要埋伏攻击义人的住处，不要毁坏他安居之所； ###EN### Do not lie in wait, O wicked man, against the dwelling of the righteous man; Do not destroy his resting place;
+Verse_Ch: 24:16 因为义人虽七次跌倒，仍必兴起，恶人却被祸患倾覆。 ###EN### For a righteous man falls seven times and rises up again, But the wicked are overthrown by calamity.
+Verse_Ch: 24:17 你仇敌跌倒，你不要喜乐；他绊跌，你心不要快乐； ###EN### Do not rejoice when your enemy falls, And do not let your heart exult when he is overthrown;
+Verse_Ch: 24:18 恐怕耶和华看见就不喜悦，将祂怒气从仇敌身上转开。 ###EN### Lest Jehovah see it, and it displease Him, And He turn away His anger from him.
+Verse_Ch: 24:19 不要因作恶的人忿忿不平，也不要嫉妒恶人； ###EN### Do not be incensed because of evildoers; Do not be envious of the wicked;
+Verse_Ch: 24:20 因为恶人必无前途；恶人的灯必要熄灭。 ###EN### For there will be no future for the evil man; The lamp of the wicked will be put out.
+Verse_Ch: 24:21 我儿，你要敬畏耶和华与君王，不要与反覆无常的人结交； ###EN### My son, fear Jehovah and the king, And do not associate with those who are given to change;
+Verse_Ch: 24:22 因为他们的灾难必忽然而起，耶和华与君王所施行的毁灭，谁能知道呢？ ###EN### For their calamity will rise suddenly, And who knows the misfortune of both of them?
+Verse_Ch: 24:23 以下也是智慧人的箴言：审判时看人情面是不好的。 ###EN### These also are sayings of the wise: It is not good to have respect of persons in judgment.
+Verse_Ch: 24:24 对恶人说，你是义人，说这话的人必受众民咒诅，为列邦所憎恶。 ###EN### He who says to the wicked man, You are righteous, Peoples will curse him; nations will abhor him.
+Verse_Ch: 24:25 责备恶人的必得喜悦，美好的福也必临到他们。 ###EN### But those who rebuke the wicked man will have delight, And a good blessing will come upon them.
+Verse_Ch: 24:26 应对诚实的，犹如与人亲嘴。 ###EN### He who gives an honest answer Kisses the lips.
+Verse_Ch: 24:27 你要在外头预备你的工作，在田间为自己预备妥当，然后建造房屋。 ###EN### Prepare your work outside, And make it ready for yourself in the field, And afterward build your house.
+Verse_Ch: 24:28 不可无故作见证陷害邻舍，也不可用嘴欺骗人。 ###EN### Do not be a witness against your neighbor without cause, And do not deceive with your lips.
+Verse_Ch: 24:29 不可说，人怎样待我，我也怎样待他；我必照人所行的回报他。 ###EN### Do not say, I will do to him as he has done to me; I will render to the man according to his work.
+Verse_Ch: 24:30 我经过懒惰人的田地、无知人的葡萄园， ###EN### I passed by the field of the sluggard, And by the vineyard of the man lacking sense;
+Verse_Ch: 24:31 看哪，到处长满了荆棘，刺草遮盖了田面，石墙也坍塌了。 ###EN### And there it was, all overgrown with thorns; Its surface was covered with nettles, And its stone wall was broken down.
+Verse_Ch: 24:32 我看见就留心思想；我看着就领受训诲： ###EN### When I looked, I considered it; I saw it and received instruction:
+Verse_Ch: 24:33 再睡片时，打盹片时，抱着手躺卧片时， ###EN### A little sleep, a little slumber, A little folding of the hands to rest,
+Verse_Ch: 24:34 你的贫穷就必如强盗来临，你的缺乏就必如拿兵器的人来到。 ###EN### And your poverty will come upon you like a robber, And your want, like an armed man.
+Chapter_Header: 25
+Verse_Ch: 25:1 以下也是所罗门的箴言，是犹大王希西家的人所誊录的： ###EN### These also are proverbs of Solomon, which the men of Hezekiah the king of Judah copied.
+Verse_Ch: 25:2 将事隐藏乃神的荣耀，将事察清乃君王的荣耀。 ###EN### It is the glory of God to conceal a matter, But the glory of kings is to search a matter out.
+Verse_Ch: 25:3 如天之高，如地之厚，君王之心也测不透。 ###EN### As the heavens for height, and the earth for depth, So the heart of kings is unsearchable.
+Verse_Ch: 25:4 除去银子的渣滓，银匠就能作出器皿。 ###EN### Take away the dross from the silver, And a vessel comes out for the smith;
+Verse_Ch: 25:5 除去王面前的恶人，王的国位就因公义坚立。 ###EN### Take away the wicked man from before the king, And his throne will be established in righteousness.
+Verse_Ch: 25:6 不要在王面前妄自尊大，不要站在大人物的位上。 ###EN### Do not claim honor for yourself in the presence of the king, And do not stand in the place of great men;
+Verse_Ch: 25:7 宁可有人说，请你上这里来，强如在你觐见的尊贵人面前被降为卑。 ###EN### For it is better that it is said to you, Come up here, Than that you should be put lower in the presence of the noble, Whom your eyes have seen.
+Verse_Ch: 25:8 不要冒失出去与人争竞，免得你的邻舍羞辱你，结果你要怎样行呢？ ###EN### Do not go out hastily to strive; Otherwise what will you do in the end, When your neighbor puts you to shame?
+Verse_Ch: 25:9 你与邻舍争讼，只可与他一人理论，不可泄漏别人的秘密； ###EN### Argue your case with your neighbor himself, And do not reveal the secret of another;
+Verse_Ch: 25:10 恐怕听见的人骂你，你的恶名就难以脱离。 ###EN### Lest he who hears it revile you, And the evil report of you does not go away.
+Verse_Ch: 25:11 一句话说得合宜，就如金苹果在银器里。 ###EN### A word fitly spoken Is like apples of gold in settings of silver.
+Verse_Ch: 25:12 智慧人的责备，在听从的人耳中，好像，好像金耳环和精金的妆饰。 ###EN### Like an earring of gold and an ornament of fine gold Is a wise reprover to a listening ear.
+Verse_Ch: 25:13 忠信的使者叫差他的人心里舒畅，就如在收割时冰雪的凉气。 ###EN### Like the cold of snow in the time of harvest Is a faithful messenger to those who send him, For he refreshes the soul of his masters.
+Verse_Ch: 25:14 空夸赠送礼物的，好像无雨的风云。 ###EN### Like clouds and wind without rain Is one who boasts of his gifts falsely.
+Verse_Ch: 25:15 恒久忍耐可以劝动官长，柔和的舌能折断骨头。 ###EN### By forbearance a ruler may be persuaded, And a soft tongue can break the bone.
+Verse_Ch: 25:16 你得了蜜么？吃够就好了，免得你过饱就呕吐出来。 ###EN### Have you found honey? Eat only what you need, Lest you become filled up with it and vomit it.
+Verse_Ch: 25:17 你的脚要少进邻舍的家，免得他厌烦你，就恨恶你。 ###EN### Let your foot be seldom in your neighbor's house, Otherwise he will become weary of you and hate you.
+Verse_Ch: 25:18 作假见证陷害邻舍的，就如大槌、利刀、快箭。 ###EN### A man who bears false witness against his neighbor Is like a club and a sword and a sharp arrow.
+Verse_Ch: 25:19 患难时倚靠奸诈的人，就像依靠坏牙或脱臼的脚。 ###EN### Confidence in a treacherous man in time of trouble Is like a bad tooth and a foot out of joint.
+Verse_Ch: 25:20 对伤心的人唱歌，就如冷天脱衣服，又如碱上倒醋。 ###EN### He who sings songs to a troubled heart Is like one who takes off a garment on a cold day, Or like vinegar on soda.
+Verse_Ch: 25:21 你的仇敌若饿了，就给他饭吃；若渴了，就给他水喝； ###EN### If your enemy is hungry, give him bread to eat; And if he is thirsty, give him water to drink;
+Verse_Ch: 25:22 因为你这样行，就是把炭火堆在他的头上；耶和华也必赏报你。 ###EN### For you will heap coals of fire upon his head, And Jehovah will reward you.
+Verse_Ch: 25:23 北风生雨，谗谤人的舌头也生怒容。 ###EN### The north wind brings forth rain; And a backbiting tongue, an angry countenance.
+Verse_Ch: 25:24 宁可住在房顶的一角，也不与争吵的妇人同住一屋。 ###EN### It is better to dwell in a corner of the housetop Than in a house shared with a contentious woman.
+Verse_Ch: 25:25 有好消息从远方来，就如拿凉水给口渴的人喝。 ###EN### Like cold water to a thirsty soul, So is good news from a far country.
+Verse_Ch: 25:26 义人在恶人面前退缩，好像搅浑之源，弄浊之泉。 ###EN### Like a muddied fountain and a polluted spring Is a righteous man who gives way before the wicked man.
+Verse_Ch: 25:27 吃蜜过多是不好的，探究自己的荣耀并不是荣耀。 ###EN### It is not good to eat much honey, Nor is it glory for men to search out their own glory.
+Verse_Ch: 25:28 人不约束自己的灵，就如毁坏的城邑没有墙垣。 ###EN### Like a city that is broken down, without walls, Is a man whose spirit is without restraint.
+Chapter_Header: 26
+Verse_Ch: 26:1 夏天落雪，收割时下雨，都不相宜，照样，愚昧人得尊荣也不相宜。 ###EN### Like snow in summer and like rain in harvest, So honor is not fitting for a fool.
+Verse_Ch: 26:2 麻雀鼓翅，燕子翻飞，照样，无故的咒诅也不会临到。 ###EN### Like the sparrow in its fluttering, like the swallow in its flying, So a curse without cause does not alight.
+Verse_Ch: 26:3 鞭子是为打马，辔头是为勒驴；刑杖是为打愚昧人的背。 ###EN### A whip for the horse! A bridle for the donkey! And a rod for the back of fools!
+Verse_Ch: 26:4 不要照愚昧人的愚妄话回答他，免得你也与他一样。 ###EN### Do not answer a fool according to his folly, Lest you also be like him.
+Verse_Ch: 26:5 要照愚昧人的愚妄话回答他，免得他自以为有智慧。 ###EN### Answer a fool according to his folly, Lest he be wise in his own eyes.
+Verse_Ch: 26:6 藉愚昧人的手传信的，是砍断自己的脚，自受损害。 ###EN### He who sends a message by the hand of a fool Cuts off his own feet and drinks violence.
+Verse_Ch: 26:7 瘸子的脚空悬无用，箴言在愚昧人的口中也是如此。 ###EN### Like the legs of the lame which hang down, So is a proverb in the mouth of fools.
+Verse_Ch: 26:8 将尊荣给愚昧人的，好像人把石子包在甩石的机弦里。 ###EN### Like one who binds a stone in a sling, So is he who gives honor to a fool.
+Verse_Ch: 26:9 箴言在愚昧人的口中，就像荆棘刺入醉汉的手。 ###EN### Like a thorn that goes up into the hand of a drunkard, So is a proverb in the mouth of fools.
+Verse_Ch: 26:10 雇愚昧人的，或雇过路人的，就像射伤众人的弓箭手。 ###EN### Like an archer who wounds everyone, So is he who hires a fool or who hires those who pass by.
+Verse_Ch: 26:11 愚昧人重复愚妄事，就像狗转过来吃自己所吐的。 ###EN### Like a dog that returns to its vomit Is a fool who repeats his folly.
+Verse_Ch: 26:12 你见过自以为有智慧的人么？愚昧人比他更有指望。 ###EN### Do you see a man who is wise in his own eyes? There is more hope for a fool than for him.
+Verse_Ch: 26:13 懒惰人说，路上有猛狮，街上有壮狮！ ###EN### The sluggard says, There is a roaring lion on the way; A lion is in the streets!
+Verse_Ch: 26:14 门在枢纽上转动，懒惰人在床上也是如此。 ###EN### As the door turns upon its hinges, So does the sluggard upon his bed.
+Verse_Ch: 26:15 懒惰人把手放在盘子里，就是向口撤回，也以为劳乏。 ###EN### The sluggard buries his hand in the dish; He gets weary by bringing it to his mouth again.
+Verse_Ch: 26:16 懒惰人看自己比七个善于应对的人更有智慧。 ###EN### The sluggard is wiser in his own eyes Than seven men who can answer discreetly.
+Verse_Ch: 26:17 过路的人干涉与自己无关的纷争，就像人揪狗的耳朵。 ###EN### He who passes by and meddles with strife that does not belong to him, Is like one who takes a dog by the ears.
+Verse_Ch: 26:18 人欺哄邻舍，却说，我岂不是戏耍么？ ###EN### Like a madman who shoots firebrands, arrows, and death,
+Verse_Ch: 26:19 他就像疯狂的人抛掷火把、利箭与死亡。 ###EN### So is the man who deceives his neighbor, And says, Was I not joking?
+Verse_Ch: 26:20 缺了柴，火就熄灭；没有传闲话的人，争论便止息。 ###EN### For lack of wood the fire goes out, And where there is no whisperer, contention quiets down.
+Verse_Ch: 26:21 好纷争的人煽动争竞，就如余烬加炭，火上加柴一样。 ###EN### As charcoal to hot embers and wood to fire, So is a contentious man to kindle strife.
+Verse_Ch: 26:22 传闲话之人的言语如同美食，进入人的深处。 ###EN### The words of a whisperer are like dainty morsels, And they go down into the innermost parts of the inner being.
+Verse_Ch: 26:23 火热的嘴，奸恶的心，好像包了银渣的瓦器。 ###EN### Burning lips and a wicked heart Are like an earthen vessel overlaid with silver dross.
+Verse_Ch: 26:24 怨恨人的，用嘴掩饰，心里却存着诡诈， ###EN### He who hates disguises it with his lips, But he lays up deceit within him;
+Verse_Ch: 26:25 他的言语虽然动听，你不可信他，因为他心中有七样可憎恶的。 ###EN### When he speaks graciously, do not believe him; For there are seven abominations in his heart;
+Verse_Ch: 26:26 他虽用诡诈遮掩自己的怨恨，他的邪恶必在会中显露。 ###EN### Though his hatred covers itself with guile, His wickedness will be revealed before the assembly.
+Verse_Ch: 26:27 挖陷坑的，自己必掉在其中；辊石头的，石头必反辊在他身上。 ###EN### Whoever digs a pit will fall into it, And he who rolls a stone, it will come back on him.
+Verse_Ch: 26:28 虚谎的舌恨自己所压伤的人，谄媚的口造成毁坏的事。 ###EN### A lying tongue hates those it crushes, And a flattering mouth works ruin.
+Chapter_Header: 27
+Verse_Ch: 27:1 不要为明日夸口，因为一日要发生何事，你尚且不能知道。 ###EN### Do not boast about tomorrow, For you do not know what a day may bring forth.
+Verse_Ch: 27:2 让别人夸奖你，不可用口自夸；让外人称赞你，不可用嘴自赞。 ###EN### Let another praise you, and not your own mouth; A foreigner, and not your own lips.
+Verse_Ch: 27:3 石头重，沙土沉，愚妄人的恼怒比这两样更重。 ###EN### A stone is heavy, and the sand weighty, But a fool's vexation is heavier than both of them.
+Verse_Ch: 27:4 忿怒为残忍，怒气为狂澜，惟有嫉妒，谁能敌得住呢？ ###EN### Wrath is cruel, and anger is overwhelming, But who can stand before jealousy?
+Verse_Ch: 27:5 公开的责备强如暗中的爱。 ###EN### Open rebuke is better Than love that is hidden.
+Verse_Ch: 27:6 朋友加的伤痕是出于忠诚，仇敌却与你连连亲嘴。 ###EN### Faithful are the wounds of a friend, But the kisses of an enemy are profuse.
+Verse_Ch: 27:7 吃饱的人，厌恶蜂房的蜜；饥饿的人，一切苦物都觉甘甜。 ###EN### The full soul loathes a honeycomb, But to the hungry soul every bitter thing is sweet.
+Verse_Ch: 27:8 人离本处飘流，好像雀鸟离窝游飞。 ###EN### Like a bird that wanders from her nest, So is a man who wanders from his place.
+Verse_Ch: 27:9 膏油与香料使人心喜乐；人的劝戒，对他朋友也是如此甘美。 ###EN### Oil and perfume rejoice the heart; So a man's counsel is sweet to his friend.
+Verse_Ch: 27:10 你不可撇开自己的朋友和父亲的朋友，而在遭难的日子上你弟兄的家去：相近的邻舍，强如远方的弟兄。 ###EN### Do not forsake your own friend or your father's friend To go to your brother's house in the day of your calamity: Better is a neighbor who is near than a brother far away.
+Verse_Ch: 27:11 我儿，你要作智慧人，好叫我的心快乐，使我可以回答那辱骂我的人。 ###EN### My son, be wise, and make my heart glad, That I may answer him who reproaches me.
+Verse_Ch: 27:12 灵巧人见祸藏躲，愚蒙人却前往受罚。 ###EN### A prudent man sees evil and hides himself; But the simple pass on and suffer punishment for it.
+Verse_Ch: 27:13 谁为生人作保，就拿谁的衣服；谁为外女作保，就向谁取抵押。 ###EN### Take the garment of him who is surety for a stranger, And hold one in pledge who is surety for a foreign woman.
+Verse_Ch: 27:14 清晨吵醒朋友，大声给他祝福的，就算是咒诅他。 ###EN### He who blesses his friend with a loud voice, Arousing him early in the morning, It will be reckoned as a curse to him.
+Verse_Ch: 27:15 大雨之日连连滴漏，和争吵的妇人一样； ###EN### A continual dripping on a very rainy day And a contentious woman are alike;
+Verse_Ch: 27:16 想拦阻她的，便是拦阻风，也是右手抓油。 ###EN### He who would restrain her restrains the wind, And grasps oil with his right hand.
+Verse_Ch: 27:17 铁磨铁，使铁锋利；人与朋友互相砥砺，也是如此。 ###EN### Iron sharpens iron; So a man sharpens the countenance of his friend.
+Verse_Ch: 27:18 看守无花果树的，必吃树上的果子；看护主人的，必得尊荣。 ###EN### Whoever tends a fig tree will eat its fruit, And he who takes care of his master will be honored.
+Verse_Ch: 27:19 水怎样映照人面，人心也照样反映其人。 ###EN### As in water face reflects face, So the heart of man reflects man.
+Verse_Ch: 27:20 阴间和灭亡总不满足，人的眼目也总不满足。 ###EN### Sheol and Abaddon are never satisfied, And the eyes of man are never satisfied.
+Verse_Ch: 27:21 鼎为炼银，炉为炼金，人的称赞也试炼人。 ###EN### The refining pot is for silver and the furnace for gold, And a man is tried by the praise given him.
+Verse_Ch: 27:22 你虽用杵将愚妄人与打碎的麦子一同捣在臼中，他的愚妄还是离不了他。 ###EN### Though you pound a fool in a mortar with a pestle along with crushed grain, His folly will not depart from him.
+Verse_Ch: 27:23 你要详细知道你羊群的景况，留心料理你的牛群－ ###EN### Know well the condition of your flocks, And pay attention to your herds -
+Verse_Ch: 27:24 因为财富不能永有，冠冕也不能代代常存。 ###EN### For riches are not forever, Nor does a crown endure from generation to generation -
+Verse_Ch: 27:25 干草割去，嫩草出现，山上的菜蔬也被收取时， ###EN### Then when the grass has disappeared, and the tender grass is seen, And the herbs of the mountains have been gathered in,
+Verse_Ch: 27:26 有羊羔的毛为作你衣服，山羊作田地的价值； ###EN### The lambs will be for your clothing, And the goats will bring the price of a field;
+Verse_Ch: 27:27 并有母山羊奶够你吃，也够你的家眷吃，且够你的婢女养生。 ###EN### And there will be goats' milk enough for your food, For the food of your household, And for the sustenance for your maidens.
+Chapter_Header: 28
+Verse_Ch: 28:1 恶人虽无人追赶也逃跑，义人却胆壮像狮子。 ###EN### The wicked flee when no man pursues, But the righteous are as bold as a lion.
+Verse_Ch: 28:2 国中有叛逆，君王就多更换；因有聪明知识的人，国必长存。 ###EN### When a land revolts, it has many rulers; But by him who has understanding and knowledge it endures.
+Verse_Ch: 28:3 穷人欺压贫民，好像暴雨冲没粮食。 ###EN### A destitute man who oppresses the poor Is like a driving rain which leaves no food.
+Verse_Ch: 28:4 违弃律法的，夸奖恶人；遵守律法的，却与恶人相争。 ###EN### Those who forsake the law praise the wicked, But those who keep the law contend with them.
+Verse_Ch: 28:5 坏人不明白公理，惟有寻求耶和华的，明白一切。 ###EN### Evil men do not understand justice, But those who seek Jehovah understand all things.
+Verse_Ch: 28:6 行为纯全的穷乏人，胜过行径乖僻的富足人。 ###EN### Better is a poor man who walks in his integrity Than he who is perverse in his ways though he is rich.
+Verse_Ch: 28:7 谨守律法的，是聪明之子；与贪食人作伴的，却羞辱其父。 ###EN### Whoever keeps the law is an understanding son, But he who is a companion of gluttons shames his father.
+Verse_Ch: 28:8 以高利厚息加增财物的，是为那恩待穷人者积蓄。 ###EN### He who increases his substance by interest and usury Gathers it for him who is gracious to the poor.
+Verse_Ch: 28:9 转耳不听律法的，他的祷告也为可憎。 ###EN### He who turns away his ear from hearing the law, Even his prayer is an abomination.
+Verse_Ch: 28:10 使正直人岔入恶道的，必掉在自己的坑里，惟有完全人必承受美福。 ###EN### Whoever causes the upright to go astray in an evil way Will himself fall into his own pit, But the perfect will inherit good.
+Verse_Ch: 28:11 富足人自以为有智慧，但聪明的贫穷人能将他查透。 ###EN### The rich man is wise in his own conceit, But the poor man who has understanding searches him out.
+Verse_Ch: 28:12 义人得胜，有大荣耀；恶人兴起，人就躲藏。 ###EN### When the righteous triumph, there is great glory; But when the wicked rise, men hide themselves.
+Verse_Ch: 28:13 遮掩自己罪过的，必不亨通；承认离弃罪过的，必蒙怜悯。 ###EN### He who covers his transgressions will not prosper, But whoever confesses and forsakes them will obtain mercy.
+Verse_Ch: 28:14 常存敬畏的，便为有福；心存刚硬的，必陷在祸患里。 ###EN### Blessed is the man who always fears, But he who hardens his heart will fall into calamity.
+Verse_Ch: 28:15 暴虐的官长辖制贫民，好像吼叫的狮子、往来觅食的熊。 ###EN### Like a roaring lion and a roving bear Is a wicked ruler over a poor people.
+Verse_Ch: 28:16 昏庸的首领多行暴虐，但恨恶不义之财的，必年长日久。 ###EN### The ruler who lacks understanding is also a great oppressor, But he who hates unjust gain will prolong his days.
+Verse_Ch: 28:17 背负流人血之罪的，必逃亡至死，谁也不可支持他。 ###EN### A man who is burdened with a person's blood Will be a fugitive until death; Let no man support him.
+Verse_Ch: 28:18 行动正直的，必蒙拯救；行径弯曲的，立时跌倒。 ###EN### Whoever walks uprightly will be delivered, But he who is perverse in his ways will fall all at once.
+Verse_Ch: 28:19 耕种自己田地的，必得饱食；追随虚浮的，必饱受穷乏。 ###EN### He who tills his land will have plenty of bread, But he who pursues worthless things will have plenty of poverty.
+Verse_Ch: 28:20 忠信人必多得福；急于发财的，难免受罚。 ###EN### A faithful man will abound with blessings, But he who makes haste to be rich will not go unpunished.
+Verse_Ch: 28:21 看人的情面乃为不好，因人会为一块饼犯法。 ###EN### To have respect of persons is not good, Because for a piece of bread a man will transgress.
+Verse_Ch: 28:22 嫉妒的人急于发财，却不知穷乏必临到他身上。 ###EN### A man who is envious hastens after wealth, And does not know that want will come upon him.
+Verse_Ch: 28:23 责备人的后来得人喜悦，多于那用舌头谄媚人的。 ###EN### He who rebukes a man will afterward find more favor Than he who flatters with the tongue.
+Verse_Ch: 28:24 抢夺父母，且说这不是过犯，这人是与强盗同伙。 ###EN### Whoever robs his father or his mother and says, It is no transgression, Is the companion of a man who destroys.
+Verse_Ch: 28:25 贪婪的人挑启纷争，信靠耶和华的必得丰裕。 ###EN### A greedy person stirs up contention, But he who trusts in Jehovah will prosper.
+Verse_Ch: 28:26 心中自恃的是愚昧人，凭智慧而行的必蒙拯救。 ###EN### He who trusts in his own heart is a fool, But he who walks wisely will be delivered.
+Verse_Ch: 28:27 赒济贫穷的不至缺乏，佯为不见的必多受咒诅。 ###EN### He who gives to the poor man will not lack, But he who shuts his eyes will have many curses.
+Verse_Ch: 28:28 恶人兴起，人就躲藏；恶人灭亡，义人增多。 ###EN### When the wicked rise, men hide themselves; But when they perish, the righteous increase.
+Chapter_Header: 29
+Verse_Ch: 29:1 人屡次受责备，仍然硬着颈项，他必顷刻破败，无法可治。 ###EN### He who hardens his neck after being often reproved Will suddenly be broken beyond remedy.
+Verse_Ch: 29:2 义人增多，民就喜乐；恶人掌权，民就叹息。 ###EN### When the righteous increase, the people rejoice; But when a wicked man rules, the people groan.
+Verse_Ch: 29:3 爱慕智慧的，使父亲喜乐；与妓女结交的，浪费赀财。 ###EN### Whoever loves wisdom makes his father glad, But he who keeps company with harlots wastes his substance.
+Verse_Ch: 29:4 王藉公平，使国坚立，但收取贿赂的，使国倾覆。 ###EN### The king by justice establishes the land, But a man who takes bribes overthrows it.
+Verse_Ch: 29:5 谄媚邻舍的，就是张设网罗绊他的脚。 ###EN### A man who flatters his neighbor Spreads a net for his steps.
+Verse_Ch: 29:6 恶人因过犯，自陷网罗，义人却欢呼喜乐。 ###EN### In the transgression of an evil man there is a snare, But the righteous man sings and rejoices.
+Verse_Ch: 29:7 义人知道穷人的权益；恶人没有聪明，就不得而知。 ###EN### The righteous man knows the rights of the poor; The wicked man has no understanding of such knowledge.
+Verse_Ch: 29:8 亵慢人煽惑通城，智慧人却使怒气转消。 ###EN### Scorners set a city aflame, But wise men turn away wrath.
+Verse_Ch: 29:9 智慧人与愚妄人相争，愚妄人或怒或笑，总不能止息。 ###EN### If a wise man has a controversy with a foolish man, The fool is either angry or laughs, and there is no rest.
+Verse_Ch: 29:10 好流人血的，恨恶完全人，寻索正直人的性命。 ###EN### The bloodthirsty hate one who is perfect, And they seek the life of the upright.
+Verse_Ch: 29:11 愚昧人怒气全发，智慧人忍气含怒。 ###EN### A fool utters all his anger, But a wise man holds it back.
+Verse_Ch: 29:12 君王若听信虚假的话，他一切臣仆必都是奸恶的。 ###EN### If a ruler pays attention to a false word, All his servants are wicked.
+Verse_Ch: 29:13 贫穷人和欺压人的，在一件事上都一样，就是他们的眼目都蒙耶和华光照。 ###EN### The poor man and the oppressor have this in common: Jehovah gives light to the eyes of them both.
+Verse_Ch: 29:14 君王若凭真实判断穷人，他的国位必永远坚立。 ###EN### If a king judges the poor in truth, His throne will be established forever.
+Verse_Ch: 29:15 杖打和责备能赐智慧，放纵的孩子使他母亲羞愧。 ###EN### The rod and reproof give wisdom, But a child left to himself brings shame to his mother.
+Verse_Ch: 29:16 恶人加多，过犯也加多；义人必看见他们跌倒。 ###EN### When the wicked increase, transgression increases; But the righteous will see their fall.
+Verse_Ch: 29:17 管教你的儿子，他就使你得安息；他也必使你魂里喜悦。 ###EN### Correct your son, and he will give you rest; He will also give delight to your soul.
+Verse_Ch: 29:18 没有异象，民就放肆；惟遵守律法的，便为有福。 ###EN### Where there is no vision, the people cast off restraint; But happy is he who keeps the law.
+Verse_Ch: 29:19 只用言语，仆人不肯受管教；他虽然明白，也没有反应。 ###EN### A servant will not be corrected by words alone; For though he understands, there will be no response.
+Verse_Ch: 29:20 你见过言语急躁的人么？愚昧人比他更有指望。 ###EN### Do you see a man who is hasty in his words? There is more hope for a fool than for him.
+Verse_Ch: 29:21 人将仆人从幼娇养，这仆人终久必成了他的儿子。 ###EN### He who delicately brings up his servant from a child Will have him as a son in the end.
+Verse_Ch: 29:22 好生气的人挑启纷争，暴怒的人多有过犯。 ###EN### An angry man stirs up contention, And a furious man abounds in transgression.
+Verse_Ch: 29:23 人的骄傲必使他降卑，灵里谦卑的必得尊荣。 ###EN### A man's pride will bring him low, But he who is of a lowly spirit will obtain honor.
+Verse_Ch: 29:24 与盗贼均分的，是恨恶自己的性命；他听见叫人发誓作证的声音，却不言语。 ###EN### Whoever is partner with a thief hates his own soul; He hears the adjuration and utters nothing.
+Verse_Ch: 29:25 惧怕人的陷入网罗，惟有信靠耶和华的，必得高举。 ###EN### The fear of man brings a snare, But whoever puts his trust in Jehovah will be exalted.
+Verse_Ch: 29:26 多人寻求王的恩宠，惟有从耶和华，人才得公理。 ###EN### Many seek the ruler's favor, But justice for man comes from Jehovah.
+Verse_Ch: 29:27 不公正的人，为义人所憎嫌；行径正直的人，为恶人所憎恶。 ###EN### An unjust man is an abomination to the righteous, And he who is upright in the way is an abomination to the wicked man.
+Chapter_Header: 30
+Verse_Ch: 30:1 雅基的儿子亚古珥的言语，就是谕言。这人对以铁，对以铁和乌甲说： ###EN### The words of Agur the son of Jakeh. The oracle. The man declares to Ithiel, to Ithiel and Ucal:
+Verse_Ch: 30:2 我比众人更蠢笨，也没有人的聪明； ###EN### Surely I am more stupid than any man, And do not have a man's understanding;
+Verse_Ch: 30:3 我没有学得智慧，也不认识至圣者。 ###EN### And I have not learned wisdom, Nor do I have the knowledge of the Holy One.
+Verse_Ch: 30:4 谁升天又降下来？谁聚风在掌握中？谁包水在衣服里？谁立定地的四极？祂名叫什么？祂儿子名叫什么，你知道么？ ###EN### Who has ascended into heaven and descended? Who has gathered the wind in His fists? Who has wrapped up the waters in His garment? Who has established all the ends of the earth? What is His name, and what is His Son's name, if you know?
+Verse_Ch: 30:5 神的言语，句句都是炼净的；投靠祂的，祂便作他们的盾牌。 ###EN### Every word of God is tried; He is a shield to those who take refuge in Him.
+Verse_Ch: 30:6 祂的言语，你不可加添，恐怕祂责备你，你就显为说谎言的。 ###EN### Do not add to His words, Lest He reprove you and you be found a liar.
+Verse_Ch: 30:7 我求你两件事，在我死前，不要不应允我： ###EN### Two things I have asked of You; Do not refuse me before I die:
+Verse_Ch: 30:8 求你使虚假和谎言远离我。求你使我也不贫穷也不富足；我需用的那分饮食，求你供给我， ###EN### Remove far from me falsehood and lies. Give me neither poverty nor riches; Feed me with the food that is my portion,
+Verse_Ch: 30:9 免得我饱足了，就否认你，说，耶和华是谁？又免得我贫穷就偷窃，以致亵渎我神的名。 ###EN### Lest I become full and deny You and say, Who is Jehovah? Or lest I become poor and steal and profane the name of my God.
+Verse_Ch: 30:10 你不要向主人谗谤仆人，恐怕他咒诅你，你便为有罪。 ###EN### Do not slander a servant to his master, Lest he curse you, and you be held guilty.
+Verse_Ch: 30:11 有一代人咒诅父亲，不给母亲祝福。 ###EN### There is a generation that curse their father, And do not bless their mother.
+Verse_Ch: 30:12 有一代人自以为清洁，却没有洗去自己的污秽。 ###EN### There is a generation that are pure in their own eyes, And yet are not washed from their filthiness.
+Verse_Ch: 30:13 有一代人眼目何其高傲，眼皮也是傲然高抬。 ###EN### There is a generation-oh how lofty are their eyes, And their eyelids are raised arrogantly.
+Verse_Ch: 30:14 有一代人，牙如剑，齿如刀，要吞灭地上的困苦人，和人间的穷乏人。 ###EN### There is a generation whose teeth are like swords, And their jaw teeth like knives, To devour the afflicted from off the earth, And the needy from among men.
+Verse_Ch: 30:15 蚂蟥有两个女儿，常说，给呀，给呀。有三样不知足的，连不说够的共有四样， ###EN### The leech has two daughters, crying, Give, give. There are three things that are never satisfied, Indeed, four that do not say, Enough:
+Verse_Ch: 30:16 就是阴间，和不孕的胎，吸水不知足的地，和不说够的火。 ###EN### Sheol and the barren womb, The earth that is not satisfied with water, And the fire that does not say, Enough.
+Verse_Ch: 30:17 戏笑父亲、藐视而不听从母亲的，他的眼睛必为谷中的乌鸦啄出来，为雏鹰所吃。 ###EN### The eye that mocks his father And despises to obey his mother, The ravens of the valley will pick it out, And the young eagles will eat it.
+Verse_Ch: 30:18 我所测不透的奇妙有三样，连我所不知道的共有四样， ###EN### There are three things which are too wonderful for me, Indeed four which I do not know:
+Verse_Ch: 30:19 就是鹰在空中飞的道，蛇在磐石上爬的道，船在海中行的道，男与女交合的道。 ###EN### The way of an eagle in the sky, The way of a serpent upon a rock, The way of a ship in the midst of the sea, And the way of a man with a maiden.
+Verse_Ch: 30:20 淫妇的道是这样：她吃了，把嘴一抹就说，我没有行恶。 ###EN### This is the way of an adulterous woman: She eats and wipes her mouth And says, I have done no wickedness.
+Verse_Ch: 30:21 使地震动的有三样，连地担不起的共有四样， ###EN### Under three things the earth quakes, And under four, it cannot bear up:
+Verse_Ch: 30:22 就是仆人作王，愚顽人吃饱； ###EN### Under a servant when he is king, And a fool when he is filled with food;
+Verse_Ch: 30:23 讨人厌的女子出嫁，婢女接续主母。 ###EN### Under a hated woman when she gets married, And a servant girl who is heir to her mistress.
+Verse_Ch: 30:24 地上有四样小物，却极有智慧： ###EN### Four things are small on the earth, But they are exceedingly wise:
+Verse_Ch: 30:25 蚂蚁是无力之类，却在夏天预备粮食； ###EN### The ants are a clan without strength, Yet they prepare their food in the summer;
+Verse_Ch: 30:26 石獾是软弱之类，却在磐石中造屋； ###EN### The rock badgers are a clan without might, Yet they make their houses in the rocks;
+Verse_Ch: 30:27 群蝗没有君王，却分队而出； ###EN### The swarming locusts have no king, Yet all of them go out in ranks;
+Verse_Ch: 30:28 守宫可给人手抓捕，却住在王宫。 ###EN### The lizard can be grasped with the hands, Yet she is in kings' palaces.
+Verse_Ch: 30:29 步行威武的有三样，连行走威武的共有四样， ###EN### There are three things which are stately in their step, Indeed four which are stately in walking:
+Verse_Ch: 30:30 就是狮子，乃百兽中最为雄猛、面对任何野兽都不躲避的， ###EN### The lion, which is mightiest among beasts, And does not turn back before any;
+Verse_Ch: 30:31 昂首阔步、束着腰的雄鸡，公山羊，和率领军兵的君王。 ###EN### The strutting cock girded in the loins, or a male goat, And a king who has a band of soldiers with him.
+Verse_Ch: 30:32 你若行事愚顽，高抬自己，或是筹思恶计，就当用手捂口。 ###EN### If you have been foolish in exalting yourself, Or if you have thought an evil scheme, Put your hand upon your mouth.
+Verse_Ch: 30:33 搅动牛奶必出奶油，挤压鼻子必出血；照样，激动怒气必起争端。 ###EN### For the churning of milk produces butter, And the wringing of the nose brings forth blood, So the pressing of wrath brings forth strife.
+Chapter_Header: 31
+Verse_Ch: 31:1 利慕伊勒王的言语，是他母亲教训他的谕言： ###EN### The words of King Lemuel. The oracle which his mother taught him.
+Verse_Ch: 31:2 我儿阿，我腹中生的儿阿，我许愿所得的儿阿！我当说什么呢？ ###EN### What, my son? and what, O son of my womb? And what, O son of my vows?
+Verse_Ch: 31:3 不要将你的精力给妇女，也不要有那使君王毁灭的行径。 ###EN### Do not give your strength to women, Nor your ways to that which destroys kings.
+Verse_Ch: 31:4 利慕伊勒阿，君王不可喝淡酒，绝对不可；首领也不可说，浓酒在那里？ ###EN### It is not for kings, O Lemuel, it is not for kings to drink wine; Nor for princes to say, Where is strong drink?
+Verse_Ch: 31:5 恐怕喝了就忘记所立的律例，颠倒一切困苦人的公理。 ###EN### Lest they drink and forget what is decreed, And pervert the rights of all the afflicted.
+Verse_Ch: 31:6 可以把浓酒给将亡的人喝，把淡酒给魂里愁苦的人喝， ###EN### Give strong drink rather to one who is perishing, And wine to the bitter in soul;
+Verse_Ch: 31:7 让他喝了就忘记他的贫穷，不再记念他的苦恼。 ###EN### Let him drink and forget his poverty, And remember his misery no more.
+Verse_Ch: 31:8 你当为哑吧开口，为一切将过去的人伸冤。 ###EN### Open your mouth for the dumb, And for the rights of all those who are passing away.
+Verse_Ch: 31:9 你当开口按公义审判，为困苦和穷乏人秉持公理。 ###EN### Open your mouth; judge righteously, And minister justice to the poor and needy.
+Verse_Ch: 31:10 才德的妇人谁能得着呢？她的价值远胜过珠宝。 ###EN### Who can find a worthy woman? For her price is far above jewels.
+Verse_Ch: 31:11 她丈夫心里倚靠她，必不缺少利益。 ###EN### The heart of her husband trusts in her, And he will have no lack of gain.
+Verse_Ch: 31:12 她一生的日子使丈夫有益无损。 ###EN### She does him good and not evil All the days of her life.
+Verse_Ch: 31:13 她寻找羊毛和麻，乐意亲手作工。 ###EN### She seeks wool and flax, And delights to work with her hands.
+Verse_Ch: 31:14 她好像商船从远方运粮来， ###EN### She is like the merchant ships; She brings her food from afar.
+Verse_Ch: 31:15 天还黑她就起来，把食物分给家中的人，将当作的工分派婢女。 ###EN### She rises also while it is still night And gives food to her household, And their task to her serving girls.
+Verse_Ch: 31:16 她想得田地就买来；用手所得的成果，栽种葡萄园。 ###EN### She considers a field and buys it; With the fruit of her hands she plants a vineyard.
+Verse_Ch: 31:17 她以能力束腰，使膀臂有力。 ###EN### She girds her loins with strength And makes strong her arms.
+Verse_Ch: 31:18 她检试自作的商品，确定都是好的；她的灯终夜不灭。 ###EN### She samples her merchandise to be sure it is good; Her lamp does not go out by night.
+Verse_Ch: 31:19 她手拿捻线竿，手握纺线锤。 ###EN### She lays her hands to the distaff, And her hands hold on to the spindle.
+Verse_Ch: 31:20 她张手赒济困苦人，伸手帮补穷乏人。 ###EN### She stretches out her hand to the afflicted, And she reaches out her hands to the needy.
+Verse_Ch: 31:21 她不因下雪为家里的人担心，因为全家都穿着朱红衣服。 ###EN### She does not fear for her household when it snows, For all her household are clothed with scarlet.
+Verse_Ch: 31:22 她为自己制作毯子；她的衣服是细麻和紫色布作的。 ###EN### She makes coverings for herself; Her clothing is fine linen and purple.
+Verse_Ch: 31:23 她丈夫在城门口与本地的长老同坐，为众人所认识。 ###EN### Her husband is known in the gates, When he sits among the elders of the land.
+Verse_Ch: 31:24 她作细麻布衣裳出卖，又将腰带供给商家。 ###EN### She makes linen garments and sells them And delivers girdles to the merchant.
+Verse_Ch: 31:25 能力和威仪是她的衣服，她想到日后的景况就喜笑。 ###EN### Strength and dignity are her clothing, And she happily looks forward to the time to come.
+Verse_Ch: 31:26 她开口就发智慧，她舌上有慈爱的法则。 ###EN### She opens her mouth with wisdom, And the law of kindness is on her tongue.
+Verse_Ch: 31:27 她观察家务，并不吃闲饭。 ###EN### She watches closely over the ways of her household And does not eat the bread of idleness.
+Verse_Ch: 31:28 她的儿女起来称她有福；她的丈夫也称赞她，说， ###EN### Her children rise up and call her blessed; Her husband also, and he praises her, saying:
+Verse_Ch: 31:29 行事有才德的女子很多，惟独你超过众人。 ###EN### Many daughters have done worthily, But you surpass them all.
+Verse_Ch: 31:30 艳丽是虚假的，美容是虚浮的；惟敬畏耶和华的妇女，必得称赞。 ###EN### Grace is deceitful, and beauty is vain; But a woman who fears Jehovah, she will be praised.
+Verse_Ch: 31:31 愿她得着亲手操劳的果效，愿她的工作使她在城门口得称赞。 ###EN### Give her of the fruit of her hands, And let her works praise her in the gates.

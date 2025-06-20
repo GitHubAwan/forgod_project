@@ -1,0 +1,1099 @@
+Chapter_Header: 1
+Verse_Ch: 1:1 耶稣基督，大卫的子孙，亚伯拉罕子孙的家谱： ###EN### The book of the generation of Jesus Christ, the son of David, the son of Abraham:
+Verse_Ch: 1:2 亚伯拉罕生以撒，以撒生雅各，雅各生犹大和他的弟兄们， ###EN### Abraham begot Isaac, and Isaac begot Jacob, and Jacob begot Judah and his brothers,
+Verse_Ch: 1:3 犹大从他玛氏生法勒斯和谢拉，法勒斯生希斯仑，希斯仑生亚兰， ###EN### And Judah begot Pharez and Zarah of Tamar, and Pharez begot Hezron, and Hezron begot Aram,
+Verse_Ch: 1:4 亚兰生亚米拿达，亚米拿达生拿顺，拿顺生撒门， ###EN### And Aram begot Aminadab, and Aminadab begot Nahshon, and Nahshon begot Salmon,
+Verse_Ch: 1:5 撒门从喇合氏生波阿斯，波阿斯从路得氏生俄备得，俄备得生耶西， ###EN### And Salmon begot Boaz of Rahab, and Boaz begot Obed of Ruth, and Obed begot Jesse,
+Verse_Ch: 1:6 耶西生大卫王。大卫从作过乌利亚妻子的生所罗门， ###EN### And Jesse begot David the king. And David begot Solomon of her who had been the wife of Uriah,
+Verse_Ch: 1:7 所罗门生罗波安，罗波安生亚比雅，亚比雅生亚撒， ###EN### And Solomon begot Rehoboam, and Rehoboam begot Abijah, and Abijah begot Asa,
+Verse_Ch: 1:8 亚撒生约沙法，约沙法生约兰，约兰生乌西亚， ###EN### And Asa begot Jehoshaphat, and Jehoshaphat begot Joram, and Joram begot Uzziah,
+Verse_Ch: 1:9 乌西亚生约坦，约坦生亚哈斯，亚哈斯生希西家， ###EN### And Uzziah begot Jotham, and Jotham begot Ahaz, and Ahaz begot Hezekiah,
+Verse_Ch: 1:10 希西家生玛拿西，玛拿西生亚们，亚们生约西亚。 ###EN### And Hezekiah begot Manasseh, and Manasseh begot Amon, and Amon begot Josiah.
+Verse_Ch: 1:11 在迁徙巴比伦的时候，约西亚生耶哥尼雅和他的弟兄们。 ###EN### And Josiah begot Jeconiah and his brothers at the time of the deportation to Babylon.
+Verse_Ch: 1:12 迁徙到巴比伦以后，耶哥尼雅生撒拉铁，撒拉铁生所罗巴伯， ###EN### And after the deportation to Babylon, Jeconiah begot Salathiel, and Salathiel begot Zerubbabel,
+Verse_Ch: 1:13 所罗巴伯生亚比玉，亚比玉生以利亚敬，以利亚敬生亚所， ###EN### And Zerubbabel begot Abiud, and Abiud begot Eliakim, and Eliakim begot Azor,
+Verse_Ch: 1:14 亚所生撒督，撒督生亚金，亚金生以律， ###EN### And Azor begot Zadok, and Zadok begot Achim, and Achim begot Eliud,
+Verse_Ch: 1:15 以律生以利亚撒，以利亚撒生马但，马但生雅各， ###EN### And Eliud begot Eleazar, and Eleazar begot Matthan, and Matthan begot Jacob,
+Verse_Ch: 1:16 雅各生约瑟，就是马利亚的丈夫，那称为基督的耶稣，是从马利亚生的。 ###EN### And Jacob begot Joseph the husband of Mary, of whom was born Jesus, who is called Christ.
+Verse_Ch: 1:17 这样，从亚伯拉罕到大卫，共十四代；从大卫到迁徙巴比伦，也是十四代；从迁徙巴比伦到基督，又是十四代。 ###EN### Thus all the generations from Abraham until David are fourteen generations, and from David until the deportation to Babylon, fourteen generations, and from the deportation to Babylon until the Christ, fourteen generations.
+Verse_Ch: 1:18 耶稣基督的由来，乃是这样：祂母亲马利亚已经许配了约瑟，他们还没有同居，马利亚就被看出怀了孕，就是她从圣灵所怀的。 ###EN### Now the origin of Jesus Christ was in this way: His mother, Mary, after she had been engaged to Joseph, before they came together, was found to be with child of the Holy Spirit.
+Verse_Ch: 1:19 她丈夫约瑟是个义人，不愿明明的羞辱她，想要暗暗的把她退了。 ###EN### And Joseph her husband, being righteous and not willing to disgrace her openly, intended to send her away secretly.
+Verse_Ch: 1:20 正思念这事的时候，看哪，有主的使者向他梦中显现，说，大卫的子孙约瑟，不要怕，只管娶过你的妻子马利亚来，因那生在她里面的，乃是出于圣 灵。 ###EN### But while he pondered these things, behold, an angel of the Lord appeared to him in a dream, saying, Joseph, son of David, do not be afraid to take Mary your wife, for that which has been begotten in her is of the Holy Spirit.
+Verse_Ch: 1:21 她将要生一个儿子，你要给祂起名叫耶稣，因祂要亲自将祂的百姓从他们的罪里救出来。 ###EN### And she will bear a son, and you shall call His name Jesus, for it is He who will save His people from their sins.
+Verse_Ch: 1:22 这一切成就了，为要应验主借着申言者所说的，说， ###EN### Now all this has happened so that what was spoken by the Lord through the prophet might be fulfilled, saying,
+Verse_Ch: 1:23 “看哪，必有童女怀孕生子，人要称祂的名为以马内利。”（以马内利翻出来，就是神与我们同在。） " ###EN### Behold, the virgin shall be with child and shall bear a son, and they shall call His name Emmanuel'' (which is translated, God with us).
+Verse_Ch: 1:24 约瑟从睡中醒来，就遵着主使者的吩咐，把他的妻子娶过来， ###EN### And when Joseph awoke from his sleep, he did as the angel of the Lord commanded him and took to himself his wife.
+Verse_Ch: 1:25 只是没有和她同房，等她生了儿子，就给祂起名叫耶稣。 ###EN### And he did not know her until she bore a son. And he called His name Jesus.
+Chapter_Header: 2
+Verse_Ch: 2:1 在希律王的日子，耶稣生在犹太的伯利恒。看哪，有星象家从东方来到耶路撒冷，说， ###EN### Now after Jesus was born in Bethlehem of Judea in the days of Herod the king, behold, magi from the east arrived in Jerusalem,
+Verse_Ch: 2:2 那生为犹太人之王的在那里？因为祂的星出现的时候，我们看见了，就前来拜祂。 ###EN### Saying, Where is He who has been born King of the Jews? For we saw His star at its rising and have come to worship Him.
+Verse_Ch: 2:3 希律王听见了，就惊慌不安，全耶路撒冷也同他一样。 ###EN### And when Herod the king heard this, he was troubled and all Jerusalem with him.
+Verse_Ch: 2:4 他就召集了所有的祭司长和民间的经学家，向他们查问，基督当生在何处。 ###EN### And gathering together all the chief priests and scribes of the people, he inquired of them where the Christ was to be born.
+Verse_Ch: 2:5 他们对他说，在犹太的伯利恒，因为借着申言者所记的是这样： ###EN### And they said to him, In Bethlehem of Judea, for so it is written through the prophet:
+Verse_Ch: 2:6 “犹大地的伯利恒阿！你在犹大的首领中，绝不是最小的，因为有一位掌权者要从你出来，牧养我民以色列。” " ###EN### And you, Bethlehem, land of Judah, by no means are you the least among the princes of Judah; for out of you shall come forth a Ruler, One who will shepherd My people Israel.''
+Verse_Ch: 2:7 当下，希律王暗暗的召了星象家来，向他们确查那星出现的时间， ###EN### Then Herod, secretly calling the magi, determined accurately from them the time that the star appeared.
+Verse_Ch: 2:8 就差他们往伯利恒去，说，你们去详确的搜寻那孩子，寻到了，就报告我，我也好去拜祂。 ###EN### And sending them to Bethlehem, he said, Go and find out accurately about the child. And when you find Him, report to me, so that I also may come and worship Him.
+Verse_Ch: 2:9 他们听了王的话，就去了。看哪，他们曾看见它出现的那星，在他们前头领路，直领到那孩子那里，就在上头停住了。 ###EN### And after they heard the king, they went their way, and behold, the star which they saw at its rising led them until it came and stood over the place where the child was.
+Verse_Ch: 2:10 他们看见那星，就极其欢乐。 ###EN### And when they saw the star, they rejoiced exceedingly with great joy.
+Verse_Ch: 2:11 进了屋子，看见那孩子和祂母亲马利亚，就俯伏拜祂，揭开宝盒，向祂献上黄金、乳香和没药为礼物。 ###EN### And they came into the house and saw the child with Mary His mother. And falling down, they worshipped Him; and opening their treasures, they offered gifts to Him, gold and frankincense and myrrh.
+Verse_Ch: 2:12 星象家既在梦中受神指示，不要回去见希律，就从别的路回本地去了。 ###EN### And because they had been divinely instructed in a dream not to return to Herod, they departed by another way to their country.
+Verse_Ch: 2:13 他们离开以后，看哪，有主的使者向约瑟梦中显现，说，起来，带着孩子和祂母亲逃往埃及，留在那里，等我吩咐你，因为希律要寻找孩子，好除灭 祂。 ###EN### Now when they had departed, behold, an angel of the Lord appeared in a dream to Joseph, saying, Arise, take the child and His mother and flee into Egypt, and stay there until I tell you; for Herod is going to seek the child to destroy Him.
+Verse_Ch: 2:14 约瑟就起来，趁夜带着孩子和祂母亲往埃及去， ###EN### And he arose and took the child and His mother by night and departed into Egypt,
+Verse_Ch: 2:15 留在那里，直到希律死了。这是要应验主借着申言者所说的，说，“我从埃及召出我的儿子来。” ###EN### And was there until the death of Herod, in order that what was spoken by the Lord through the prophet might be fulfilled, saying, "Out of Egypt I called My Son.''
+Verse_Ch: 2:16 希律见自己为星象家所愚弄，就极其恼怒，差人将伯利恒城里，并四境所有的男孩，照着他从星象家所确查的时间，凡两岁以内的尽都除掉了。 ###EN### Then Herod, seeing that he had been mocked by the magi, became greatly enraged, and sending out men, he did away with all the boys who were in Bethlehem and in all its borders from two years old and under, according to the time that he had accurately determined from the magi.
+Verse_Ch: 2:17 这就应验了那借着申言者耶利米所说的，说， ###EN### At that time what was spoken through Jeremiah the prophet was fulfilled, saying,
+Verse_Ch: 2:18 “在拉玛听见号啕大哭的声音，是拉结哭她的儿女，不肯受安慰，因为他们都不在了。” " ###EN### A voice in Ramah was heard, weeping and great lamentation: Rachel weeping for her children, and she would not be comforted, because they are no more.''
+Verse_Ch: 2:19 希律死了以后，看哪，有主的使者在埃及向约瑟梦中显现，说， ###EN### And when Herod had died, behold, an angel of the Lord appeared in a dream to Joseph in Egypt,
+Verse_Ch: 2:20 起来，带着孩子和祂母亲往以色列地去，因为寻索孩子性命的人已经死了。 ###EN### Saying, Arise, take the child and His mother and go into the land of Israel, for those who seek the life of the child have died.
+Verse_Ch: 2:21 约瑟就起来，带着孩子和祂母亲进入以色列地。 ###EN### And he arose and took the child and His mother and entered into the land of Israel.
+Verse_Ch: 2:22 只因听见亚基老接替他父亲希律作了犹太王，就怕往那里去；又在梦中受到神的指示，就往加利利境内去了。 ###EN### But because he heard that Archelaus was reigning over Judea in place of his father Herod, he was afraid to go there; and having been divinely instructed in a dream, he departed into the regions of Galilee.
+Verse_Ch: 2:23 到了一座城，名叫拿撒勒，就定居在那里。这是要应验那借着众申言者所说的，祂必称为拿撒勒人。 ###EN### And he came and settled in a city called Nazareth, so that what was spoken through the prophets might be fulfilled, He shall be called a Nazarene.
+Chapter_Header: 3
+Verse_Ch: 3:1 那时，施浸者约翰出来，在犹太的旷野传道说， ###EN### Now in those days John the Baptist appeared, preaching in the wilderness of Judea
+Verse_Ch: 3:2 你们要悔改，因为诸天的国已经临近了。 ###EN### And saying, Repent, for the kingdom of the heavens has drawn near.
+Verse_Ch: 3:3 这人就是那借着申言者以赛亚所说的，说，“在旷野有人声喊着：预备主的道路，修直祂的途径。” ###EN### For this is he who was spoken of through Isaiah the prophet, saying, "A voice of one crying in the wilderness, Prepare the way of the Lord; make straight His paths.''
+Verse_Ch: 3:4 约翰身穿骆驼毛的衣服，腰束皮带，吃的是蝗虫野蜜。 ###EN### Now this John had his garment of camel's hair and a leather girdle around his loins, and his food was locusts and wild honey.
+Verse_Ch: 3:5 那时，耶路撒冷和犹太全地，并约但河四周全境的人，都络绎的出去到约翰那里， ###EN### At that time Jerusalem and all Judea and all the surrounding region of the Jordan went out to him,
+Verse_Ch: 3:6 承认着他们的罪，在约但河里受他的浸。 ###EN### And they were baptized by him in the Jordan River as they confessed their sins.
+Verse_Ch: 3:7 约翰看见许多法利赛人和撒都该人，来受他的浸，就对他们说，毒蛇之种，谁指示你们逃避要来的忿怒？ ###EN### But when he saw many of the Pharisees and Sadducees coming to his baptism, he said to them, Offspring of vipers, who prompted you to flee from the coming wrath?
+Verse_Ch: 3:8 你们要结出果子，与悔改相称。 ###EN### Produce then fruit worthy of your repentance.
+Verse_Ch: 3:9 不要自己心里想着说，我们有亚伯拉罕作我们的祖宗。我告诉你们，神能从这些石头中给亚伯拉罕兴起子孙来。 ###EN### And do not presume to say within yourselves, We have Abraham as our father; for I tell you that God is able, out of these stones, to raise up children to Abraham.
+Verse_Ch: 3:10 现在斧头已经放在树根上，凡不结好果子的树，就砍下来，丢在火里。 ###EN### And already the axe is laid at the root of the trees. Every tree therefore that does not produce good fruit is cut down and cast into the fire.
+Verse_Ch: 3:11 我是将你们浸在水里，叫你们悔改；但那在我以后来的，能力比我更大，我就是给祂提鞋也不配，祂要将你们浸在圣灵与火里。 ###EN### I baptize you in water unto repentance, but He who is coming after me is stronger than I, whose sandals I am not worthy to carry. He Himself will baptize you in the Holy Spirit and fire,
+Verse_Ch: 3:12 祂手里拿着扬场的簸箕，要扬净祂的禾场，把祂的麦子收在仓里，把糠秕用不灭的火烧尽了。 ###EN### Whose winnowing fan is in His hand. And He will thoroughly cleanse His threshing floor and will gather His wheat into His barn, but the chaff He will burn up with unquenchable fire.
+Verse_Ch: 3:13 当下，耶稣从加利利出来，到约但河约翰那里，要受他的浸。 ###EN### Then Jesus came from Galilee to the Jordan to John to be baptized by him.
+Verse_Ch: 3:14 约翰想要拦住祂，说，我当受你的浸，你反到我这里来么？ ###EN### But John tried to prevent Him, saying, It is I who have need of being baptized by You, and You come to me?
+Verse_Ch: 3:15 耶稣回答说，你暂且容许我吧，因为我们理当这样尽全般的义。于是约翰容许了祂。 ###EN### But Jesus answered and said to him, Permit it for now, for it is fitting for us in this way to fulfill all righteousness. Then he permitted Him.
+Verse_Ch: 3:16 耶稣受了浸，随即从水里上来，看哪，诸天向祂开了，祂就看见神的灵，仿佛鸽子降下，落在祂身上。 ###EN### And having been baptized, Jesus went up immediately from the water, and behold, the heavens were opened to Him, and He saw the Spirit of God descending like a dove and coming upon Him.
+Verse_Ch: 3:17 看哪，又有声音从诸天之上出来，说，这是我的爱子，我所喜悦的。 ###EN### And behold, a voice out of the heavens, saying, This is My Son, the Beloved, in whom I have found My delight.
+Chapter_Header: 4
+Verse_Ch: 4:1 随后，耶稣被那灵引到旷野，受魔鬼的试诱。 ###EN### Then Jesus was led up into the wilderness by the Spirit to be tempted by the devil.
+Verse_Ch: 4:2 祂禁食了四十昼四十夜，后来就饿了。 ###EN### And when He had fasted forty days and forty nights, afterward He became hungry.
+Verse_Ch: 4:3 那试诱者进前来，对祂说，你若是神的儿子，就叫这些石头变成饼吧。 ###EN### And the tempter came and said to Him, If You are the Son of God, speak that these stones may become loaves of bread.
+Verse_Ch: 4:4 耶稣却回答说，经上记着，“人活着不是单靠食物，乃是靠神口里所出的一切话。” ###EN### But He answered and said, It is written, "Man shall not live on bread alone, but on every word that proceeds out through the mouth of God.''
+Verse_Ch: 4:5 而后魔鬼带祂进了圣城，叫祂站在殿翼上， ###EN### Then the devil took Him into the holy city and set Him on the wing of the temple,
+Verse_Ch: 4:6 对祂说，你若是神的儿子，就跳下去吧；因为经上记着，“主要为你吩咐祂的使者，用手托着你，免得你的脚碰在石头上。” ###EN### And said to Him, If You are the Son of God, cast Yourself down; for it is written, "To His angels He shall give charge concerning You, and on their hands they shall bear You up, lest You strike Your foot against a stone.''
+Verse_Ch: 4:7 耶稣对他说，经上又记着，“不可试探主你的神。” ###EN### Jesus said to him, Again, it is written, "You shall not test the Lord your God.''
+Verse_Ch: 4:8 魔鬼又带祂上到一座极高的山，将世上的万国，和万国的荣耀，都指给祂看， ###EN### Again, the devil took Him to a very high mountain and showed Him all the kingdoms of the world and their glory.
+Verse_Ch: 4:9 对祂说，你若俯伏拜我，我就把这一切都给你。 ###EN### And he said to Him, All these will I give You if You will fall down and worship me.
+Verse_Ch: 4:10 耶稣说，撒但，退去吧！因为经上记着，“当拜主你的神，单要事奉祂。” ###EN### Then Jesus said to him, Go away, Satan! For it is written, "You shall worship the Lord your God, and Him only shall you serve.''
+Verse_Ch: 4:11 于是魔鬼离开了耶稣，看哪，有天使进前来服事祂。 ###EN### Then the devil left Him, and behold, angels came and ministered to Him.
+Verse_Ch: 4:12 耶稣听见约翰下了监，就退到加利利去； ###EN### Now when He heard that John was delivered up, He withdrew into Galilee.
+Verse_Ch: 4:13 又离开拿撒勒，来住在西布伦和拿弗他利境内，靠海的迦百农。 ###EN### And leaving Nazareth, He came and dwelt in Capernaum, which is beside the sea in the borders of Zebulun and Naphtali,
+Verse_Ch: 4:14 这是要应验那借着申言者以赛亚所说的，说， ###EN### In order that what was spoken through Isaiah the prophet might be fulfilled, saying,
+Verse_Ch: 4:15 “西布伦地和拿弗他利地，沿海的路，约但河外，外邦人的加利利： " ###EN### Land of Zebulun and land of Naphtali, the way to the sea, beyond the Jordan, Galilee of the Gentiles:
+Verse_Ch: 4:16 那坐在黑暗中的百姓，看见了大光；并且向那些坐在死亡的境域和阴影中的人，有光出现，照着他们。” ###EN### The people sitting in darkness have seen a great light; and to those sitting in the region and shadow of death, to them light has risen.''
+Verse_Ch: 4:17 从那时候，耶稣开始传道，说，你们要悔改，因为诸天的国已经临近了。 ###EN### From that time Jesus began to proclaim and to say, Repent, for the kingdom of the heavens has drawn near.
+Verse_Ch: 4:18 耶稣在加利利海边行走，看见两个兄弟，就是那称呼彼得的西门，和他的兄弟安得烈，向海里撒网；他们本是渔夫。 ###EN### And while He was walking beside the Sea of Galilee, He saw two brothers, Simon, who is called Peter, and Andrew his brother, casting a net into the sea, for they were fishermen.
+Verse_Ch: 4:19 耶稣对他们说，来跟从我，我要使你们作得人的渔夫。 ###EN### And He said to them, Come after Me, and I will make you fishers of men.
+Verse_Ch: 4:20 他们就立刻撇下网，跟从了祂。 ###EN### And immediately leaving the nets, they followed Him.
+Verse_Ch: 4:21 祂从那里往前走，看见另外两个兄弟，就是西庇太的儿子雅各和他的兄弟约翰，正同他们的父亲西庇太在船上补网，祂就呼召他们。 ###EN### And going on from there, He saw another two brothers, James the son of Zebedee and John his brother, in the boat with Zebedee their father, mending their nets; and He called them.
+Verse_Ch: 4:22 他们立刻撇下船和他们的父亲，跟从了祂。 ###EN### And immediately leaving the boat and their father, they followed Him.
+Verse_Ch: 4:23 耶稣走遍加利利，在他们的会堂里施教，传扬国度的福音，医治百姓各样的疾病，和各种的症候。 ###EN### And Jesus went about in all of Galilee, teaching in their synagogues and proclaiming the gospel of the kingdom and healing every disease and every sickness among the people.
+Verse_Ch: 4:24 祂的名声就传遍了叙利亚；那里的人把一切患病的，就是为各样疾病和疼痛所困迫的，以及鬼附的、癫痫的和瘫痪的，都带到祂那里，祂就治好了他 们。 ###EN### And the report concerning Him went out into all of Syria; and they brought to Him all who were ill, those afflicted with various diseases and torments and those possessed by demons and epileptics and paralytics; and He healed them.
+Verse_Ch: 4:25 并且有好多群众从加利利、低加波利、耶路撒冷、犹太和约但河外，来跟着祂。 ###EN### And great crowds followed Him from Galilee and Decapolis and Jerusalem and Judea and from beyond the Jordan.
+Chapter_Header: 5
+Verse_Ch: 5:1 但祂看见这些群众，就上了山；既已坐下，门徒到祂跟前来。 ###EN### And when He saw the crowds, He went up to the mountain. And after He sat down, His disciples came to Him.
+Verse_Ch: 5:2 祂就开口教训他们说， ###EN### And opening His mouth, He taught them, saying,
+Verse_Ch: 5:3 灵里贫穷的人有福了，因为诸天的国是他们的。 ###EN### Blessed are the poor in spirit, for theirs is the kingdom of the heavens.
+Verse_Ch: 5:4 哀恸的人有福了，因为他们必得安慰。 ###EN### Blessed are those who mourn, for they shall be comforted.
+Verse_Ch: 5:5 温柔的人有福了，因为他们必承受地土。 ###EN### Blessed are the meek, for they shall inherit the earth.
+Verse_Ch: 5:6 饥渴慕义的人有福了，因为他们必得饱足。 ###EN### Blessed are those who hunger and thirst for righteousness, for they shall be satisfied.
+Verse_Ch: 5:7 怜悯人的人有福了，因为他们必蒙怜悯。 ###EN### Blessed are the merciful, for they shall be shown mercy.
+Verse_Ch: 5:8 清心的人有福了，因为他们必看见神。 ###EN### Blessed are the pure in heart, for they shall see God.
+Verse_Ch: 5:9 制造和平的人有福了，因为他们必称为神的儿子。 ###EN### Blessed are the peacemakers, for they shall be called the sons of God.
+Verse_Ch: 5:10 为义受逼迫的人有福了，因为诸天的国是他们的。 ###EN### Blessed are those who are persecuted for the sake of righteousness, for theirs is the kingdom of the heavens.
+Verse_Ch: 5:11 人若因我的缘故，辱骂你们，逼迫你们，捏造各样坏话毁谤你们，你们就有福了。 ###EN### Blessed are you when they reproach and persecute you, and while speaking lies, say every evil thing against you because of Me.
+Verse_Ch: 5:12 应当喜乐欢腾，因为你们在诸天之上的赏赐是大的；原来在你们以前的申言者，人也是这样逼迫他们。 ###EN### Rejoice and exult, for your reward is great in the heavens; for so they persecuted the prophets who were before you.
+Verse_Ch: 5:13 你们是地上的盐；盐若失了味，可用什么叫它再咸？既无任何用处，只好丢在外面，任人践踏了。 ###EN### You are the salt of the earth. But if the salt has become tasteless, with what shall it be salted? It is no longer good for anything except to be cast out and trampled underfoot by men.
+Verse_Ch: 5:14 你们是世上的光。城立在山上，是不能隐藏的。 ###EN### You are the light of the world. It is impossible for a city situated upon a mountain to be hidden.
+Verse_Ch: 5:15 人点灯，也不放在斗底下，乃是放在灯台上，就照亮所有在家里的人。 ###EN### Nor do men light a lamp and place it under the bushel, but on the lampstand; and it shines to all who are in the house.
+Verse_Ch: 5:16 你们的光也当这样照在人前，叫他们看见你们的好行为，就荣耀你们在诸天之上的父。 ###EN### In the same way, let your light shine before men, so that they may see your good works and glorify your Father who is in the heavens.
+Verse_Ch: 5:17 不要以为我来是要废除律法或申言者；我来不是要废除，乃是要成全。 ###EN### Do not think that I have come to abolish the law or the prophets; I have not come to abolish, but to fulfill.
+Verse_Ch: 5:18 我实在告诉你们，即使到天地都过去了，律法的一撇或一画，也绝不能过去，直到一切都得成全。 ###EN### For truly I say to you, Until heaven and earth pass away, one iota or one serif shall by no means pass away from the law until all come to pass.
+Verse_Ch: 5:19 所以无论谁废掉这些诫命中最小的一条，又这样教训人，他在诸天的国里必称为最小的；但无论谁遵行这些诫命，又这样教训人，这人在诸天的国里 必称为大的。 ###EN### Therefore whoever annuls one of the least of these commandments, and teaches men so, shall be called the least in the kingdom of the heavens; but whoever practices and teaches them, he shall be called great in the kingdom of the heavens.
+Verse_Ch: 5:20 我告诉你们，你们的义，若不超过经学家和法利赛人的义，绝不能进诸天的国。 ###EN### For I say to you that unless your righteousness surpasses that of the scribes and Pharisees, you shall by no means enter into the kingdom of the heavens.
+Verse_Ch: 5:21 你们听见有对古人说的话：“不可杀人；凡杀人的，难逃审判。” ###EN### You have heard that it was said to the ancients, "You shall not murder, and whoever murders shall be liable to the judgment.''
+Verse_Ch: 5:22 但是我告诉你们，凡向弟兄动怒的，难逃审判。凡骂弟兄拉加的，难逃议会的审判；凡骂弟兄魔利的，难逃火坑的火。 ###EN### But I say to you that every one who is angry with his brother shall be liable to the judgment. And whoever says to his brother, Raca, shall be liable to the judgment of the Sanhedrin; and whoever says, Moreh, shall be liable to the Gehenna of fire.
+Verse_Ch: 5:23 所以你在祭坛前献礼物，若想起你的弟兄向你怀怨， ###EN### Therefore if you are offering your gift at the altar and there you remember that your brother has something against you,
+Verse_Ch: 5:24 就要把礼物留在坛前，先去与你的弟兄和好，然后来献礼物。 ###EN### Leave your gift there before the altar, and first go and be reconciled to your brother, and then come and offer your gift.
+Verse_Ch: 5:25 你同告你的对头还在路上，要赶紧与他和息，免得他把你交给审判官，审判官交给差役，你就下在监里了。 ###EN### Be well disposed quickly toward your opponent at law, while you are with him on the way, lest the opponent deliver you to the judge, and the judge to the officer, and you be thrown into prison.
+Verse_Ch: 5:26 我实在告诉你，非到你还清最后一分钱，你绝不能从那里出来。 ###EN### Truly I say to you, You shall by no means come out from there until you pay the last quadrans.
+Verse_Ch: 5:27 你们听见有话说，“不可奸淫。” ###EN### You have heard that it was said, "You shall not commit adultery.''
+Verse_Ch: 5:28 但是我告诉你们，凡看妇女，有意贪恋她的，心里已经与她犯奸淫了。 ###EN### But I say to you that every one who looks at a woman in order to lust after her has already committed adultery with her in his heart.
+Verse_Ch: 5:29 若是你的右眼叫你绊跌，就剜出来丢掉；因为你肢体中的一个丧失了，强于你全身扔在火坑里。 ###EN### So if your right eye stumbles you, pluck it out and cast it from you; for it is more profitable for you that one of your members perish than for your whole body to be cast into Gehenna.
+Verse_Ch: 5:30 若是你的右手叫你绊跌，就砍下来丢掉；因为你肢体中的一个丧失了，强于你全身往火坑里去。 ###EN### And if your right hand stumbles you, cut it off and cast it from you, for it is more profitable for you that one of your members perish than for your whole body to pass away into Gehenna.
+Verse_Ch: 5:31 又有话说，人若休妻，就当给她休书。 ###EN### And it was said, Whoever divorces his wife, let him give her a certificate of divorce.
+Verse_Ch: 5:32 但是我告诉你们，凡休妻的，若不是为淫乱的缘故，就是叫她犯奸淫了；无论谁娶这被休的妇人，也是犯奸淫了。 ###EN### But I say to you that every one who divorces his wife, except for the cause of fornication, causes her to commit adultery, and whoever marries her who has been divorced commits adultery.
+Verse_Ch: 5:33 你们又听见有对古人说的话：“不可背誓，所起的誓，总要向主谨守。” ###EN### Again, you have heard that it was said to the ancients, "You shall not break an oath, but you shall render to the Lord your oaths.''
+Verse_Ch: 5:34 但是我告诉你们，什么誓都不可起，不可指着天起誓，因为天是神的座位； ###EN### But I tell you not to swear at all; neither by heaven, because it is the throne of God;
+Verse_Ch: 5:35 不可指着地起誓，因为地是祂的脚凳；不可指着耶路撒冷起誓，因为耶路撒冷是大君王的城； ###EN### Nor by the earth, because it is the footstool of His feet; nor unto Jerusalem, because it is the city of the great King;
+Verse_Ch: 5:36 也不可指着你的头起誓，因为你不能使一根头发变白或变黑。 ###EN### Neither shall you swear by your head, because you cannot make one hair white or black.
+Verse_Ch: 5:37 你们的话，是，就说是，不是，就说不是；若再多说，就是出于那恶者。 ###EN### But let your word be, Yes, yes; No, no; for anything more than these is of the evil one.
+Verse_Ch: 5:38 你们听见有话说，“以眼还眼，以牙还牙。” ###EN### You have heard that it was said, "An eye for an eye, and a tooth for a tooth.''
+Verse_Ch: 5:39 但是我告诉你们，不要抗拒恶人；反而无论谁打你的右脸，连另一面也转给他。 ###EN### But I tell you not to resist him who is evil; rather whoever slaps you on your right cheek, turn to him the other also.
+Verse_Ch: 5:40 那想要告你，要拿你里衣的，连外衣也让给他； ###EN### And to him who wishes to sue you and take your tunic, yield to him your cloak also;
+Verse_Ch: 5:41 无论谁强逼你走一里路，你就同他走二里。 ###EN### And whoever compels you to go one mile, go with him two.
+Verse_Ch: 5:42 求你的，就给他；向你借贷的，不可转开不顾他。 ###EN### To him who asks of you, give; and from him who wants to borrow from you, do not turn away.
+Verse_Ch: 5:43 你们听见有话说，“当爱你的邻舍，恨你的仇敌。” ###EN### You have heard that it was said, "You shall love your neighbor and hate your enemy.''
+Verse_Ch: 5:44 但是我告诉你们，要爱你们的仇敌，为那逼迫你们的祷告， ###EN### But I say to you, Love your enemies, and pray for those who persecute you,
+Verse_Ch: 5:45 你们就可以作你们诸天之上父的儿子；因为祂叫祂的日头上升，照恶人，也照好人；降雨给义人，也给不义的人。 ###EN### So that you may become sons of your Father who is in the heavens, because He causes His sun to rise on the evil and the good and sends rain on the just and the unjust.
+Verse_Ch: 5:46 你们若爱那爱你们的人，有什么赏赐？税吏不也是这样行么？ ###EN### For if you love those who love you, what reward do you have? Do not even the tax collectors do the same?
+Verse_Ch: 5:47 你们若单向你们的弟兄问安，有什么过人的长处？外邦人不也是这样行么？ ###EN### And if you greet only your brothers, what better thing are you doing? Do not even the Gentiles do the same?
+Verse_Ch: 5:48 所以你们要完全，像你们的天父完全一样。 ###EN### You therefore shall be perfect as your heavenly Father is perfect.
+Chapter_Header: 6
+Verse_Ch: 6:1 你们要小心，不可将你们的义行在人前，故意叫他们注视；不然，在你们诸天之上的父面前，你们就没有赏赐了。 ###EN### But take care not to do your righteousness before men in order to be gazed at by them; otherwise, you have no reward with your Father who is in the heavens.
+Verse_Ch: 6:2 所以你施舍的时候，不可在你前面吹号，像那假冒为善的人在会堂里和巷道上所行的，为要得人的荣耀。我实在告诉你们，他们已经充分的得了他们 的赏赐。 ###EN### Therefore when you give alms, do not sound a trumpet before you as the hypocrites do in the synagogues and in the streets, so that they may be glorified by men. Truly I say to you, They have their reward in full.
+Verse_Ch: 6:3 但你施舍的时候，不要让左手知道右手所作的， ###EN### But you, when you give alms, do not let your left hand know what your right hand is doing,
+Verse_Ch: 6:4 好叫你的施舍可在隐密中，你父在隐密中察看，必要报答你。 ###EN### So that your alms may be in secret; and your Father who sees in secret will repay you.
+Verse_Ch: 6:5 你们祷告的时候，不可像那假冒为善的人，因为他们爱站在会堂里，并十字街口祷告，为要叫人看见。我实在告诉你们，他们已经充分的得了他们的 赏赐。 ###EN### And when you pray, you shall not be like the hypocrites, because they love to pray standing in the synagogues and on the street corners, so that they may be seen by men. Truly I say to you, They have their reward in full.
+Verse_Ch: 6:6 你祷告的时候，要进你的密室，关上门，祷告你在隐密中的父，你父在隐密中察看，必要报答你。 ###EN### But you, when you pray, enter into your private room, and shut your door and pray to your Father who is in secret; and your Father who sees in secret will repay you.
+Verse_Ch: 6:7 你们祷告，不可唠唠叨叨，像外邦人一样；他们以为话说多了，就必蒙垂听。 ###EN### And in praying do not babble empty words as the Gentiles do; for they suppose that in their multiplicity of words they will be heard.
+Verse_Ch: 6:8 你们不可像他们，因为你们求祂以前，你们所需用的，你们的父早已知道了。 ###EN### Therefore do not be like them, for your Father knows the things that you have need of before you ask Him.
+Verse_Ch: 6:9 所以你们要这样祷告：我们在诸天之上的父，愿你的名被尊为圣， ###EN### You then pray in this way: Our Father who is in the heavens, Your name be sanctified;
+Verse_Ch: 6:10 愿你的国来临，愿你的旨意行在地上，如同行在天上。 ###EN### Your kingdom come; Your will be done, as in heaven, so also on earth.
+Verse_Ch: 6:11 我们日用的食物，今日赐给我们； ###EN### Give us today our daily bread.
+Verse_Ch: 6:12 免我们的债，如同我们免了欠我们债的人； ###EN### And forgive us our debts, as we also have forgiven our debtors.
+Verse_Ch: 6:13 不叫我们陷入试诱，救我们脱离那恶者。因为国度、能力、荣耀，都是你的，直到永远。阿们。 ###EN### And do not bring us into temptation, but deliver us from the evil one. For Yours is the kingdom and the power and the glory forever. Amen.
+Verse_Ch: 6:14 因为你们若赦免人的过犯，你们的天父也必赦免你们； ###EN### For if you forgive men their offenses, your heavenly Father will forgive you also;
+Verse_Ch: 6:15 你们若不赦免人的过犯，你们的父也必不赦免你们的过犯。 ###EN### But if you do not forgive men their offenses, neither will your Father forgive your offenses.
+Verse_Ch: 6:16 还有，你们禁食的时候，不可面带愁容，像那假冒为善的人一样；他们把脸装得难看，为要叫人看出他们在禁食。我实在告诉你们，他们已经充分的 得了他们的赏赐。 ###EN### And when you fast, do not be like the sullen-faced hypocrites, for they disfigure their faces so that they may appear to men to be fasting. Truly I say to you, They have their reward in full.
+Verse_Ch: 6:17 但你禁食的时候，要油你的头，洗你的脸， ###EN### But you, when you fast, anoint your head and wash your face,
+Verse_Ch: 6:18 为要不叫人，只叫你在隐密中的父，看出你在禁食；你父在隐密中察看，必要报答你。 ###EN### So that you may not appear to men to be fasting, but to your Father who is in secret; and your Father who sees in secret will repay you.
+Verse_Ch: 6:19 不要为自己积蓄财宝在地上，地上有虫蛀、锈蚀，也有贼挖洞偷窃； ###EN### Do not store up for yourselves treasures on the earth, where moth and rust consume and where thieves dig through and steal.
+Verse_Ch: 6:20 只要为自己积蓄财宝在天上，天上没有虫蛀、锈蚀，也没有贼挖洞偷窃。 ###EN### But store up for yourselves treasures in heaven, where neither moth nor rust consumes and where thieves do not dig through nor steal.
+Verse_Ch: 6:21 因为你的财宝在那里，你的心也必在那里。 ###EN### For where your treasure is, there will your heart be also.
+Verse_Ch: 6:22 眼睛乃是身上的灯。所以你的眼睛若单一，全身就明亮； ###EN### The lamp of the body is the eye. If therefore your eye is single, your whole body will be full of light;
+Verse_Ch: 6:23 但你的眼睛若不专，全身就黑暗。所以你里面的光若黑暗了，那黑暗是何等的大！ ###EN### But if your eye is evil, your whole body will be dark. If then the light that is in you is darkness, how great is the darkness!
+Verse_Ch: 6:24 没有人能事奉两个主；因为他不是恨这个爱那个，就是忠于这个轻视那个。你们不能事奉神，又事奉玛门。 ###EN### No one can serve two masters, for either he will hate the one and love the other, or he will hold to one and despise the other. You cannot serve God and mammon.
+Verse_Ch: 6:25 所以我告诉你们，不要为生命忧虑，吃什么，喝什么；也不要为身体忧虑，穿什么。生命不胜于食物么？身体不胜于衣服么？ ###EN### Because of this, I say to you, Do not be anxious for your life, what you should eat or what you should drink; nor for your body, what you should put on. Is not the life more than food, and the body than clothing?
+Verse_Ch: 6:26 你们看天空的飞鸟，它们既不种，也不收，又不收积在仓里，你们的天父尚且养活它们。你们不比它们贵重么？ ###EN### Look at the birds of heaven. They do not sow nor reap nor gather into barns, yet your heavenly Father nourishes them. Are you not of more value than they?
+Verse_Ch: 6:27 你们中间谁能因忧虑使自己的身量多加一肘？ ###EN### Who among you by being anxious can add one cubit to his stature?
+Verse_Ch: 6:28 你们何必为衣服忧虑？你们细想野地里的百合花，怎样生长；它们既不劳苦，也不纺线。 ###EN### And why are you anxious concerning clothing? Consider well the lilies of the field, how they grow. They do not toil, neither do they spin thread.
+Verse_Ch: 6:29 但我告诉你们，就是所罗门在他极盛的荣耀里，也没有披戴得像这些花中的一朵。 ###EN### But I tell you that not even Solomon in all his glory was clothed like one of these.
+Verse_Ch: 6:30 小信的人哪，野地里的草，今天存在，明天就丢在炉里，神尚且这样给它穿戴，何况你们？ ###EN### And if God so arrays the grass of the field, which is here today and tomorrow is cast into the furnace, will He not much more clothe you, you of little faith?
+Verse_Ch: 6:31 所以不要忧虑，说，我们要吃什么？喝什么？披戴什么？ ###EN### Therefore do not be anxious, saying, What shall we eat? or, What shall we drink? or, With what shall we be clothed?
+Verse_Ch: 6:32 因为这一切都是外邦人所急切寻求的，你们的天父原知道你们需要这一切。 ###EN### For all these things the Gentiles are anxiously seeking. For your heavenly Father knows that you need all these things.
+Verse_Ch: 6:33 但你们要先寻求祂的国和祂的义，这一切就都要加给你们了。 ###EN### But seek first His kingdom and His righteousness, and all these things will be added to you.
+Verse_Ch: 6:34 所以你们不要为明天忧虑，因为明天自有明天的忧虑，一天的难处一天当就够了。 ###EN### Therefore do not be anxious for tomorrow, for tomorrow will be anxious for itself; sufficient for the day is its own evil.
+Chapter_Header: 7
+Verse_Ch: 7:1 不要审判，免得你们受审判； ###EN### Do not judge, that you be not judged.
+Verse_Ch: 7:2 因为你们用什么审判审判人，也必受什么审判；你们用什么量器量给人，也必用什么量器量给你们。 ###EN### For with what judgment you judge, you shall be judged; and with what measure you measure, it shall be measured to you.
+Verse_Ch: 7:3 再者，为什么看见你弟兄眼中的刺，却不想到自己眼中的梁木？ ###EN### And why do you look at the splinter which is in your brother's eye, but the beam in your eye you do not consider?
+Verse_Ch: 7:4 或者，你怎能对你弟兄说，让我去掉你眼中的刺，而你自己眼中竟有梁木？ ###EN### Or how can you say to your brother, Let me remove the splinter from your eye, and behold, the beam is in your eye?
+Verse_Ch: 7:5 你这假冒为善的人，先从你眼中去掉梁木，然后你才看得清楚，从你弟兄眼中去掉刺。 ###EN### Hypocrite, first remove the beam from your eye, and then you will see clearly to remove the splinter from your brother's eye.
+Verse_Ch: 7:6 不要把圣物给狗，也不要把你们的珍珠丢在猪前，免得它们用脚践踏珍珠，并且转过来撕裂你们。 ###EN### Do not give that which is holy to the dogs, neither cast your pearls before the hogs, lest they trample them with their feet, and turn and tear you.
+Verse_Ch: 7:7 求，就给你们；寻找，就寻见；叩门，就给你们开门。 ###EN### Ask and it shall be given to you; seek and you shall find; knock and it shall be opened to you.
+Verse_Ch: 7:8 因为凡求的，就得着；寻找的，就寻见；叩门的，就给他开门。 ###EN### For every one who asks receives, and he who seeks finds, and to him who knocks it shall be opened.
+Verse_Ch: 7:9 或者，你们中间有什么人，他的儿子向他求饼，反给他石头？ ###EN### Or what man is there among you who, when his son asks him for a loaf, will give him a stone?
+Verse_Ch: 7:10 或求鱼，反给他蛇？ ###EN### Or also when he asks for a fish, will give him a serpent?
+Verse_Ch: 7:11 你们虽然不好，尚且知道把好东西给儿女，何况你们在诸天之上的父，岂不更把好东西给求祂的人么？ ###EN### If you then being evil know how to give good gifts to your children, how much more will your Father who is in the heavens give good things to those who ask Him!
+Verse_Ch: 7:12 所以无论何事，你们愿意人怎样待你们，你们也要怎样待人；因为这就是律法和申言者的总纲。 ###EN### Therefore all that you wish men would do to you, so also you do to them; for this is the law and the prophets.
+Verse_Ch: 7:13 你们要进窄门；因为引到毁坏的，那门宽，那路阔，进去的人也多； ###EN### Enter in through the narrow gate, for wide is the gate and broad is the way that leads to destruction, and many are those who enter through it.
+Verse_Ch: 7:14 引到生命的，那门窄，那路狭，找着的人也少。 ###EN### Because narrow is the gate and constricted is the way that leads to life, and few are those who find it.
+Verse_Ch: 7:15 你们要提防假申言者，他们到你们这里来，外面披着绵羊的皮，里面却是贪食的狼。 ###EN### Beware of false prophets, who come to you in sheep's clothing, but inwardly they are ravenous wolves.
+Verse_Ch: 7:16 从他们的果子，你们就可以认出他们来。人岂能从荆棘收取葡萄？或从蒺藜收取无花果？ ###EN### By their fruits you will recognize them. Do men gather grapes from thorns, or figs from thistles?
+Verse_Ch: 7:17 这样，凡是好树都结善果，惟独坏树才结恶果。 ###EN### Even so every good tree produces good fruit, but the corrupt tree produces bad fruit.
+Verse_Ch: 7:18 好树不能结恶果，坏树也不能结善果。 ###EN### A good tree cannot produce bad fruit, neither can a corrupt tree produce good fruit.
+Verse_Ch: 7:19 凡不结善果的树，就砍下来，丢在火里。 ###EN### Every tree that does not produce good fruit is cut down and cast into the fire.
+Verse_Ch: 7:20 所以，从他们的果子，你们就可以认出他们来。 ###EN### So then, by their fruits you will recognize them.
+Verse_Ch: 7:21 不是每一个对我说，主阿，主阿的人，都能进诸天的国，惟独实行我诸天之上父旨意的人，才能进去。 ###EN### Not every one who says to Me, Lord, Lord, will enter into the kingdom of the heavens, but he who does the will of My Father who is in the heavens.
+Verse_Ch: 7:22 当那日，许多人要对我说，主阿，主阿，我们不是在你的名里预言过，在你的名里赶鬼过，并在你的名里行过许多异能么？ ###EN### Many will say to Me in that day, Lord, Lord, was it not in Your name that we prophesied, and in Your name cast out demons, and in Your name did many works of power?
+Verse_Ch: 7:23 那时，我要向他们宣告：我从来不认识你们，你们这些行不法的人，离开我去吧。 ###EN### And then I will declare to them: I never knew you. Depart from Me, you workers of lawlessness.
+Verse_Ch: 7:24 所以，凡听见我这些话就实行的，好比一个精明人，把他的房子盖在磐石上。 ###EN### Every one therefore who hears these words of Mine and does them shall be likened to a prudent man who built his house upon the rock.
+Verse_Ch: 7:25 雨淋、河冲、风吹，撞着那房子，房子总不倒塌，因为是立基在磐石上。 ###EN### And the rain descended, and the rivers came, and the winds blew, and they beat against that house; and it did not fall, for it was founded on the rock.
+Verse_Ch: 7:26 凡听见我这些话不实行的，好比一个愚拙人，把他的房子盖在沙土上。 ###EN### And every one who hears these words of Mine and does not do them shall be likened to a foolish man who built his house upon the sand.
+Verse_Ch: 7:27 雨淋、河冲、风吹，撞着那房子，房子就倒塌了，并且倒塌得很大。 ###EN### And the rain descended, and the rivers came, and the winds blew, and they dashed against that house; and it fell, and its fall was great.
+Verse_Ch: 7:28 耶稣讲完了这些话，群众都惊讶祂的教训； ###EN### And when Jesus finished these words, the crowds were astounded at His teaching,
+Verse_Ch: 7:29 因为祂教训他们，像有权柄的人，不像他们的经学家。 ###EN### For He taught them as One having authority and not like their scribes.
+Chapter_Header: 8
+Verse_Ch: 8:1 耶稣下了山，有好多群众跟着祂。 ###EN### And when He came down from the mountain, great crowds followed Him.
+Verse_Ch: 8:2 看哪，有一个患痲疯的人前来拜祂，说，主阿，你若肯，必能叫我洁净了。 ###EN### And behold, a leper, coming near, worshipped Him, saying, Lord, if You are willing, You can cleanse me.
+Verse_Ch: 8:3 耶稣伸手摸他，说，我肯，你洁净了吧。他的痲疯立刻洁净了。 ###EN### And stretching out His hand, He touched him, saying, I am willing; be cleansed! And immediately his leprosy was cleansed.
+Verse_Ch: 8:4 耶稣对他说，你要当心，不可告诉人，只要去把身体给祭司察看，并且献上摩西所规定的礼物，对他们作证据。 ###EN### And Jesus said to him, See that you tell no one; but go, show yourself to the priest, and offer the gift which Moses commanded, for a testimony to them.
+Verse_Ch: 8:5 耶稣进了迦百农，有一个百夫长到祂跟前来，恳求祂说， ###EN### And when He entered into Capernaum, a centurion came to Him, beseeching Him
+Verse_Ch: 8:6 主阿，我的仆人瘫痪了，躺在家里，极感痛苦。 ###EN### And saying, Lord, my servant is lying in the house paralyzed, terribly tormented.
+Verse_Ch: 8:7 耶稣对他说，我去治好他。 ###EN### And He said to him, I will come and heal him.
+Verse_Ch: 8:8 百夫长回答说，主阿，我不配你到舍下来，只要你说一句话，我的仆人就必得医治。 ###EN### But the centurion answered and said, Lord, I am not fit for You to enter under my roof; but only speak a word, and my servant will be healed.
+Verse_Ch: 8:9 因为我也是一个在权柄之下的人，有兵在我以下；我对这个说，去，他就去；对那个说，来，他就来；对我的奴仆说，作这事，他就作。 ###EN### For I also am a man under authority, having soldiers under me. And I say to this one, Go, and he goes; and to another, Come, and he comes; and to my slave, Do this, and he does it.
+Verse_Ch: 8:10 耶稣听见，就希奇，对跟从的人说，我实在告诉你们，这样大的信心，我在以色列中，没有遇见人有过。 ###EN### Now when Jesus heard this, He marveled and said to those who followed, Truly I say to you, With no one in Israel have I found such great faith.
+Verse_Ch: 8:11 我又告诉你们，从东从西，将有许多人要来，在诸天的国里与亚伯拉罕、以撒、雅各一同坐席。 ###EN### But I say to you that many will come from the east and the west and will recline at table with Abraham and Isaac and Jacob in the kingdom of the heavens,
+Verse_Ch: 8:12 但国度之子要被扔在外面黑暗里，在那里必要哀哭切齿了。 ###EN### But the sons of the kingdom will be cast out into the outer darkness. In that place there will be the weeping and the gnashing of teeth.
+Verse_Ch: 8:13 耶稣对百夫长说，去吧，照你所信的，给你成就了。他的仆人就在那时得了医治。 ###EN### And Jesus said to the centurion, Go. As you have believed, so be it done to you. And his servant was healed in that hour.
+Verse_Ch: 8:14 耶稣到了彼得家里，见他的岳母发烧躺着。 ###EN### And Jesus, coming into Peter's house, saw his mother-in-law lying down and in a fever.
+Verse_Ch: 8:15 耶稣摸她的手，烧就退了；她便起来服事耶稣。 ###EN### And He touched her hand, and the fever left her. And she arose and served Him.
+Verse_Ch: 8:16 到了黄昏，有人带着许多鬼附的到祂跟前，祂用一句话赶出那些灵，并且治好了一切患病的人。 ###EN### And when evening fell, they brought to Him many who were demon possessed, and He cast out the spirits with a word, and all those who were ill He healed,
+Verse_Ch: 8:17 这是要应验那借着申言者以赛亚所说的，说，“祂亲自取去了我们的软弱，担当了我们的疾病。” ###EN### So that what was spoken through Isaiah the prophet might be fulfilled, saying, "He Himself took away our infirmities and bore our diseases.''
+Verse_Ch: 8:18 耶稣看见群众围着祂，就吩咐离开到对岸去。 ###EN### Now when Jesus saw a crowd around Him, He gave orders to depart to the other side.
+Verse_Ch: 8:19 有一个经学家进前来，对祂说，夫子，你无论往那里去，我都要跟从你。 ###EN### And a scribe came near and said to Him, Teacher, I will follow You wherever You go.
+Verse_Ch: 8:20 耶稣对他说，狐狸有洞，天空的飞鸟有窝，人子却没有枕头的地方。 ###EN### And Jesus said to him, The foxes have holes, and the birds of heaven have roosts, but the Son of Man has nowhere to lay His head.
+Verse_Ch: 8:21 门徒中另有一个对祂说，主阿，准我先去埋葬我的父亲。 ###EN### And another of the disciples said to Him, Lord, permit me first to go and bury my father.
+Verse_Ch: 8:22 耶稣说，让死人埋葬他们的死人，你跟从我吧。 ###EN### But Jesus said to him, Follow Me, and let the dead bury their own dead.
+Verse_Ch: 8:23 耶稣上了船，门徒跟着祂。 ###EN### And when He stepped into the boat, His disciples followed Him.
+Verse_Ch: 8:24 看哪，海里起了大风暴，以致船被波浪掩盖，耶稣却睡着。 ###EN### And behold, there arose a great tempest in the sea, so that the boat was covered by the waves; but He was sleeping.
+Verse_Ch: 8:25 门徒进前来叫醒了祂，说，主阿，救我们，我们丧命啦！ ###EN### And they came near and roused Him, saying, Lord, save us; we are perishing!
+Verse_Ch: 8:26 祂对他们说，小信的人哪，你们为什么胆怯？于是起来，斥责风和海，风和海就大大的平静了。 ###EN### And He said to them, Why are you cowardly, you of little faith? Then He arose and rebuked the winds and the sea, and there was a great calm.
+Verse_Ch: 8:27 众人都希奇说，这是什么样的人，连风和海也听从了祂？ ###EN### And the men marveled, saying, What kind of man is this that even the winds and the sea obey Him?
+Verse_Ch: 8:28 耶稣来到对岸，到了加大拉人的地方，有两个鬼附的人从坟茔里出来迎着祂，极其凶猛，以致没有人能从那条路上经过。 ###EN### And when He came to the other side, into the region of the Gadarenes, two possessed by demons met Him, as they were coming out of the tombs, so exceedingly fierce that no one was able to pass by on that road.
+Verse_Ch: 8:29 他们喊着说，神的儿子，我们与你何干？时候还没有到，你就来这里叫我们受苦么？ ###EN### And behold, they cried out, saying, What do we have to do with You, Son of God? Have You come here before the time to torment us?
+Verse_Ch: 8:30 离他们很远，有一大群猪正在吃食。 ###EN### Now there was, a good way off from them, a herd of many hogs feeding.
+Verse_Ch: 8:31 鬼央求耶稣说，你若赶我们，就打发我们进入猪群吧。 ###EN### And the demons entreated Him, saying, If You cast us out, send us into the herd of hogs.
+Verse_Ch: 8:32 祂对它们说，去吧！鬼就出来，进入猪群；全群骤然闯下山崖，投入海里，死在水中。 ###EN### And He said to them, Go! And they came out and went into the hogs. And behold, the whole herd rushed down the steep slope into the sea, and they died in the waters.
+Verse_Ch: 8:33 放猪的就逃跑进城，将一切事，和鬼附之人的事，都报告出来。 ###EN### And those who were feeding them fled and went away into the city and reported everything, including what had happened to those possessed by demons.
+Verse_Ch: 8:34 全城的人都出来，要迎见耶稣；既看见了，就恳求祂离开他们的境界。 ###EN### And behold, the whole city came out to meet Jesus; and when they saw Him, they entreated Him to depart from their borders.
+Chapter_Header: 9
+Verse_Ch: 9:1 耶稣上了船，渡过去，来到自己的城里。 ###EN### And stepping into a boat, He crossed over and came to His own city.
+Verse_Ch: 9:2 看哪，有人用卧榻抬着一个瘫子到祂跟前来。耶稣见他们的信心，就对瘫子说，孩子，放心吧，你的罪赦了。 ###EN### And behold, they brought to Him a paralytic, lying on a bed. And Jesus, seeing their faith, said to the paralytic, Take courage, child; your sins are forgiven.
+Verse_Ch: 9:3 竟有几个经学家心里说，这个人说僭妄的话了。 ###EN### And behold, some of the scribes said within themselves, This man blasphemes.
+Verse_Ch: 9:4 耶稣知道他们的心意，就说，你们为什么心里思念恶事？ ###EN### And Jesus, knowing their thoughts, said, Why are you thinking evil things in your hearts?
+Verse_Ch: 9:5 说，你的罪赦了，或说，你起来行走，哪一样更容易？ ###EN### For which is easier, to say, Your sins are forgiven, or to say, Rise and walk?
+Verse_Ch: 9:6 但要叫你们知道人子在地上有赦罪的权柄─于是对瘫子说，起来，拿你的卧榻回家去吧！ ###EN### But that you may know that the Son of Man has authority on earth to forgive sins -- then He said to the paralytic, Rise, take up your bed and go to your house.
+Verse_Ch: 9:7 那人就起来，回家去了。 ###EN### And he rose and went away to his house.
+Verse_Ch: 9:8 群众看见，就起了敬畏，荣耀那赐这样权柄给人的神。 ###EN### And when the crowds saw this, they feared and glorified God, who had given such authority to men.
+Verse_Ch: 9:9 耶稣从那里往前走，看见一个人名叫马太，坐在税关上，就对他说，跟从我。他就起来，跟从了耶稣。 ###EN### And as Jesus passed on from there, He saw a man sitting at the tax office, called Matthew, and He said to him, Follow Me. And he rose and followed Him.
+Verse_Ch: 9:10 耶稣在屋里坐席，看哪，有好些税吏和罪人来，与耶稣和祂的门徒一同坐席。 ###EN### And as He was reclining at table in the house, behold, many tax collectors and sinners came and reclined together with Jesus and His disciples.
+Verse_Ch: 9:11 法利赛人看见，就对耶稣的门徒说，你们的老师为什么和税吏并罪人一同吃饭？ ###EN### And when the Pharisees saw it, they said to His disciples, Why does your Teacher eat with the tax collectors and sinners?
+Verse_Ch: 9:12 耶稣听见，就说，强健的人用不着医生，有病的人才用得着。 ###EN### Now when He heard this, He said, Those who are strong have no need of a physician, but those who are ill.
+Verse_Ch: 9:13 你们去研究，“我要的是怜悯，不是祭祀，”是什么意思；我来本不是召义人，乃是召罪人。 ###EN### But go and learn what this means, "I desire mercy and not sacrifice,'' for I did not come to call the righteous, but sinners.
+Verse_Ch: 9:14 那时，约翰的门徒到耶稣跟前来，说，为什么我们和法利赛人常常禁食，你的门徒倒不禁食？ ###EN### Then the disciples of John came to Him, saying, Why do we and the Pharisees fast much, but Your disciples do not fast?
+Verse_Ch: 9:15 耶稣对他们说，新郎和伴友同在的时候，伴友岂能哀恸？但日子将到，新郎要从他们中间被取去，那时他们就要禁食。 ###EN### And Jesus said to them, The sons of the bridechamber cannot mourn as long as the bridegroom is with them, can they? But days will come when the bridegroom will be taken away from them, and then they will fast.
+Verse_Ch: 9:16 再者，没有人用未漂过的布作补丁，补在旧衣服上，因为所补上的，会扯破那衣服，裂缝就更大了。 ###EN### No one puts a patch of unfulled cloth on an old garment, for that which fills it up pulls away from the garment, and a worse tear is made.
+Verse_Ch: 9:17 也没有人把新酒装在旧皮袋里；不然，皮袋胀裂，酒泻出来，皮袋也就坏了。人乃是把新酒装在新皮袋里，两样就都得保全。 ###EN### Neither do they put new wine into old wineskins; otherwise, the wineskins burst, and the wine pours out, and the wineskins are ruined; but they put new wine into fresh wineskins, and both are preserved.
+Verse_Ch: 9:18 耶稣正对他们讲这些事的时候，看哪，有一个管会堂的来拜祂，说，我的女儿刚死了，但你去按手在她身上，她就要活了。 ###EN### As He was speaking these things to them, behold, a ruler came and worshipped Him, saying, My daughter has just died, but come and lay Your hand on her, and she will live.
+Verse_Ch: 9:19 耶稣便起来，跟着他去，祂的门徒也跟了去。 ###EN### And Jesus rose and followed him, and so did His disciples.
+Verse_Ch: 9:20 看哪，有一个女人，患了十二年血漏，来到耶稣背后，摸祂的衣服穗子； ###EN### And behold, a woman who had been suffering from a hemorrhage for twelve years approached from behind and touched the fringe of His garment,
+Verse_Ch: 9:21 因为她心里说，我只要摸着祂的衣服，就必得拯救。 ###EN### For she said within herself, If only I touch His garment, I will be healed.
+Verse_Ch: 9:22 耶稣转过来，看见她，就说，女儿，放心，你的信救了你。从那时候，那女人就得了拯救。 ###EN### And Jesus, turning and seeing her, said, Take courage, daughter; your faith has healed you. And the woman was healed from that hour.
+Verse_Ch: 9:23 耶稣到了管会堂的家里，看见吹笛的人，和乱嚷的群众， ###EN### And when Jesus came to the ruler's house and saw the flute players and the crowd making a commotion,
+Verse_Ch: 9:24 就说，走开吧，这闺女不是死了，乃是睡了。他们就嗤笑祂。 ###EN### He said, Depart, for the girl has not died but is sleeping. And they laughed scornfully at Him.
+Verse_Ch: 9:25 群众既被撵出，耶稣就进去，握着闺女的手，闺女便起来了。 ###EN### But when the crowd had been put out, He entered and took hold of her hand, and the girl rose up.
+Verse_Ch: 9:26 于是这风声传遍了那地方。 ###EN### And this report went out into all that land.
+Verse_Ch: 9:27 耶稣从那里往前走，有两个瞎子跟着祂，喊叫说，大卫的子孙，可怜我们吧！ ###EN### And as Jesus passed on from there, two blind men followed Him, crying out and saying, Have mercy on us, Son of David!
+Verse_Ch: 9:28 耶稣进了屋子，瞎子就到祂跟前来。耶稣对他们说，你们信我能作这事么？他们对祂说，主阿，是的。 ###EN### And when He came into the house, the blind men came to Him; and Jesus said to them, Do you believe that I am able to do this? They said to Him, Yes, Lord.
+Verse_Ch: 9:29 耶稣就摸他们的眼睛，说，照着你们的信，给你们成就了吧！ ###EN### Then He touched their eyes, saying, According to your faith, let it be done to you.
+Verse_Ch: 9:30 他们的眼睛就开了。耶稣严严的嘱咐他们说，当心，不可让人知道。 ###EN### And their eyes were opened. And Jesus sternly charged them saying, See that no one knows!
+Verse_Ch: 9:31 但他们出去，竟把祂传遍了那地方。 ###EN### But they went out and spread reports about Him in all that land.
+Verse_Ch: 9:32 他们出去的时候，看哪，有人将一个被鬼附的哑吧，带到耶稣跟前来。 ###EN### And as they were going out, behold, they brought to Him a dumb man possessed with a demon.
+Verse_Ch: 9:33 鬼一被赶出去，哑吧就说出话来。群众都希奇说，在以色列中，这样的事从来没有出现过。 ###EN### And when the demon was cast out, the dumb man spoke. And the crowds marveled, saying, Never has anything like this been seen in Israel.
+Verse_Ch: 9:34 法利赛人却说，祂是靠着鬼王赶鬼。 ###EN### But the Pharisees said, By the ruler of the demons He casts out the demons.
+Verse_Ch: 9:35 耶稣走遍各城各乡，在他们的会堂里施教，传扬国度的福音，并医治百姓各样的疾病，和各种的症候。 ###EN### And Jesus went about all the cities and the villages, teaching in their synagogues and preaching the gospel of the kingdom and healing every disease and every sickness.
+Verse_Ch: 9:36 祂看见群众，就对他们动了慈心，因为他们困苦流离，如同羊没有牧人一样。 ###EN### And seeing the crowds, He was moved with compassion for them, because they were harassed and cast away like sheep not having a shepherd.
+Verse_Ch: 9:37 于是对门徒说，庄稼固多，工人却少； ###EN### Then He said to His disciples, The harvest is great, but the workers few;
+Verse_Ch: 9:38 所以要祈求庄稼的主，催赶工人收割祂的庄稼。 ###EN### Therefore beseech the Lord of the harvest that He would thrust out workers into His harvest.
+Chapter_Header: 10
+Verse_Ch: 10:1 耶稣叫了十二个门徒来，给他们制伏污灵的权柄，可以赶逐它们，并医治各样的疾病，和各种的症候。 ###EN### And He called His twelve disciples to Him and gave them authority over unclean spirits, so that they would cast them out and heal every disease and every sickness.
+Verse_Ch: 10:2 这十二使徒的名字是：头一个，称呼彼得的西门，还有他的兄弟安得烈；西庇太的儿子雅各，和他的兄弟约翰； ###EN### And the names of the twelve apostles are these: first, Simon, who is called Peter, and Andrew his brother; and James the son of Zebedee, and John his brother;
+Verse_Ch: 10:3 腓力和巴多罗买；多马和税吏马太；亚勒腓的儿子雅各，和达太； ###EN### Philip and Bartholomew; Thomas and Matthew the tax collector; James the son of Alphaeus, and Thaddaeus;
+Verse_Ch: 10:4 热烈派的西门，和出卖耶稣的加略人犹大。 ###EN### Simon the Cananaean, and Judas Iscariot, who also betrayed Him.
+Verse_Ch: 10:5 耶稣差遣这十二个出去，吩咐他们说：外邦人的路，你们不要走，撒玛利亚人的城，你们也不要进， ###EN### These twelve Jesus sent forth, charging them, saying, Do not go into the way of the Gentiles, and do not enter into any city of the Samaritans.
+Verse_Ch: 10:6 宁可往以色列家迷失的羊那里去。 ###EN### But go rather to the lost sheep of the house of Israel.
+Verse_Ch: 10:7 且要随走随传，说，诸天的国已经临近了。 ###EN### And as you go, proclaim, saying, The kingdom of the heavens has drawn near.
+Verse_Ch: 10:8 要医治病弱的，复活死亡的，洁净患痲疯的，把鬼赶出去；你们白白的领受了，就要白白的施与。 ###EN### Heal the sick, raise the dead, cleanse the lepers, cast out demons. Freely you have received; freely give.
+Verse_Ch: 10:9 你们腰袋里不要带金银铜钱， ###EN### Do not acquire for yourselves gold nor silver nor copper for your belts;
+Verse_Ch: 10:10 行路不要带口袋，不要带两件里衣，也不要带鞋和手杖，因为作工的配得食物。 ###EN### No bag for the journey nor two tunics nor sandals nor a staff; for the worker is worthy of his food.
+Verse_Ch: 10:11 你们无论进那一城、那一乡，要打听那里谁是配的，就住在那里，直到离去。 ###EN### And into whatever city or village you enter, find out who in it is worthy; and there remain until you depart.
+Verse_Ch: 10:12 你们进了那家，要向那家问安。 ###EN### And as you enter into the house, greet it.
+Verse_Ch: 10:13 那家若配得，就让你们的平安临到那家；若不配得，就让你们的平安仍归你们。 ###EN### And if the house is worthy, let your peace come upon it; but if it is not worthy, let your peace return to you.
+Verse_Ch: 10:14 凡不接待你们，不听你们话的，你们离开那家或那城的时候，就把脚上的尘土跺下去。 ###EN### And whoever does not receive you nor hear your words, as you go out of that house or city, shake off the dust from your feet.
+Verse_Ch: 10:15 我实在告诉你们，在审判的日子，所多玛和蛾摩拉地所受的，比那城所受的还容易。 ###EN### Truly I say to you, It will be more tolerable for the land of Sodom and Gomorrah in the day of judgment than for that city.
+Verse_Ch: 10:16 看哪，我差遣你们去，如同绵羊在狼中间；所以你们要灵巧像蛇，纯真像鸽子。 ###EN### Behold, I send you forth as sheep in the midst of wolves. Be therefore prudent as serpents and guileless as doves.
+Verse_Ch: 10:17 且要提防人；因为他们要把你们交给议会，也要在他们的会堂里鞭打你们； ###EN### And beware of men, for they will deliver you up to sanhedrins, and in their synagogues they will scourge you.
+Verse_Ch: 10:18 并且你们要为我的缘故，被送到官长和君王面前，对他们和外邦人作见证。 ###EN### And you will also be brought before governors and kings for My sake, for a testimony to them and to the Gentiles.
+Verse_Ch: 10:19 但他们把你们交给人的时候，你们不要忧虑怎么说，或说什么；因为在那时刻，自会赐给你们当说的。 ###EN### But when they deliver you up, do not be anxious about how or what you should speak, for it will be given to you in that hour what you should speak;
+Verse_Ch: 10:20 因为说话的不是你们，乃是你们父的灵在你们里面说话。 ###EN### For you are not the ones speaking, but the Spirit of your Father is the One speaking in you.
+Verse_Ch: 10:21 并且弟兄要把弟兄，父亲要把儿女，交到死地；儿女要起来与父母为敌，害死他们。 ###EN### And brother will deliver up brother to death, and father his child; and children will rise up against their parents and put them to death.
+Verse_Ch: 10:22 你们还要因我的名，被众人恨恶；惟有忍耐到底的，必然得救。 ###EN### And you will be hated by all because of My name. But he who has endured to the end, this one shall be saved.
+Verse_Ch: 10:23 但几时人在这城逼迫你们，就逃到别城去；我实在告诉你们，以色列的城邑，你们还没有走完，人子就来了。 ###EN### And when they persecute you in this city, flee into another. For truly I say to you, You shall by no means finish the cities of Israel until the Son of Man comes.
+Verse_Ch: 10:24 门徒并不高过老师，奴仆也不高过主人。 ###EN### A disciple is not above the teacher, nor a slave above his master.
+Verse_Ch: 10:25 门徒和他的老师一样，奴仆和他的主人一样，也就够了。人既称家主为别西卜，何况他的家人？ ###EN### It is sufficient for the disciple that he become like his teacher, and the slave like his master. If they have called the Master of the house Beelzebul, how much more those of His household!
+Verse_Ch: 10:26 所以不要怕他们；因为掩盖的事没有不被揭露的，隐藏的事没有不被人知道的。 ###EN### Therefore do not fear them; for there is nothing covered which will not be revealed, and hidden which will not be made known.
+Verse_Ch: 10:27 我在暗中告诉你们的，你们要在明处说出来；你们耳中所听的，要在房顶上宣扬出来。 ###EN### What I say to you in the darkness, speak in the light; and what you hear in the ear, proclaim on the housetops.
+Verse_Ch: 10:28 不要怕那些杀身体，却不能杀魂的；惟要怕那能把魂和身体都灭在火坑里的。 ###EN### And do not fear those who kill the body, but are not able to kill the soul; but rather fear Him who is able to destroy both soul and body in Gehenna.
+Verse_Ch: 10:29 两只麻雀不是卖一个铜钱么？没有你们父的许可，一只也不会掉在地上。 ###EN### Are not two sparrows sold for an assarion? And not one of them will fall to the earth apart from your Father.
+Verse_Ch: 10:30 就是连你们的头发，也都被数过了。 ###EN### But even the hairs of your head are all numbered.
+Verse_Ch: 10:31 所以不要怕，你们比许多麻雀还贵重。 ###EN### Therefore do not fear; you are of more value than many sparrows.
+Verse_Ch: 10:32 凡在人面前，在我里面承认我的，我在我诸天之上的父面前，也必在他里面承认他； ###EN### Every one therefore who will confess in Me before men, I also will confess in him before My Father who is in the heavens;
+Verse_Ch: 10:33 凡在人面前不认我的，我在我诸天之上的父面前，也必不认他。 ###EN### But whoever will deny Me before men, I also will deny him before My Father who is in the heavens.
+Verse_Ch: 10:34 不要以为我来，是给地上带来和平；我来并不是带来和平，乃是带来刀剑。 ###EN### Do not think that I have come to bring peace on the earth; I have not come to bring peace, but a sword.
+Verse_Ch: 10:35 因为我来是叫人不和：儿子反他的父亲，女儿反她的母亲，儿媳反她的婆婆； ###EN### For I have come to set men at variance: a man against his father, and a daughter against her mother, and a daughter-in-law against her mother-in-law;
+Verse_Ch: 10:36 人的仇敌就是自己家里的人。 ###EN### And a man's enemies will be those of his household.
+Verse_Ch: 10:37 爱父母过于爱我的，配不过我；爱儿女过于爱我的，配不过我； ###EN### He who loves father or mother above Me is not worthy of Me; and he who loves son or daughter above Me is not worthy of Me;
+Verse_Ch: 10:38 不背起他的十字架，并跟从我的，也配不过我。 ###EN### And he who does not take his cross and follow after Me is not worthy of Me.
+Verse_Ch: 10:39 得着魂生命的，必要丧失魂生命；为我的缘故丧失魂生命的，必要得着魂生命。 ###EN### He who finds his soul-life shall lose it, and he who loses his soul-life for My sake shall find it.
+Verse_Ch: 10:40 接待你们的，就是接待我；接待我的，就是接待那差遣我的。 ###EN### He who receives you receives Me, and he who receives Me receives Him who has sent Me.
+Verse_Ch: 10:41 因申言者的名接待申言者的，必得申言者的赏赐；因义人的名接待义人的，必得义人的赏赐。 ###EN### He who receives a prophet in the name of a prophet shall receive a prophet's reward, and he who receives a righteous man in the name of a righteous man shall receive a righteous man's reward.
+Verse_Ch: 10:42 无论谁，因门徒的名，只把一杯凉水给这小子里的一个喝，我实在告诉你们，他绝不会失去他的赏赐。 ###EN### And whoever gives to one of these little ones only a cup of cold water to drink in the name of a disciple, truly I say to you, he shall by no means lose his reward.
+Chapter_Header: 11
+Verse_Ch: 11:1 耶稣吩咐完了十二个门徒，就离开那里，在他们的诸城中施教并传道。 ###EN### And when Jesus had finished giving instructions to His twelve disciples, He departed from there to teach and to preach in their cities.
+Verse_Ch: 11:2 这时，约翰在监里听见基督所作的，就要他的门徒带话去， ###EN### Now when John heard in the prison of the works of the Christ, he sent word through his disciples
+Verse_Ch: 11:3 问祂说，那要来者是你么？还是我们该期待别人？ ###EN### And said to Him, Are You the Coming One, or should we expect another?
+Verse_Ch: 11:4 耶稣回答他们说，你们去，把所闻所见的报告约翰， ###EN### And Jesus answered and said to them, Go, report to John the things that you hear and see:
+Verse_Ch: 11:5 就是瞎子看见，瘸子行走，患痲疯的得洁净，聋子听见，死人复活，穷人有福音传给他们。 ###EN### The blind receive their sight and the lame walk; the lepers are cleansed and the deaf hear; and the dead are raised and the poor have the gospel announced to them;
+Verse_Ch: 11:6 凡不因我绊跌的，就有福了。 ###EN### And blessed is he who is not stumbled because of Me.
+Verse_Ch: 11:7 他们走了，耶稣就对群众讲论约翰说，你们从前出到旷野，要看什么？被风吹动的芦苇么？ ###EN### And as these went away, Jesus began to say to the crowds concerning John, What did you go out into the wilderness to look at? A reed shaken by the wind?
+Verse_Ch: 11:8 你们出去，到底要看什么？穿细软衣服的人么？看哪，那穿细软衣服的人，是在王宫里。 ###EN### But what did you go out to see? A man arrayed in soft clothing? Behold, those who wear soft clothing are in the houses of kings.
+Verse_Ch: 11:9 你们出去究竟为什么？要看申言者么？我告诉你们，是的，他比申言者大多了。 ###EN### But why did you go out? To see a prophet? Yes, I say to you, and much more than a prophet.
+Verse_Ch: 11:10 这人就是经上所记的，“看哪，我在你面前差遣我的使者，他要在你前面预备你的道路。” ###EN### This is he concerning whom it is written, "Behold, I send My messenger before Your face, who will prepare Your way before You.''
+Verse_Ch: 11:11 我实在告诉你们，妇人所生的，没有一个兴起来大过施浸者约翰的；然而在诸天的国里最小的比他还大。 ###EN### Truly I say to you, Among those born of women there has not arisen one greater than John the Baptist, yet he who is least in the kingdom of the heavens is greater than he.
+Verse_Ch: 11:12 可是，从施浸者约翰的日子直到现在，诸天的国是强力夺取的，强力的人就夺得了。 ###EN### But from the days of John the Baptist until now, the kingdom of the heavens is taken by violence, and violent men seize it.
+Verse_Ch: 11:13 因为众申言者和律法申言，到约翰为止； ###EN### For all the prophets and the law prophesied until John;
+Verse_Ch: 11:14 你们若肯接受，他就是那要来的以利亚。 ###EN### And if you are willing to receive it, he is Elijah, who is to come.
+Verse_Ch: 11:15 有耳可听的，就应当听。 ###EN### He who has ears to hear, let him hear.
+Verse_Ch: 11:16 但我可把这世代比作什么？好比孩童坐在市场上，招呼另一些孩童说， ###EN### But to what shall I liken this generation? It is like little children sitting in the marketplaces, who call to the others
+Verse_Ch: 11:17 我们向你们吹笛，你们不跳舞；我们哀歌，你们不捶胸。 ###EN### And say, We have played the flute to you, and you did not dance; we have sung a dirge, and you did not mourn.
+Verse_Ch: 11:18 约翰来了，不吃不喝，人就说，他有鬼附着。 ###EN### For John came neither eating nor drinking; and they say, He has a demon.
+Verse_Ch: 11:19 人子来了，也吃也喝，人又说，看哪，一个贪食好酒的人，一个税吏和罪人的朋友。但智慧从她的行为得称为义。 ###EN### The Son of Man came eating and drinking; and they say, Behold, a gluttonous man and a drunkard, a friend of tax collectors and sinners. Yet wisdom is justified by her works.
+Verse_Ch: 11:20 那时，耶稣开始责备那些祂曾在其中行过大多数异能的城，因为她们没有悔改： ###EN### Then He began to reproach the cities in which most of His works of power took place, because they did not repent:
+Verse_Ch: 11:21 哥拉汛哪，你有祸了！伯赛大阿，你有祸了！因为在你们中间所行的异能，若行在推罗、西顿，她们早已披麻蒙灰悔改了。 ###EN### Woe to you, Chorazin! Woe to you, Bethsaida! For if the works of power which took place in you had taken place in Tyre and Sidon, they would have repented long ago in sackcloth and ashes.
+Verse_Ch: 11:22 但我告诉你们，在审判的日子，推罗、西顿所受的，比你们所受的还容易。 ###EN### But I say to you, It will be more tolerable for Tyre and Sidon in the day of judgment than for you.
+Verse_Ch: 11:23 还有你，迦百农阿，你已经被高举到天上，你必坠落到阴间。因为在你那里所行的异能，若行在所多玛，她必会存留到今天。 ###EN### And you, Capernaum, who have been exalted to heaven, to Hades you will be brought down. For if the works of power which took place in you had taken place in Sodom, it would have remained until today.
+Verse_Ch: 11:24 但我告诉你们，在审判的日子，所多玛地所受的，比你所受的还容易。 ###EN### But I say to you that it will be more tolerable for the land of Sodom in the day of judgment than for you.
+Verse_Ch: 11:25 那时，耶稣回答说，父阿，天地的主，我颂扬你，因为你将这些事，向智慧通达人藏起来，向婴孩却启示出来。 ###EN### At that time Jesus answered and said, I extol You, Father, Lord of heaven and of earth, because You have hidden these things from the wise and intelligent and have revealed them to infants.
+Verse_Ch: 11:26 父阿，是的，因为在你眼中看为美的，本是如此。 ###EN### Yes, Father, for thus it has been well-pleasing in Your sight.
+Verse_Ch: 11:27 我父已将一切都交付了我；除了父，没有人认识子；除了子和子所愿意启示的，也没有人认识父。 ###EN### All things have been delivered to Me by My Father, and no one fully knows the Son except the Father; neither does anyone fully know the Father except the Son and him to whom the Son wills to reveal Him.
+Verse_Ch: 11:28 凡劳苦担重担的，可以到我这里来，我必使你们得安息。 ###EN### Come to Me all who toil and are burdened, and I will give you rest.
+Verse_Ch: 11:29 我心里柔和谦卑，因此你们要负我的轭，且要跟我学，你们魂里就必得安息； ###EN### Take My yoke upon you and learn from Me, for I am meek and lowly in heart, and you will find rest for your souls.
+Verse_Ch: 11:30 因为我的轭是容易的，我的担子是轻省的。 ###EN### For My yoke is easy and My burden is light.
+Chapter_Header: 12
+Verse_Ch: 12:1 那时，耶稣在安息日从麦地经过，祂的门徒饿了，就掐起麦穗来吃。 ###EN### At that time Jesus went on the Sabbath through the grainfields. And His disciples became hungry and began to pick ears of grain and eat.
+Verse_Ch: 12:2 法利赛人看见，就对祂说，看哪，你的门徒在作安息日不可作的事。 ###EN### But the Pharisees, seeing this, said to Him, Behold, Your disciples are doing what is not lawful to do on the Sabbath.
+Verse_Ch: 12:3 耶稣却对他们说，大卫和跟从他的人饥饿之时所作的，你们没有念过么？ ###EN### But He said to them, Have you not read what David did when he became hungry, and those who were with him;
+Verse_Ch: 12:4 他怎样进了神的殿，他们且吃了陈设饼，就是他不可吃，跟从他的人也不可吃，惟独祭司才可吃的。 ###EN### How he entered into the house of God, and they ate the bread of the presence, which was not lawful for him to eat, nor for those who were with him, except for the priests only?
+Verse_Ch: 12:5 再者，律法上记着，当安息日，祭司在殿里渎犯了安息日，还是没有罪，你们没有念过么？ ###EN### Or have you not read in the law that on the Sabbath the priests in the temple profane the Sabbath and are guiltless?
+Verse_Ch: 12:6 但我告诉你们，在这里有比殿更大的。 ###EN### But I say to you that something greater than the temple is here.
+Verse_Ch: 12:7 还有，你们若明白什么是“我要的是怜悯，不是祭祀，”就不会定无罪的为有罪了。 ###EN### But if you knew what this means, "I desire mercy and not sacrifice,'' you would not have condemned the guiltless.
+Verse_Ch: 12:8 因为人子是安息日的主。 ###EN### For the Son of Man is Lord of the Sabbath.
+Verse_Ch: 12:9 于是耶稣离开那里，进了他们的会堂； ###EN### And departing from there, He came into their synagogue.
+Verse_Ch: 12:10 看哪，有一个人枯干了一只手；有人问耶稣说，在安息日可以治病么？为的是要控告祂。 ###EN### And behold, a man who had a withered hand was there. And they asked Him, saying, Is it lawful to heal on the Sabbath? so that they might accuse Him.
+Verse_Ch: 12:11 祂对他们说，你们中间谁有一只羊，若在安息日掉在坑里，不把它抓住拉上来？ ###EN### And He said to them, What man will there be among you who will have one sheep, and if it falls into a pit on the Sabbath, will not take hold of it and lift it out?
+Verse_Ch: 12:12 人比羊贵重多了；所以在安息日可以行善。 ###EN### Of how much more value then is a man than a sheep! So then it is lawful to do well on the Sabbath.
+Verse_Ch: 12:13 于是祂对那人说，伸出手来。他一伸，手就复了原，像另一只手那样的康健。 ###EN### Then He said to the man, Stretch out your hand. And he stretched it out and it was restored, as sound as the other.
+Verse_Ch: 12:14 但法利赛人出去，商议怎样抵挡祂，为要除灭祂。 ###EN### But the Pharisees, going out, took counsel against Him as to how they might destroy Him.
+Verse_Ch: 12:15 耶稣知道了，就离开那里。有许多人跟着祂，祂把他们都治好了， ###EN### But Jesus, knowing it, withdrew from there. And many followed Him, and He healed them all;
+Verse_Ch: 12:16 又嘱咐他们，不要显扬祂。 ###EN### And He charged them not to make Him known,
+Verse_Ch: 12:17 这是要应验那借着申言者以赛亚所说的，说， ###EN### In order that what was spoken through Isaiah the prophet might be fulfilled, saying,
+Verse_Ch: 12:18 “看哪，我的仆人，我所拣选，我所爱，我魂所喜悦的；我要将我的灵放在祂身上，祂必将公理宣布与外邦。 " ###EN### Behold, My Servant whom I have chosen, My Beloved in whom My soul has found delight. I will put My Spirit upon Him, and He will announce justice to the Gentiles.
+Verse_Ch: 12:19 祂不争竞，不喧嚷，街上也没有人听见祂的声音。 ###EN### He will not strive nor cry out, nor will anyone hear His voice in the streets.
+Verse_Ch: 12:20 压伤的芦苇，祂不折断；将残的火把，祂不吹灭，直到祂施行公理，至于得胜。 ###EN### A bruised reed He will not break, and smoking flax He will not quench until He brings forth justice unto victory.
+Verse_Ch: 12:21 外邦人都要仰望祂的名。” ###EN### And in His name will the Gentiles hope.''
+Verse_Ch: 12:22 当下，有一个鬼附、又瞎又哑的人，被带到耶稣那里；耶稣就治好了他，以致那哑吧又说话，又看见。 ###EN### Then there was brought to Him one possessed by a demon, blind and dumb, and He healed him, so that the dumb man spoke and saw.
+Verse_Ch: 12:23 所有的群众都惊奇，说，莫非这是大卫的子孙么？ ###EN### And all the crowds were amazed and said, Is this not the Son of David?
+Verse_Ch: 12:24 法利赛人听见了，却说，这个人赶鬼，无非是靠着鬼王别西卜。 ###EN### But the Pharisees, hearing this, said, This man does not cast out the demons except by Beelzebul, ruler of the demons.
+Verse_Ch: 12:25 耶稣知道他们的心意，就对他们说，凡国自相分争，必至荒凉；凡城或家自相分争，也难站住。 ###EN### But knowing their thoughts, He said to them, Every kingdom divided against itself becomes desolate, and every city or house divided against itself will not stand.
+Verse_Ch: 12:26 若撒但赶逐撒但，他就自相分争，他的国怎能站住？ ###EN### And if Satan casts out Satan, he is divided against himself. How then will his kingdom stand?
+Verse_Ch: 12:27 我若是靠着别西卜赶鬼，你们的子弟又是靠着谁赶呢？这样，他们就要审判你们了。 ###EN### And if I, by Beelzebul, cast out the demons, by whom do your sons cast them out? Therefore they shall be your judges.
+Verse_Ch: 12:28 我若靠着神的灵赶鬼，这就是神的国临到你们了。 ###EN### But if I, by the Spirit of God, cast out the demons, then the kingdom of God has come upon you.
+Verse_Ch: 12:29 人怎能进壮者家里，抢夺他的家具？除非先捆绑那壮者，才能洗劫他的家。 ###EN### Or how can anyone enter into the house of the strong man and plunder his goods unless he first binds the strong man? And then he will thoroughly plunder his house.
+Verse_Ch: 12:30 不与我相合的，就是敌我的；不同我收聚的，就是分散的。 ###EN### He who is not with Me is against Me, and he who does not gather with Me scatters.
+Verse_Ch: 12:31 所以我告诉你们，人一切的罪和亵渎，都能得赦免；惟独亵渎那灵，不能得赦免。 ###EN### Therefore I say to you, Every sin and blasphemy will be forgiven men, but blasphemy against the Spirit will not be forgiven.
+Verse_Ch: 12:32 并且无论谁说话抵挡人子，他都能得赦免；但无论谁说话抵挡圣灵，无论在今世，或是在来世，他都不能得赦免。 ###EN### And whoever speaks a word against the Son of Man, it will be forgiven him; but whoever speaks against the Holy Spirit, it will not be forgiven him, neither in this age nor in the one to come.
+Verse_Ch: 12:33 或说树好，果子就好；或说树坏，果子也坏；树总是凭果子认出来的。 ###EN### Either make the tree good and its fruit good, or make the tree corrupt and its fruit corrupt; for by the fruit the tree is known.
+Verse_Ch: 12:34 毒蛇之种，你们既是恶的，怎能说出善来？因为心里所充满的，口里就说出来。 ###EN### Offspring of vipers, how can you, being evil, speak good things? For out of the abundance of the heart the mouth speaks.
+Verse_Ch: 12:35 善人从他所存的善，发出善来；恶人从他所存的恶，发出恶来。 ###EN### The good man, out of his good treasure, brings forth good things, and the evil man, out of his evil treasure, brings forth evil things.
+Verse_Ch: 12:36 我还告诉你们，人所说的每句闲话，在审判的日子，都必须供出来。 ###EN### And I say to you that every idle word which men shall speak, they will render an account concerning it in the day of judgment.
+Verse_Ch: 12:37 因为要凭你的话，称你为义；也要凭你的话，定你有罪。 ###EN### For by your words you shall be justified, and by your words you shall be condemned.
+Verse_Ch: 12:38 当时有几个经学家和法利赛人应声对耶稣说，夫子，我们愿意你显个神迹给我们看。 ###EN### Then some of the scribes and Pharisees answered Him, saying, Teacher, we want to see a sign from You.
+Verse_Ch: 12:39 耶稣回答他们说，邪恶淫乱的世代寻求神迹，除了申言者约拿的神迹以外，再没有神迹给它。 ###EN### But He answered and said to them, An evil and adulterous generation seeks after a sign, and a sign shall not be given to it except the sign of Jonah the prophet.
+Verse_Ch: 12:40 因为约拿怎样三日三夜在大鱼腹中，人子也必照样三日三夜在地心里。 ###EN### For just as Jonah was in the belly of the great fish three days and three nights, so will the Son of Man be in the heart of the earth three days and three nights.
+Verse_Ch: 12:41 在审判的时候，尼尼微人要同这世代站起来，并要定这世代的罪，因为他们听了约拿所传扬的，就悔改了。看哪，在这里有比约拿更大的。 ###EN### Ninevite men will stand up in the judgment with this generation and will condemn it, because they repented at the preaching of Jonah, and behold, something more than Jonah is here.
+Verse_Ch: 12:42 在审判的时候，南方的女王要同这世代起来，并要定这世代的罪，因为她从地极来，要听所罗门的智慧话。看哪，在这里有比所罗门更大的。 ###EN### The queen of the south will rise up in the judgment with this generation and will condemn it, because she came from the ends of the earth to hear the wisdom of Solomon, and behold, something more than Solomon is here.
+Verse_Ch: 12:43 污灵从人里面出来，在无水之地荡来荡去，寻找安歇之处，却寻不着。 ###EN### When the unclean spirit goes out from the man, it roams through waterless places, seeking rest, and does not find it.
+Verse_Ch: 12:44 便说，我要回到我所出来我的屋里去。到了，就见里面空着，打扫干净，装饰好了。 ###EN### Then it says, I will return to my house from which I came out. And it comes and finds it unoccupied, swept, and decorated.
+Verse_Ch: 12:45 于是去另带了七个比自己更恶的灵来，一同进去，住在那里。那人末后的景况，就比先前更坏了。这邪恶的世代，也要如此。 ###EN### Then it goes and takes along with itself seven other spirits more evil than itself, and they enter in and settle down there. And the last state of that man becomes worse than the first. Thus shall it be also with this evil generation.
+Verse_Ch: 12:46 耶稣还对群众说话的时候，看哪，祂的母亲和兄弟站在外面，要找祂说话。 ###EN### While He was still speaking to the crowds, behold, His mother and His brothers stood outside seeking to speak to Him.
+Verse_Ch: 12:47 有人对祂说，看哪，你的母亲和兄弟站在外面，要找你说话。 ###EN### And someone said to Him, Behold, Your mother and Your brothers are standing outside seeking to speak to You.
+Verse_Ch: 12:48 祂却回答那对祂说话的人说，谁是我的母亲？谁是我的弟兄？ ###EN### But He answered and said to him who spoke to Him, Who is My mother, and who are My brothers?
+Verse_Ch: 12:49 就伸手指着门徒说，看哪，我的母亲，我的弟兄！ ###EN### And stretching out His hand toward His disciples, He said, Behold, My mother and My brothers!
+Verse_Ch: 12:50 因为凡实行我在诸天之上父旨意的，就是我的弟兄、姊妹和母亲了。 ###EN### For whoever does the will of My Father who is in the heavens, he is My brother and sister and mother.
+Chapter_Header: 13
+Verse_Ch: 13:1 那一天，耶稣从屋子里出来，坐在海边。 ###EN### On that day Jesus went out of the house and sat beside the sea.
+Verse_Ch: 13:2 有好多群众聚集到祂那里，祂只得上船坐下，群众都站在岸上。 ###EN### And great crowds were gathered to Him, so that He stepped into a boat and sat, and all the crowd stood on the shore.
+Verse_Ch: 13:3 祂就用比喻对他们讲许多事，说，看哪，那撒种的出去撒种。 ###EN### And He spoke many things to them in parables, saying, Behold, the sower went out to sow.
+Verse_Ch: 13:4 撒的时候，有的落在路旁，飞鸟来吃尽了。 ###EN### And as he sowed, some seeds fell beside the way, and the birds came and devoured them.
+Verse_Ch: 13:5 又有的落在土浅石头地上，土既不深，立刻发苗； ###EN### And others fell on the rocky places, where they did not have much earth, and immediately they sprang up because they had no depth of earth.
+Verse_Ch: 13:6 等日头一出来，就晒焦了，又因没有根，便枯干了。 ###EN### But when the sun rose, they were scorched; and because they had no root, they withered.
+Verse_Ch: 13:7 还有的落在荆棘里，荆棘长起来，就把它挤住了。 ###EN### And others fell on the thorns, and the thorns came up and choked them.
+Verse_Ch: 13:8 但有的落在好土里，就结果实，有的一百倍，有的六十倍，有的三十倍。 ###EN### But others fell on the good earth and yielded fruit, one a hundredfold, and one sixtyfold, and one thirtyfold.
+Verse_Ch: 13:9 有耳可听的，就应当听。 ###EN### He who has ears to hear, let him hear.
+Verse_Ch: 13:10 门徒进前来，对祂说，你对众人讲话，为什么用比喻？ ###EN### And the disciples came and said to Him, Why do You speak in parables to them?
+Verse_Ch: 13:11 祂回答说，因为诸天之国的奥秘，只给你们知道，不给他们知道。 ###EN### And He answered and said to them, Because to you it has been given to know the mysteries of the kingdom of the heavens, but to them it has not been given.
+Verse_Ch: 13:12 因为凡有的，还要给他，他就充盈有余；凡没有的，连他所有的，也要从他夺去。 ###EN### For whoever has, it shall be given to him, and he will abound; but whoever does not have, even that which he has shall be taken away from him.
+Verse_Ch: 13:13 所以我用比喻对他们讲，因为他们看却看不见，听也听不见，也不领悟。 ###EN### For this reason I speak to them in parables, because seeing they do not see, and hearing they do not hear, nor do they understand.
+Verse_Ch: 13:14 在他们身上，应验了以赛亚的申言，说，“你们听是要听见，却绝不领悟；看是要看见，却绝看不透。 ###EN### And in them the prophecy of Isaiah is being fulfilled, which says, "In hearing you shall hear and by no means understand, and seeing you shall see and by no means perceive.
+Verse_Ch: 13:15 因为这百姓心蒙脂油，耳听不灵，眼睛闭着；恐怕他们眼睛看见，耳朵听见，心里领悟，回转过来，我就医治他们。” ###EN### For the heart of this people has become fat, and with their ears they have heard heavily, and their eyes they have closed, lest they perceive with their eyes and hear with their ears and understand with their heart, and they turn around, and I will heal them.''
+Verse_Ch: 13:16 但你们的眼睛是有福的，因为看见了；你们的耳朵也是有福的，因为听见了。 ###EN### But blessed are your eyes because they see, and your ears because they hear.
+Verse_Ch: 13:17 我实在告诉你们，曾经有许多申言者和义人，渴想要看你们所看的，却没有看见；要听你们所听的，却没有听见。 ###EN### For truly I say to you that many prophets and righteous men have desired to perceive the things that you see, and have not perceived them, and to hear the things that you hear, and have not heard them.
+Verse_Ch: 13:18 所以你们要听这撒种者的比喻。 ###EN### You therefore hear the parable of the one who sowed.
+Verse_Ch: 13:19 凡听见国度之道不领悟的，那恶者就来，把撒在他心里的夺了去；这就是那撒在路旁的。 ###EN### When anyone hears the word of the kingdom and does not understand, the evil one comes and snatches away that which has been sown in his heart. This is the one sown beside the way.
+Verse_Ch: 13:20 又有那撒在石头地上的，就是人听了道，立刻欢喜领受， ###EN### And the one sown on the rocky places, this is he who hears the word and immediately receives it with joy;
+Verse_Ch: 13:21 只因他里面没有根，不过是暂时的；一旦为道遭遇患难或逼迫，就立刻绊跌了。 ###EN### Yet he does not have root in himself but lasts only for a time, and when affliction or persecution occurs because of the word, immediately he is stumbled.
+Verse_Ch: 13:22 还有那撒在荆棘里的，就是人听了道，后来有今世的思虑，和钱财的迷惑，把道全然挤住了，道就不能结实。 ###EN### And the one sown in the thorns, this is he who hears the word, and the anxiety of the age and the deceitfulness of riches utterly choke the word, and it becomes unfruitful.
+Verse_Ch: 13:23 但那撒在好土里的，就是人听了道，也领悟了，他就结出果实，有的结了一百倍，有的六十倍，有的三十倍。 ###EN### But the one sown on the good earth, this is he who hears the word and understands, who by all means bears fruit and produces, one a hundredfold, and one sixtyfold, and one thirtyfold.
+Verse_Ch: 13:24 耶稣在他们跟前另设一个比喻，说，诸天的国好比人撒好种在他的田里； ###EN### Another parable He set before them, saying, The kingdom of the heavens has become like a man sowing good seed in his field.
+Verse_Ch: 13:25 及至人们睡觉的时候，他的仇敌来了，将稗子撒在麦子中间，就走了。 ###EN### But while the men slept, his enemy came and sowed tares in the midst of the wheat and went away.
+Verse_Ch: 13:26 到长苗吐穗的时候，稗子也显出来。 ###EN### And when the blade sprouted and produced fruit, then the tares appeared also.
+Verse_Ch: 13:27 家主的奴仆就进前来对他说，主阿，你不是撒好种在你的田里么？从那里来的稗子？ ###EN### And the slaves of the master of the house came and said to him, Sir, did you not sow good seed in your field? Where then did the tares come from?
+Verse_Ch: 13:28 他就对他们说，这是仇敌作的。奴仆就对他说，那么你要我们去薅集它们么？ ###EN### And he said to them, An enemy has done this. And the slaves said to him, Do you want us then to go and collect them?
+Verse_Ch: 13:29 他就说，不，免得薅集稗子，连麦子也一齐带根薅出来。 ###EN### But he said, No, lest while collecting the tares, you uproot the wheat along with them.
+Verse_Ch: 13:30 让这两样一齐长，直到收割。在收割的时候，我要对收割的人说，先薅集稗子，捆成捆，好把它们烧了，麦子却要收到我的仓里。 ###EN### Let both grow together until the harvest, and at the time of the harvest I will say to the reapers, Collect first the tares and bind them into bundles to burn them up, but the wheat gather into my barn.
+Verse_Ch: 13:31 耶稣在他们跟前另设一个比喻，说，诸天的国好像一粒芥菜种，有人拿去种在他的田里。 ###EN### Another parable He set before them, saying, The kingdom of the heavens is like a mustard seed, which a man took and sowed in his field,
+Verse_Ch: 13:32 这乃是百种里最小的，但长起来，却比别的菜都大，且成了树，甚至天空的飞鸟来栖宿在它的枝上。 ###EN### And which is smaller than all the seeds; but when it has grown, it is greater than the herbs and becomes a tree, so that the birds of heaven come and roost in its branches.
+Verse_Ch: 13:33 祂对他们另讲一个比喻说，诸天的国好像面酵，有妇人拿去藏在三斗面里，直到全团都发了酵。 ###EN### Another parable He spoke to them: The kingdom of the heavens is like leaven, which a woman took and hid in three measures of meal until the whole was leavened.
+Verse_Ch: 13:34 耶稣用比喻对群众讲说这一切的事，若不用比喻，就不对他们说什么。 ###EN### All these things Jesus spoke in parables to the crowds, and apart from a parable He spoke nothing to them,
+Verse_Ch: 13:35 这是要应验那借着申言者所说的，说，“我要开口用比喻，把创世以来所隐藏的事说出来。” ###EN### So that what was spoken through the prophet might be fulfilled, saying, "I will open My mouth in parables; I will utter things hidden from the foundation of the world.''
+Verse_Ch: 13:36 当下，耶稣离开群众，进了屋里，祂的门徒到祂跟前来，说，请把田间稗子的比喻，给我们讲解清楚。 ###EN### Then, leaving the crowds, He went into the house. And His disciples came to Him, saying, Make the parable of the tares of the field clear to us.
+Verse_Ch: 13:37 祂就回答说，那撒好种的就是人子， ###EN### And He answered and said, He who sows the good seed is the Son of Man;
+Verse_Ch: 13:38 田地就是世界，好种就是国度之子，稗子就是恶者之子， ###EN### And the field is the world; and the good seed, these are the sons of the kingdom; and the tares are the sons of the evil one;
+Verse_Ch: 13:39 撒稗子的仇敌就是魔鬼，收割的时候就是这世代的终结，收割的人就是天使。 ###EN### And the enemy who sowed them is the devil; and the harvest is the consummation of the age; and the reapers are angels.
+Verse_Ch: 13:40 所以稗子怎样被薅集，且被火焚烧，在这世代的终结，也要如此。 ###EN### Therefore just as the tares are collected and burned up with fire, so will it be at the consummation of the age.
+Verse_Ch: 13:41 人子要差遣祂的使者，从祂的国里薅集一切绊跌人的事，和行不法的人， ###EN### The Son of Man will send His angels, and they will collect out of His kingdom all the stumbling blocks and those who practice lawlessness,
+Verse_Ch: 13:42 且要把他们丢到火炉里，在那里必要哀哭切齿了。 ###EN### And will cast them into the furnace of fire. In that place there will be the weeping and the gnashing of teeth.
+Verse_Ch: 13:43 那时，义人在他们父的国里，要发光如同太阳。有耳可听的，就应当听。 ###EN### Then the righteous will shine forth like the sun in the kingdom of their Father. He who has ears to hear, let him hear.
+Verse_Ch: 13:44 诸天的国好像宝贝藏在田地里，人找到了，就藏起来，欢欢喜喜的去变卖他一切所有的，买这田地。 ###EN### The kingdom of the heavens is like a treasure hidden in the field, which a man found and hid, and in his joy goes and sells all that he has, and buys that field.
+Verse_Ch: 13:45 诸天的国又好像一个商人，寻找好珠子， ###EN### Again, the kingdom of the heavens is like a merchant seeking fine pearls;
+Verse_Ch: 13:46 寻到一颗珍贵的珠子，就去变卖他一切所有的，买了这珠子。 ###EN### And finding one pearl of great value, he went and sold all that he had and bought it.
+Verse_Ch: 13:47 还有，诸天的国好像网撒在海里，聚拢各样的水族。 ###EN### Again, the kingdom of the heavens is like a net cast into the sea and gathering from every species,
+Verse_Ch: 13:48 网既满了，人就拉上岸来，坐下，把好的收到器皿里，坏的丢到外面去。 ###EN### Which, when it was filled, they brought onto the shore, and sat down and collected the good into vessels; but the foul they cast out.
+Verse_Ch: 13:49 在这世代的终结，也要如此：天使要出来，把恶人从义人中间分别出来， ###EN### So it will be at the consummation of the age: the angels will go forth and separate the evil from the midst of the righteous,
+Verse_Ch: 13:50 且要把他们丢到火炉里，在那里必要哀哭切齿了。 ###EN### And will cast them into the furnace of fire. In that place there will be the weeping and the gnashing of teeth.
+Verse_Ch: 13:51 这一切的事，你们都领悟了么？他们对祂说，是的。 ###EN### Have you understood all these things? They said to Him, Yes.
+Verse_Ch: 13:52 祂又对他们说，因此，凡经学家作诸天之国门徒的，就像一个作家主的人，从他库里拿出新旧的东西来。 ###EN### And He said to them, For this reason every scribe discipled to the kingdom of the heavens is like a householder who brings forth out of his treasure things new and old.
+Verse_Ch: 13:53 耶稣说完了这些比喻，就离开那里， ###EN### And when Jesus had finished these parables, He departed from there.
+Verse_Ch: 13:54 来到自己的家乡，在他们的会堂里教训他们，以致他们都惊讶说，这人的智慧和异能，是从那里来的？ ###EN### And He came into His own country and taught them in their synagogue, so that they were astounded and said, Where did this man get this wisdom and these works of power?
+Verse_Ch: 13:55 这不是那木匠的儿子么？祂母亲不是叫马利亚么？祂兄弟们不是雅各、约西、西门和犹大么？ ###EN### Is not this the carpenter's son? Is not His mother called Mary, and His brothers James and Joseph and Simon and Judas?
+Verse_Ch: 13:56 祂妹妹们不也都在我们这里么？祂这一切是从那里来的？ ###EN### And His sisters, are they not all with us? Where then did this man get all these things?
+Verse_Ch: 13:57 他们就因祂绊跌。但耶稣对他们说，申言者除了在本地本家之外，没有不被人尊敬的。 ###EN### And they were stumbled because of Him. But Jesus said to them, A prophet is not without honor except in his own country and in his own house.
+Verse_Ch: 13:58 因为他们不信，祂就不在那里多行异能了。 ###EN### And He did not do many works of power there because of their unbelief.
+Chapter_Header: 14
+Verse_Ch: 14:1 那时分封的王希律听见耶稣的名声， ###EN### At that time Herod the tetrarch heard the report concerning Jesus,
+Verse_Ch: 14:2 就对臣仆说，这是施浸者约翰从死人中复活了，所以这些异能发显在他身上。 ###EN### And he said to his servants, This is John the Baptist; he has been raised from the dead, and because of this these works of power are operating through him.
+Verse_Ch: 14:3 原来希律为他兄弟腓力的妻子希罗底的缘故，把约翰拿住，捆锁起来，关藏在监里。 ###EN### For Herod had seized John and bound him and put him in prison on account of Herodias, the wife of Philip his brother.
+Verse_Ch: 14:4 因为约翰曾对他说，你不可娶这妇人。 ###EN### For John had been saying to him, It is not lawful for you to have her.
+Verse_Ch: 14:5 希律想要杀他，只是怕群众，因他们都以约翰为申言者。 ###EN### And though he desired to kill him, he feared the crowd because they held him as a prophet.
+Verse_Ch: 14:6 到了希律的生日，希罗底的女儿在众人中间跳舞，使希律欢喜。 ###EN### But when Herod's birthday came, the daughter of Herodias danced in their midst and pleased Herod;
+Verse_Ch: 14:7 因此希律就起誓，应许她无论求什么都给她。 ###EN### Hence, he promised with an oath to give her whatever she asked.
+Verse_Ch: 14:8 她受她母亲唆使，就说，请把施浸者约翰的头，放在盘子上给我。 ###EN### And she, being instigated by her mother, said, Give me here on a platter the head of John the Baptist.
+Verse_Ch: 14:9 王虽忧愁，但因所起的誓，又因同席的人，就吩咐给她。 ###EN### And the king was grieved, yet because of the oaths and those reclining at table with him, he commanded it to be given.
+Verse_Ch: 14:10 于是打发人去，在监里斩了约翰， ###EN### And he sent men and beheaded John in the prison.
+Verse_Ch: 14:11 把他的头放在盘子上，拿来给闺女，她就拿去给她母亲。 ###EN### And his head was brought on a platter and given to the girl, and she brought it to her mother.
+Verse_Ch: 14:12 约翰的门徒进前来，把尸体领去，埋葬了，就去报告耶稣。 ###EN### And his disciples came and took the corpse and buried it; and they came and reported the matter to Jesus.
+Verse_Ch: 14:13 耶稣听见，就上船，从那里独自退到野地去。群众听见，就从各城步行跟随祂。 ###EN### And when Jesus heard this, He withdrew from there in a boat to a deserted place privately. And when the crowds heard of it, they followed Him on foot from the cities.
+Verse_Ch: 14:14 耶稣出来，看见大批的群众，就对他们动了慈心，治好了他们的病人。 ###EN### And going forth, He saw a great crowd, and He was moved with compassion for them and healed their sick.
+Verse_Ch: 14:15 到了黄昏，门徒到祂跟前来，说，这是野地，时候已经晚了，请解散这些群众，他们好往村子里去，为自己买食物。 ###EN### Now when evening fell, the disciples came to Him, saying, This place is deserted and the hour is already late. Send the crowds away that they may go into the villages and buy food for themselves.
+Verse_Ch: 14:16 耶稣却对他们说，不用他们去，你们给他们吃吧。 ###EN### But Jesus said to them, They do not need to go away. You give them something to eat.
+Verse_Ch: 14:17 他们就对祂说，我们这里除了五个饼两条鱼，再没有别的。 ###EN### And they said to Him, We do not have anything here except five loaves and two fish.
+Verse_Ch: 14:18 祂就说，拿过来给我。 ###EN### And He said, Bring them here to Me.
+Verse_Ch: 14:19 于是吩咐群众坐在草地上，就拿着五个饼两条鱼，望着天祝福，擘开饼，递给门徒，门徒便递给群众。 ###EN### And after commanding the crowds to recline on the grass, He took the five loaves and the two fish, and looking up to heaven, He blessed and broke the loaves and gave them to the disciples, and the disciples to the crowds.
+Verse_Ch: 14:20 众人都吃，并且吃饱了。他们拾起剩下的零碎，装满了十二篮子。 ###EN### And they all ate and were satisfied. And they took up what was left over of the broken pieces, twelve handbaskets full.
+Verse_Ch: 14:21 吃的人，除了妇女孩子，约有五千。 ###EN### And those who ate were about five thousand men, apart from women and children.
+Verse_Ch: 14:22 耶稣随即催门徒上船，在祂以先到对岸去，等祂解散群众。 ###EN### And immediately He compelled the disciples to step into the boat and to go before Him to the other side, while He sent the crowds away.
+Verse_Ch: 14:23 既解散了群众，祂就独自上山去祷告。到了晚上，只有祂单独在那里。 ###EN### And after He sent the crowds away, He went up to the mountain privately to pray. And when night fell, He was there alone.
+Verse_Ch: 14:24 这时船在海中，因风不顺，被浪折磨。 ###EN### Now the boat was already in the midst of the sea, being battered by the waves, for the wind was contrary.
+Verse_Ch: 14:25 夜里四更天，祂在海上向他们走去。 ###EN### And in the fourth watch of the night He came to them, walking on the sea.
+Verse_Ch: 14:26 门徒看见祂在海上走，就惊慌，说，这是个鬼怪！由于惧怕，便喊叫起来。 ###EN### And the disciples, seeing Him walking on the sea, were startled, saying, It is a ghost! And they cried out for fear.
+Verse_Ch: 14:27 耶稣连忙对他们说，放心，是我，不要怕。 ###EN### But immediately Jesus talked to them, saying, Take courage. It is I. Do not be afraid.
+Verse_Ch: 14:28 彼得回答说，主，若是你，请吩咐我从水上到你那里去。 ###EN### And Peter answered Him and said, Lord, if it is You, command me to come to You on the water.
+Verse_Ch: 14:29 祂就说，来吧。彼得就从船上下去，在水上向耶稣走去。 ###EN### And He said, Come. And Peter, coming down from the boat, walked on the water and came toward Jesus.
+Verse_Ch: 14:30 只因见风甚大，就害怕，将要沉下去，便喊着说，主阿，救我！ ###EN### But seeing the strong wind, he became frightened; and as he began to sink, he cried out, saying, Lord, save me!
+Verse_Ch: 14:31 耶稣赶紧伸手拉住他，对他说，小信的人哪，为什么疑惑？ ###EN### And immediately Jesus stretched out His hand and took hold of him and said to him, You of little faith, why did you doubt?
+Verse_Ch: 14:32 他们上了船，风就止住了。 ###EN### And when they got up into the boat, the wind ceased.
+Verse_Ch: 14:33 船上的人遂都拜祂说，你真是神的儿子。 ###EN### And those who were in the boat worshipped Him, saying, Truly You are the Son of God.
+Verse_Ch: 14:34 他们既渡过去，就上了岸，来到革尼撒勒。 ###EN### And they crossed over and came to land at Gennesaret.
+Verse_Ch: 14:35 那地方的人一认出是耶稣，就打发人到四周全境，把一切有病的带到祂那里， ###EN### And when the men of that place recognized Him, they sent word into all that surrounding region and brought to Him all who were ill.
+Verse_Ch: 14:36 求祂让他们只摸祂的衣服穗子，凡摸着的，都完全得了拯救。 ###EN### And they begged Him that they might only touch the fringe of His garment. And as many as touched were completely healed.
+Chapter_Header: 15
+Verse_Ch: 15:1 那时，有法利赛人和经学家从耶路撒冷来到耶稣跟前，说， ###EN### Then some Pharisees and scribes came to Jesus from Jerusalem, saying,
+Verse_Ch: 15:2 你的门徒为什么违犯古人的传统？因为他们吃饭的时候不洗手。 ###EN### Why do Your disciples transgress the tradition of the elders? For they do not wash their hands when they eat bread.
+Verse_Ch: 15:3 祂就回答他们说，你们为什么因着你们的传统，违犯神的诫命？ ###EN### And He answered and said to them, Why do you also transgress the commandment of God because of your tradition?
+Verse_Ch: 15:4 原来神说，“当孝敬父母，”又说，“咒骂父母的，要被处死。” ###EN### For God said, "Honor your father and your mother,'' and, "He who speaks evil of father or mother, let him be put to death.''
+Verse_Ch: 15:5 你们倒说，无论谁对父母说，我所当供养你的，已经作了礼物， ###EN### But you say, Whoever says to his father or his mother, Whatever you would have been profited by me is now a gift to God,
+Verse_Ch: 15:6 他就可以不孝敬父母。这就是你们因着你们的传统，使神的话失去效力和权柄。 ###EN### Shall by no means honor his father or his mother; and you have deprived the word of God of its authority because of your tradition.
+Verse_Ch: 15:7 假冒为善的人哪，以赛亚指着你们所申言的是对的；他说， ###EN### Hypocrites! Well has Isaiah prophesied concerning you, saying,
+Verse_Ch: 15:8 “这百姓用嘴唇尊敬我，心却远离我； " ###EN### This people honors Me with their lips, but their heart stays far away from Me;
+Verse_Ch: 15:9 他们敬拜我也是徒然，因为他们将人的吩咐当作教训教导人。” ###EN### But in vain do they worship Me, teaching as teachings the commandments of men.''
+Verse_Ch: 15:10 于是耶稣叫了群众来，对他们说，你们要听，也要领悟： ###EN### And He called the crowd to Him and said to them, Hear and understand:
+Verse_Ch: 15:11 入口的不能污秽人，出口的乃能污秽人。 ###EN### It is not that which enters into the mouth that defiles the man; but that which proceeds out of the mouth, this defiles the man.
+Verse_Ch: 15:12 当时，门徒进前来，对祂说，法利赛人听见这话，被绊跌了，你知道么？ ###EN### Then the disciples came and said to Him, Do You know that the Pharisees were stumbled when they heard this word?
+Verse_Ch: 15:13 祂就回答说，凡不是我天父所栽种的植物，必要连根拔出来。 ###EN### And He answered and said, Every plant which My heavenly Father has not planted shall be rooted up.
+Verse_Ch: 15:14 任凭他们吧，他们是瞎子的瞎眼领路者；若是瞎子领瞎子，两个都要掉在坑里。 ###EN### Let them be. They are blind guides of the blind; and if a blind man guides a blind man, both will fall into a pit.
+Verse_Ch: 15:15 彼得就回答祂说，请给我们讲讲这比喻。 ###EN### And Peter answered and said to Him, Explain this parable to us.
+Verse_Ch: 15:16 祂就说，连你们到如今还不领悟么？ ###EN### And He said, Are you also still without understanding?
+Verse_Ch: 15:17 岂不知凡入口的，是进到肚腹，又排泄到茅厕么？ ###EN### Do you not understand that everything that goes into the mouth passes into the stomach and is expelled into the drain?
+Verse_Ch: 15:18 惟独出口的，是从心里发出来的，那才污秽人。 ###EN### But the things which proceed out of the mouth come out of the heart, and those defile the man.
+Verse_Ch: 15:19 因为从心里发出恶念、凶杀、奸淫、淫乱、偷窃、假见证和谤讟， ###EN### For out of the heart come evil reasonings, murders, adulteries, fornications, thefts, false witnessings, blasphemies.
+Verse_Ch: 15:20 这些都是污秽人的；至于不洗手吃饭，却不污秽人。 ###EN### These are the things which defile the man, but eating with unwashed hands does not defile the man.
+Verse_Ch: 15:21 耶稣离开那里，退到推罗、西顿的境内去。 ###EN### And Jesus went from there and withdrew into the parts of Tyre and Sidon.
+Verse_Ch: 15:22 看哪，有一个迦南妇人从那地区出来，喊着说，主阿，大卫的子孙，可怜我！我女儿被鬼附得很苦。 ###EN### And behold, a Canaanite woman came out from those borders and cried out, saying, Have mercy on me, Lord, Son of David! My daughter suffers terribly from demon possession.
+Verse_Ch: 15:23 耶稣却一言不答。门徒就进前来，求祂说，请打发她走吧，因为她在我们后面直喊。 ###EN### But He did not answer her a word. And His disciples came and implored Him, saying, Send her away, for she is crying out after us.
+Verse_Ch: 15:24 耶稣回答说，我奉差遣，不过是到以色列家迷失的羊那里去。 ###EN### But He answered and said, I was not sent except to the lost sheep of the house of Israel.
+Verse_Ch: 15:25 那妇人来拜祂，说，主阿，帮助我！ ###EN### But she came and worshipped Him, saying, Lord, help me!
+Verse_Ch: 15:26 祂回答说，不好拿儿女的饼丢给小狗。 ###EN### But He answered and said, It is not good to take the children's bread and throw it to the little dogs.
+Verse_Ch: 15:27 妇人说，主阿，是的，就是小狗也吃主人桌子上掉下来的碎渣。 ###EN### And she said, Yes, Lord, for even the little dogs eat of the crumbs which fall from their masters' table.
+Verse_Ch: 15:28 于是耶稣回答她说，妇人，你的信心真大！照你所愿的给你成全吧。从那时候，她的女儿就得了医治。 ###EN### Then Jesus answered and said to her, O woman, great is your faith! Be it done to you as you wish. And her daughter was healed from that hour.
+Verse_Ch: 15:29 耶稣遂离开那里，来到靠近加利利的海边，就上山，在那里坐下。 ###EN### And Jesus departed from there and came beside the Sea of Galilee; and He went up to the mountain and sat there.
+Verse_Ch: 15:30 好多群众到祂跟前来，带着瘸子、瞎子、残废的、哑吧和好些别种病人，都放在祂的脚前，祂就治好了他们， ###EN### And great crowds came to Him, having with them the lame, the blind, the crippled, the dumb, and many other sick ones; and they laid them at His feet, and He healed them,
+Verse_Ch: 15:31 以致群众都希奇，因看见哑吧说话，残废的痊愈，瘸子行走，瞎子看见；他们就荣耀以色列的神。 ###EN### So that the crowd marveled, because they saw the dumb speaking, the crippled healthy and the lame walking, and the blind seeing. And they glorified the God of Israel.
+Verse_Ch: 15:32 耶稣叫祂的门徒来，说，我对这群众动了慈心，因为他们同我在一起已经三天，也没有什么吃的了。我不愿意叫他们饿着散去，恐怕他们在路上困 乏。 ###EN### And Jesus called His disciples to Him and said, I am moved with compassion for the crowd, because for three days now they have remained with Me and they do not have anything to eat. And I am not willing to send them away hungry, lest they faint on the way.
+Verse_Ch: 15:33 门徒就对祂说，我们在这旷野，那里有这么多的饼，叫这么多的群众吃饱？ ###EN### And the disciples said to Him, Where can we get so many loaves in this desolate place to satisfy so great a crowd?
+Verse_Ch: 15:34 耶稣对他们说，你们有多少饼？他们说，七个，和几条小鱼。 ###EN### And Jesus said to them, How many loaves do you have? And they said, Seven, and a few small fish.
+Verse_Ch: 15:35 祂就吩咐群众坐在地上， ###EN### And after He commanded the crowd to recline on the ground,
+Verse_Ch: 15:36 拿着这七个饼和几条鱼，祝谢了，擘开，递给门徒，门徒又递给群众。 ###EN### He took the seven loaves and the fish, and giving thanks, He broke them and gave them to the disciples, and the disciples to the crowds.
+Verse_Ch: 15:37 众人都吃，并且吃饱了。他们拾起剩下的零碎，装满了七筐子。 ###EN### And they all ate and were satisfied. And they took up what was left over of the broken pieces, seven baskets full.
+Verse_Ch: 15:38 吃的人，除了妇女孩子，共有四千。 ###EN### And those who ate were four thousand men, apart from women and children.
+Verse_Ch: 15:39 祂既解散了群众，就上船，来到马加丹的境界。 ###EN### And after He sent the crowds away, He stepped into the boat and came to the borders of Magadan.
+Chapter_Header: 16
+Verse_Ch: 16:1 法利赛人和撒都该人进前来，试诱耶稣，求祂从天上显个神迹给他们看。 ###EN### And the Pharisees and Sadducees came, and testing Him asked Him to show them a sign out of heaven.
+Verse_Ch: 16:2 耶稣就回答他们说，黄昏到了，你们说，天要晴，因为天发红； ###EN### But He answered and said to them, When evening falls, you say, There will be fair weather, for the sky is red;
+Verse_Ch: 16:3 在早晨，你们说，今天要有风雨，因为天发红，变阴暗。你们知道分辨天色，倒不能分辨这时期的神迹。 ###EN### And in the morning, It will be stormy today, for the sky is red and gloomy. The face of the sky you know how to discern, but you cannot discern the signs of the times.
+Verse_Ch: 16:4 邪恶淫乱的世代寻求神迹，除了约拿的神迹以外，再没有神迹给它。耶稣就撇开他们走了。 ###EN### An evil and adulterous generation seeks after a sign, and a sign shall not be given to it, except the sign of Jonah. And He left them and went away.
+Verse_Ch: 16:5 门徒来到对岸，忘了带饼。 ###EN### And when the disciples came to the other side, they had forgotten to take bread.
+Verse_Ch: 16:6 耶稣对他们说，你们要当心，提防法利赛人和撒都该人的酵。 ###EN### And Jesus said to them, Watch and beware of the leaven of the Pharisees and Sadducees.
+Verse_Ch: 16:7 门徒就彼此议论说，这是因为我们没有带饼吧。 ###EN### But they reasoned among themselves, saying, It is because we did not take bread.
+Verse_Ch: 16:8 耶稣知道了，就说，小信的人哪，为什么因为没有饼就彼此议论？ ###EN### And Jesus, knowing it, said, Why are you reasoning among yourselves, you of little faith, because you have no bread?
+Verse_Ch: 16:9 你们还不明白么？不记得那分给五千人的五个饼，和你们拾取了多少篮子？ ###EN### Do you not yet understand nor remember the five loaves of the five thousand and how many handbaskets you took up?
+Verse_Ch: 16:10 也不记得那分给四千人的七个饼，和你们拾取了多少筐子？ ###EN### Nor the seven loaves of the four thousand and how many baskets you took up?
+Verse_Ch: 16:11 你们怎么不明白？我对你们所说的，不是指着饼，乃是指着要提防法利赛人和撒都该人的酵。 ###EN### How is it that you do not understand that it was not about bread that I spoke to you? But beware of the leaven of the Pharisees and Sadducees.
+Verse_Ch: 16:12 门徒这才领悟祂所说的，不是叫他们提防饼的酵，乃是叫他们提防法利赛人和撒都该人的教训。 ###EN### Then they understood that He did not say to beware of the leaven of bread, but of the teaching of the Pharisees and Sadducees.
+Verse_Ch: 16:13 耶稣到了该撒利亚腓立比的境内，就问祂的门徒说，人说人子是谁？ ###EN### Now when Jesus came into the parts of Caesarea Philippi, He asked His disciples, saying, Who do men say that the Son of Man is?
+Verse_Ch: 16:14 他们说，有人说是施浸者约翰，另有人说是以利亚，还有人说是耶利米，或申言者中的一位。 ###EN### And they said, Some, John the Baptist; and others, Elijah; and still others, Jeremiah or one of the prophets.
+Verse_Ch: 16:15 祂对他们说，你们说我是谁？ ###EN### He said to them, But you, who do you say that I am?
+Verse_Ch: 16:16 西门彼得回答说，你是基督，是活神的儿子。 ###EN### And Simon Peter answered and said, You are the Christ, the Son of the living God.
+Verse_Ch: 16:17 耶稣回答他说，西门巴约拿，你是有福的，因为不是血肉之人启示了你，乃是我在诸天之上的父启示了你。 ###EN### And Jesus answered and said to him, Blessed are you, Simon Barjona, because flesh and blood has not revealed this to you, but My Father who is in the heavens.
+Verse_Ch: 16:18 我还告诉你，你是彼得，我要把我的召会建造在这磐石上，阴间的门不能胜过她。 ###EN### And I also say to you that you are Peter, and upon this rock I will build My church, and the gates of Hades shall not prevail against it.
+Verse_Ch: 16:19 我要把诸天之国的钥匙给你，凡你在地上捆绑的，必是在诸天之上已经捆绑的；凡你在地上释放的，必是在诸天之上已经释放的。 ###EN### I will give to you the keys of the kingdom of the heavens, and whatever you bind on the earth shall have been bound in the heavens, and whatever you loose on the earth shall have been loosed in the heavens.
+Verse_Ch: 16:20 于是耶稣嘱咐门徒，不可对人说祂是基督。 ###EN### Then He charged the disciples not to tell anyone that He was the Christ.
+Verse_Ch: 16:21 从那时候，耶稣才指示祂的门徒，祂必须往耶路撒冷去，受长老、祭司长和经学家许多的苦，并且被杀，第三日复活。 ###EN### From that time Jesus began to show to His disciples that He must go to Jerusalem and suffer many things from the elders and chief priests and scribes and be killed and on the third day be raised.
+Verse_Ch: 16:22 彼得就拉祂到一边，责劝祂说，主阿，神眷怜你，这事绝不会临到你。 ###EN### And Peter took Him aside and began to rebuke Him, saying, God be merciful to You, Lord! This shall by no means happen to You!
+Verse_Ch: 16:23 祂却转过来，对彼得说，撒但，退我后面去吧！你是绊跌我的，因为你不思念神的事，只思念人的事。 ###EN### But He turned and said to Peter, Get behind Me, Satan! You are a stumbling block to Me, for you are not setting your mind on the things of God, but on the things of men.
+Verse_Ch: 16:24 于是耶稣对门徒说，若有人要跟从我，就当否认己，背起他的十字架，并跟从我。 ###EN### Then Jesus said to His disciples, If anyone wants to come after Me, let him deny himself and take up his cross and follow Me.
+Verse_Ch: 16:25 因为凡要救自己魂生命的，必丧失魂生命；凡为我丧失自己魂生命的，必得着魂生命。 ###EN### For whoever wants to save his soul-life shall lose it; but whoever loses his soul-life for My sake shall find it.
+Verse_Ch: 16:26 人若赚得全世界，却赔上自己的魂生命，有什么益处？人还能拿什么换自己的魂生命？ ###EN### For what shall a man be profited if he gains the whole world, but forfeits his soul-life? Or what shall a man give in exchange for his soul-life?
+Verse_Ch: 16:27 因为人子要在祂父的荣耀里，同着众天使来临，那时祂要照各人的行为报应各人。 ###EN### For the Son of Man is to come in the glory of His Father with His angels, and then He will repay each man according to his doings.
+Verse_Ch: 16:28 我实在告诉你们，站在这里的，有人还没有尝到死味，必看见人子在祂的国里来临。 ###EN### Truly I say to you, There are some of those standing here who shall by no means taste death until they see the Son of Man coming in His kingdom.
+Chapter_Header: 17
+Verse_Ch: 17:1 过了六天，耶稣带着彼得、雅各、和雅各的兄弟约翰，暗暗的领他们上了高山， ###EN### And after six days Jesus took with Him Peter and James and John his brother, and brought them up to a high mountain privately.
+Verse_Ch: 17:2 就在他们面前变了形像，脸面发光如日头，衣服变白如光。 ###EN### And He was transfigured before them, and His face shone like the sun, and His garments became as white as the light.
+Verse_Ch: 17:3 看哪，有摩西和以利亚向他们显现，同耶稣谈话。 ###EN### And behold, Moses and Elijah appeared to them, conversing with Him.
+Verse_Ch: 17:4 彼得对耶稣说，主阿，我们在这里真好；你若愿意，我就在这里搭三座帐棚，一座为你，一座为摩西，一座为以利亚。 ###EN### And Peter answered and said to Jesus, Lord, it is good for us to be here; if You are willing, I will make three tents here, one for You and one for Moses and one for Elijah.
+Verse_Ch: 17:5 他还说话的时候，看哪，有一朵光明的云彩遮盖他们；看哪，又有声音从云彩里出来，说，这是我的爱子，我所喜悦的，你们要听祂。 ###EN### While he was still speaking, behold, a bright cloud overshadowed them, and behold, a voice out of the cloud, saying, This is My Son, the Beloved, in whom I have found My delight. Hear Him!
+Verse_Ch: 17:6 门徒听见，就面伏于地，极其害怕。 ###EN### And when the disciples heard this, they fell on their face and were greatly frightened.
+Verse_Ch: 17:7 耶稣进前来，摸他们说，起来，不要害怕。 ###EN### And Jesus came to them and touched them and said, Arise, and do not be afraid.
+Verse_Ch: 17:8 他们举目不见一人，只见耶稣。 ###EN### And when they lifted up their eyes, they saw no one except Jesus Himself alone.
+Verse_Ch: 17:9 他们下山的时候，耶稣吩咐他们说，人子还没有从死人中复活，你们不要将所看见的告诉人。 ###EN### And as they were coming down from the mountain, Jesus commanded them, saying, Tell the vision to no one until the Son of Man is raised from the dead.
+Verse_Ch: 17:10 门徒问祂说，那么，经学家为什么说，以利亚必须先来？ ###EN### And the disciples asked Him, saying, Why then do the scribes say that Elijah must come first?
+Verse_Ch: 17:11 祂回答说，以利亚固然要来，并要复兴万事； ###EN### And He answered and said, Elijah indeed is coming and will restore all things;
+Verse_Ch: 17:12 只是我告诉你们，以利亚已经来了，人却不认识他，反而任意待他；照样，人子也要受他们的苦害。 ###EN### But I say to you that Elijah has already come; and they did not recognize him, but did with him the things they wished. So also the Son of Man is about to suffer by them.
+Verse_Ch: 17:13 门徒这才领悟，祂是对他们说到施浸者约翰。 ###EN### Then the disciples understood that He spoke to them concerning John the Baptist.
+Verse_Ch: 17:14 耶稣和门徒到了群众那里，有一个人到祂跟前来，向祂跪下说， ###EN### And when they came to the crowd, a man came to Him, falling on his knees before Him and saying,
+Verse_Ch: 17:15 主阿，可怜我的儿子！因他患癫痫病很苦，屡次跌在火里，屡次跌在水里。 ###EN### Lord, have mercy on my son, for he has epilepsy and suffers terribly; for often he falls into the fire and often into the water.
+Verse_Ch: 17:16 我带他到你门徒那里，他们却不能治好他。 ###EN### And I brought him to Your disciples, and they were not able to heal him.
+Verse_Ch: 17:17 耶稣回答说，唉，不信且悖谬的世代！我与你们同在要到几时？我忍耐你们要到几时？把他带到我这里来吧。 ###EN### And Jesus answered and said, O unbelieving and perverted generation! How long shall I be with you? How long shall I bear with you? Bring him here to Me.
+Verse_Ch: 17:18 耶稣斥责那鬼，鬼就从他身上出来；从那时候，孩子就好了。 ###EN### And Jesus rebuked it, and the demon came out from him; and the boy was healed from that hour.
+Verse_Ch: 17:19 那时，门徒暗暗的到耶稣跟前来，说，我们为什么不能赶出那鬼？ ###EN### Then the disciples, coming to Jesus privately, said, Why were we not able to cast it out?
+Verse_Ch: 17:20 耶稣对他们说，因为你们的信心小；我实在告诉你们，你们若有信心像一粒芥菜种，就是对这座山说，从这边挪到那边，它也必挪去；并且在你们 就没有一件事是不可能的。 ###EN### And He said to them, Because of your little faith; for truly I say to you, If you have faith like a mustard seed, you will say to this mountain, Move from here to there, and it will move; and nothing will be impossible to you.
+Verse_Ch: 17:21 至于这一类的鬼，若不祷告禁食，它就不出来。 ###EN### But this kind does not go out except by prayer and fasting.
+Verse_Ch: 17:22 他们还聚集在加利利的时候，耶稣对他们说，人子将要被交在人手里， ###EN### And while they were gathering together in Galilee, Jesus said to them, The Son of Man is about to be delivered into the hands of men,
+Verse_Ch: 17:23 他们要杀害祂，第三日祂要复活。门徒就极其忧愁。 ###EN### And they will kill Him, and on the third day He will be raised. And they were greatly grieved.
+Verse_Ch: 17:24 他们到了迦百农，有收殿税的人前来对彼得说，你们的老师不纳殿税么？ ###EN### And when they came to Capernaum, those who take up the temple tax came to Peter and said, Does not your Teacher pay the temple tax?
+Verse_Ch: 17:25 彼得说，纳。等他进了屋子，耶稣先向他说，西门，你怎么看？地上的君王向谁征收关税或丁税？向自己的儿子，还是向外人？ ###EN### He said, Yes. And when he came into the house, Jesus anticipated him, saying, What do you think, Simon? From whom do the kings of the earth receive custom or poll tax, from their sons or from strangers?
+Verse_Ch: 17:26 彼得一说，向外人，耶稣就对他说，既然如此，儿子就可以免了。 ###EN### And when he said, From strangers, Jesus said to him, So then the sons are free.
+Verse_Ch: 17:27 但为免绊跌他们，你要到海边去钓鱼，拿起先钓上来的鱼，开它的口，就必找到一块钱，可以拿去给他们，作你我的殿税。 ###EN### But that we do not stumble them, go to the sea and cast a hook, and take the first fish that comes up. And when you open its mouth, you will find a stater; take that and give it to them for Me and you.
+Chapter_Header: 18
+Verse_Ch: 18:1 当时，门徒到耶稣跟前来，说，谁在诸天的国里是最大的？ ###EN### In that hour the disciples came to Jesus, saying, Who then is greatest in the kingdom of the heavens?
+Verse_Ch: 18:2 耶稣便叫一个小孩子来，站在他们中间，说， ###EN### And He called a little child to Him and stood him in their midst
+Verse_Ch: 18:3 我实在告诉你们，你们若不回转，变成像小孩子一样，绝不能进诸天的国。 ###EN### And said, Truly I say to you, Unless you turn and become like little children, you shall by no means enter into the kingdom of the heavens.
+Verse_Ch: 18:4 所以凡降卑自己像这小孩子的，这人在诸天的国里就是最大的。 ###EN### He therefore who will humble himself like this little child, he is the greatest in the kingdom of the heavens.
+Verse_Ch: 18:5 凡因我的名，接待一个这样小孩子的，就是接待我。 ###EN### And whoever receives one such little child because of My name, receives Me;
+Verse_Ch: 18:6 凡绊跌一个信入我的小子的，倒不如把大磨石挂在他的脖子上，沉没在深海里。 ###EN### And whoever stumbles one of these little ones who believe into Me, it is more profitable for him that a great millstone be hung around his neck and he be drowned in the open sea.
+Verse_Ch: 18:7 世界因着绊跌人的事有祸了；绊跌人的事是免不了的，但那绊跌人的有祸了。 ###EN### Woe to the world because of stumbling blocks! For it is necessary for stumbling blocks to come, but woe to that man through whom the stumbling block comes.
+Verse_Ch: 18:8 若是你的手或你的脚绊跌你，就把它砍下来扔掉；你残废或瘸腿进入生命，比有两手两脚被扔在永火里更好。 ###EN### If your hand or your foot stumbles you, cut it off and cast it from you; it is better for you to enter into life maimed or lame than to have two hands or two feet and be cast into the eternal fire.
+Verse_Ch: 18:9 若是你的眼绊跌你，就把它剜出来扔掉；你只有一只眼进入生命，比有两只眼被扔在火坑里更好。 ###EN### And if your eye stumbles you, pluck it out and cast it from you; it is better for you to enter into life with one eye than to have two eyes and be cast into the Gehenna of fire.
+Verse_Ch: 18:10 你们要当心，不可轻看这小子里的一个。我告诉你们，他们的使者在诸天之上，常见我在诸天之上父的面。 ###EN### See that you do not despise one of these little ones, for I say to you that their angels in the heavens continually behold the face of My Father who is in the heavens.
+Verse_Ch: 18:11 因为人子来，是要拯救失丧的人。 ###EN### For the Son of Man has come to save that which is lost.
+Verse_Ch: 18:12 你们怎么看？一个人若有一百只羊，其中一只走迷了路，他岂不把这九十九只撇在山上，去找那迷路的么？ ###EN### What do you think? If any man has a hundred sheep and one of them goes astray, will he not leave the ninety-nine on the mountains and go and seek the one that has gone astray?
+Verse_Ch: 18:13 若是找着了，我实在告诉你们，他为这一只欢喜，比为那没有迷路的九十九只欢喜还大。 ###EN### And if it so happens that he finds it, truly I say to you that he rejoices over it more than over the ninety-nine which have not gone astray.
+Verse_Ch: 18:14 照样，你们在诸天之上的父，也不愿这小子里失丧一个。 ###EN### In the same way, it is not the will of your Father who is in the heavens that one of these little ones perish.
+Verse_Ch: 18:15 再者，若是你的弟兄犯罪得罪你，你要去，只在你和他之间指出他的过错。他若听你，你就得着了你的弟兄。 ###EN### Moreover if your brother sins against you, go, reprove him between you and him alone. If he hears you, you have gained your brother.
+Verse_Ch: 18:16 他若不听，你就另带一两个人同去，要凭两三个见证人的口，句句都可定准。 ###EN### But if he does not hear you, take with you one or two more, that by the mouth of two or three witnesses every word may be established.
+Verse_Ch: 18:17 他若不听他们，就告诉召会；他若连召会也不听，就把他当作外邦人和税吏。 ###EN### And if he refuses to hear them, tell it to the church; and if he refuses to hear the church also, let him be to you just like the Gentile and the tax collector.
+Verse_Ch: 18:18 我实在告诉你们，凡你们在地上捆绑的，必是在诸天之上已经捆绑的；凡你们在地上释放的，必是在诸天之上已经释放的。 ###EN### Truly I say to you, Whatever you bind on the earth shall have been bound in heaven, and whatever you loose on the earth shall have been loosed in heaven.
+Verse_Ch: 18:19 我又实在告诉你们，你们中间若有两个人在地上，在他们所求的任何事上和谐一致，他们无论求什么，都必从我在诸天之上的父，得着成全。 ###EN### Again, truly I say to you that if two of you are in harmony on earth concerning any matter for which they ask, it will be done for them from My Father who is in the heavens.
+Verse_Ch: 18:20 因为无论在那里，有两三个人被聚集到我的名里，那里就有我在他们中间。 ###EN### For where there are two or three gathered into My name, there am I in their midst.
+Verse_Ch: 18:21 那时，彼得进前来，对耶稣说，主阿，我的弟兄得罪我，我当赦免他几次？到七次么？ ###EN### Then Peter came and said to Him, Lord, how often shall my brother sin against me and I forgive him? Up to seven times?
+Verse_Ch: 18:22 耶稣对他说，我不是对你说到七次，乃是到七十个七次。 ###EN### Jesus said to him, I do not say to you, Up to seven times, but, Up to seventy times seven.
+Verse_Ch: 18:23 因此，诸天的国好比一个作君王的人，要和他的奴仆算账。 ###EN### For this reason the kingdom of the heavens has become like a king who desired to settle accounts with his slaves.
+Verse_Ch: 18:24 才算的时候，有人带了一个欠一万他连得银子的来。 ###EN### And when he began to settle them, one who owed him ten thousand talents was brought to him.
+Verse_Ch: 18:25 因为他没有什么可偿还的，主人吩咐把他和他的妻子儿女，并一切所有的都卖了来偿还。 ###EN### But since he did not have the means to repay, the master commanded him to be sold, as well as his wife and children and all that he had, and repayment to be made.
+Verse_Ch: 18:26 那奴仆就俯伏拜他，说，宽容我，将来我都要还清。 ###EN### Then the slave fell down and worshipped him, saying, Be patient with me and I will repay you all.
+Verse_Ch: 18:27 那奴仆的主人就动了慈心，把他释放，并且免了他的债。 ###EN### And the master of that slave was moved with compassion and released him and forgave him the loan.
+Verse_Ch: 18:28 但那奴仆出来，遇见一个和他同作奴仆的，欠他一百银币，便揪住他，掐住他的喉咙，说，你所欠的，都要偿还。 ###EN### But that slave went out and found one of his fellow slaves who owed him a hundred denarii, and he took hold of him and began to choke him, saying, Repay me what you owe.
+Verse_Ch: 18:29 那和他同作奴仆的，俯伏央求他说，宽容我，将来我必还你。 ###EN### Then his fellow slave fell down and begged him, saying, Be patient with me and I will repay you.
+Verse_Ch: 18:30 他却不肯，竟去把他下在监里，等他还清所欠的债。 ###EN### But he would not; instead, he went away and threw him into prison until he would repay what was owed.
+Verse_Ch: 18:31 那些和他同作奴仆的，看见所发生的事，就甚忧愁，去把一切所发生的事，都完全告诉他们的主人。 ###EN### Then his fellow slaves, seeing what had taken place, were greatly grieved and came and explained fully to their master all that had taken place.
+Verse_Ch: 18:32 于是主人把他叫来，对他说，你这恶仆，因你央求我，我就把你一切所欠的都免了； ###EN### Then his master called him to him and said to him, Evil slave, all that debt I forgave you, because you begged me.
+Verse_Ch: 18:33 你岂不应当怜悯和你同作奴仆的，像我怜悯你么？ ###EN### Should you not also have had mercy on your fellow slave even as I had mercy on you?
+Verse_Ch: 18:34 主人就大怒，把他交给掌刑的，直到他还清了一切所欠的债。 ###EN### And his master became angry and delivered him to the torturers until he would repay all that was owed.
+Verse_Ch: 18:35 你们各人若不从心里赦免你的弟兄，我天父也要这样待你们了。 ###EN### So also will My heavenly Father do to you if each of you does not forgive his brother from your hearts.
+Chapter_Header: 19
+Verse_Ch: 19:1 耶稣说完了这些话，就离开加利利，来到犹太境内，约但河外。 ###EN### And when Jesus finished these words, He departed from Galilee and came into the borders of Judea beyond the Jordan.
+Verse_Ch: 19:2 有好多群众跟着祂，祂就在那里治好了他们。 ###EN### And great crowds followed Him, and He healed them there.
+Verse_Ch: 19:3 有法利赛人到耶稣跟前来，试诱祂，说，人因任何缘故，都可以休妻么？ ###EN### And some Pharisees came to Him, testing Him and saying, Is it lawful for a man to divorce his wife for any cause?
+Verse_Ch: 19:4 祂就回答说，难道你们没有念过，那起初造人的，是造男造女， ###EN### And He answered and said, Have you not read that He who created them from the beginning made them male and female,
+Verse_Ch: 19:5 并且说，“为这缘故，人要离开父母，与妻子联合，二人成为一体”么？ ###EN### And said, "For this cause shall a man leave his father and his mother and shall be joined to his wife; and the two shall be one flesh''?
+Verse_Ch: 19:6 这样，他们不再是两个，乃是一个肉身了。所以神所配偶的，人不可分开。 ###EN### So then they are no longer two, but one flesh. Therefore what God has yoked together, let man not separate.
+Verse_Ch: 19:7 法利赛人对祂说，这样，摩西为什么吩咐给妻子休书，并休她呢？ ###EN### They said to Him, Why then did Moses command us to give her a certificate of divorce and divorce her?
+Verse_Ch: 19:8 祂对他们说，摩西因为你们的心硬，才准你们休妻，但从起初并不是这样。 ###EN### He said to them, Moses, because of your hardness of heart, allowed you to divorce your wives, but from the beginning it has not been so.
+Verse_Ch: 19:9 我告诉你们，凡休妻另娶的，若不是因淫乱的缘故，就是犯奸淫；有人娶那被休的妇人，也是犯奸淫。 ###EN### But I say to you that whoever divorces his wife, except for fornication, and marries another, commits adultery; and he who marries her who has been divorced commits adultery.
+Verse_Ch: 19:10 门徒对祂说，人和妻子的事既是这样，倒不如不结婚。 ###EN### His disciples said to Him, If the case of the man with his wife is like this, it is not profitable to marry.
+Verse_Ch: 19:11 祂就对他们说，这话不是众人都能接受的，惟独赐给谁，谁才能接受。 ###EN### And He said to them, Not all men can accept this word, but only those to whom it has been given.
+Verse_Ch: 19:12 因为有的阉人从母腹生来就是这样，也有的阉人是被人阉的，并有的阉人是为诸天之国的缘故自阉的。那能接受的，就让他接受。 ###EN### For there are eunuchs who were born so from their mother's womb, and there are eunuchs who were made eunuchs by men, and there are eunuchs who made themselves eunuchs because of the kingdom of the heavens. He who can accept it, let him accept it.
+Verse_Ch: 19:13 那时，有人带着小孩子到耶稣那里，要祂为他们按手祷告，门徒就责备那些人。 ###EN### Then little children were brought to Him that He might lay His hands on them and pray, but the disciples rebuked them.
+Verse_Ch: 19:14 耶稣却说，让小孩子到我这里来，不要禁止他们，因为诸天之国正是这等人的。 ###EN### But Jesus said, Allow the little children and do not prevent them from coming to Me, for of such is the kingdom of the heavens.
+Verse_Ch: 19:15 祂给他们按了手，就从那里往前去。 ###EN### And after He laid His hands on them, He went on from there.
+Verse_Ch: 19:16 看哪，有一个人到耶稣跟前来，说，夫子，我该作什么善事，才可以得永远的生命？ ###EN### And behold, someone came to Him and said, Teacher, what good thing shall I do that I may have eternal life?
+Verse_Ch: 19:17 耶稣对他说，你为什么以善问我？只有一位是善的。你若要进入生命，就要遵守诫命。 ###EN### And He said to him, Why do you ask Me concerning what is good? There is only One who is good. But if you want to enter into life, keep the commandments.
+Verse_Ch: 19:18 他对耶稣说，那些诫命？耶稣说，“不可杀人，不可奸淫，不可偷盗，不可作假见证， ###EN### He said to Him, Which ones? And Jesus said, "You shall not murder; you shall not commit adultery; you shall not steal; you shall not bear false witness;
+Verse_Ch: 19:19 当孝敬父母，又当爱邻舍如同自己。” ###EN### Honor your father and mother; and you shall love your neighbor as yourself.''
+Verse_Ch: 19:20 那青年人对祂说，这一切我都遵守了，还缺少什么？ ###EN### The young man said to Him, All these things I have kept. What do I still lack?
+Verse_Ch: 19:21 耶稣对他说，你若想要完全，就要去变卖你的家业，分给穷人，就必有财宝在诸天之上，你还要来跟从我。 ###EN### Jesus said to him, If you want to be perfect, go, sell your possessions and give to the poor, and you will have treasure in the heavens; and come, follow Me.
+Verse_Ch: 19:22 那青年人听见这话，就忧忧郁郁的走了，因为他有很多产业。 ###EN### But the young man, hearing this word, went away sorrowing, for he had many possessions.
+Verse_Ch: 19:23 于是耶稣对门徒说，我实在告诉你们，财主进诸天的国是难的。 ###EN### And Jesus said to His disciples, Truly I say to you, Only with difficulty will a rich man enter into the kingdom of the heavens.
+Verse_Ch: 19:24 我又告诉你们，骆驼穿过针的眼，比财主进神的国还容易。 ###EN### And again I say to you, It is easier for a camel to pass through the eye of a needle than for a rich man to enter into the kingdom of God.
+Verse_Ch: 19:25 门徒听见了，就极其惊讶，说，这样谁能得救？ ###EN### And when the disciples heard this, they were greatly astonished and said, Who then can be saved?
+Verse_Ch: 19:26 耶稣看着他们说，在人这是不能的，在神凡事都能。 ###EN### And looking upon them, Jesus said to them, With men this is impossible, but with God all things are possible.
+Verse_Ch: 19:27 彼得就回答祂说，看哪，我们已经撇下所有的跟从了你，这样，我们将来要得什么？ ###EN### Then Peter answered and said to Him, Behold, we have left all and followed You. What then will there be for us?
+Verse_Ch: 19:28 耶稣就对他们说，我实在告诉你们，你们这些跟从过我的人，在复兴的时候，当人子坐在祂荣耀的宝座上，你们也要坐在十二个宝座上，审判以色 列十二个支派。 ###EN### And Jesus said to them, Truly I say to you that you who have followed Me, in the restoration, when the Son of Man sits on the throne of His glory, you also shall sit on twelve thrones, judging the twelve tribes of Israel.
+Verse_Ch: 19:29 凡为我的名撇下房屋、或是弟兄、姊妹、父亲、母亲、儿女、田地的，必要得着百倍，且要承受永远的生命。 ###EN### And everyone who has left houses or brothers or sisters or father or mother or children or fields for My name's sake shall receive a hundred times as much and shall inherit eternal life.
+Verse_Ch: 19:30 然而许多在前的将要在后，在后的将要在前。 ###EN### But many first will be last, and many last first.
+Chapter_Header: 20
+Verse_Ch: 20:1 因为诸天的国好像一个作家主的人，清早出去，为他的葡萄园雇工人， ###EN### For the kingdom of the heavens is like a man, who is a householder, who went out early in the morning to hire workmen for his vineyard.
+Verse_Ch: 20:2 和工人讲定一天一个银币，就打发他们进他的葡萄园去。 ###EN### And having agreed with the workmen for a denarius a day, he sent them into his vineyard.
+Verse_Ch: 20:3 约在上午九时，他又出去，看见市场上另有闲站的人， ###EN### And he went out about the third hour and saw others standing idle in the marketplace,
+Verse_Ch: 20:4 就对他们说，你们也进葡萄园去，所当给的，我必给你们。他们就去了。 ###EN### And to those he said, You also go into the vineyard, and whatever is right I will give you. And they went.
+Verse_Ch: 20:5 约在正午和午后三时，他再出去，也是这样行。 ###EN### And again he went out about the sixth and the ninth hour and did likewise.
+Verse_Ch: 20:6 约在午后五时，他出去，看见另有人站着，就对他们说，你们为什么整天在这里闲站？ ###EN### And about the eleventh hour he went out and found others standing, and said to them, Why have you been standing here all the day idle?
+Verse_Ch: 20:7 他们说，因为没有人雇我们。他说，你们也进葡萄园去。 ###EN### They said to him, Because no one has hired us. He said to them, You also go into the vineyard.
+Verse_Ch: 20:8 到了黄昏，葡萄园的主人对管事的说，叫工人都来，给他们工钱，从后来的开始，直到先来的为止。 ###EN### And when evening fell, the master of the vineyard said to his steward, Call the workmen and pay them their wages, beginning from the last ones to the first.
+Verse_Ch: 20:9 那些约在午后五时雇的来了，每个人都领了一个银币。 ###EN### And when those hired about the eleventh hour came, they received each a denarius.
+Verse_Ch: 20:10 那些先雇的也来了，他们以为必要多领，但他们也是各领一个银币。 ###EN### And when the first ones came, they supposed that they would receive more. And they themselves also received each a denarius.
+Verse_Ch: 20:11 他们领了之后，就埋怨家主说， ###EN### And when they received it, they murmured against the householder,
+Verse_Ch: 20:12 那些后来的作了一小时的工，你竟叫他们和我们这些整天劳苦受热的一样。 ###EN### Saying, These last ones worked one hour, and you have made them equal to us who bore the burden of the day and the scorching heat.
+Verse_Ch: 20:13 家主回答他们其中的一个说，朋友，我没有对你不义。你不是与我讲定一个银币么？ ###EN### But he answered one of them and said, Friend, I am doing nothing unrighteous to you. Did you not agree with me for a denarius?
+Verse_Ch: 20:14 拿你的走吧；我愿意给那后来的，正如给你的一样。 ###EN### Take what is yours and go. I want to give to this last one even as I have given to you.
+Verse_Ch: 20:15 难道我不可随我的意思，用我的东西么？还是因为我慈善，你就眼红了么？ ###EN### Is it not lawful for me to do what I wish with what is mine? Or is your eye evil because I am good?
+Verse_Ch: 20:16 这样，在后的将要在前，在前的将要在后了。 ###EN### Thus shall the last be first and the first last.
+Verse_Ch: 20:17 耶稣上耶路撒冷去的时候，在路上暗暗的把十二个门徒带到一边，对他们说， ###EN### And as Jesus was going up to Jerusalem, He took the twelve disciples aside privately, and on the way He said to them,
+Verse_Ch: 20:18 看哪，我们上耶路撒冷去，人子要被交给祭司长和经学家，他们要定祂死罪， ###EN### Behold, we are going up to Jerusalem, and the Son of Man will be delivered to the chief priests and scribes. And they will condemn Him to death,
+Verse_Ch: 20:19 又要把祂交给外邦人去戏弄，鞭打，并钉十字架，第三日祂必复活。 ###EN### And deliver Him to the Gentiles to mock and to scourge and to crucify Him, and on the third day He will be raised.
+Verse_Ch: 20:20 那时，西庇太儿子的母亲，同她儿子们进前来拜耶稣，求祂一件事。 ###EN### Then the mother of the sons of Zebedee came to Him with her sons, worshipping and asking something of Him.
+Verse_Ch: 20:21 耶稣就对她说，你要什么？她说，请叫我这两个儿子在你国里，一个坐在你右边，一个坐在你左边。 ###EN### And He said to her, What do you want? She said to Him, Say that these two sons of mine will sit, one on Your right and one on Your left, in Your kingdom.
+Verse_Ch: 20:22 耶稣回答说，你们不知道所求的是什么。我将要喝的杯，你们能喝么？他们说，我们能。 ###EN### But Jesus answered and said to them, You do not know what you are asking. Are you able to drink the cup which I am about to drink? They said to Him, We are able.
+Verse_Ch: 20:23 耶稣说，我的杯你们必要喝，只是坐在我的左右，不是我可以赐的；乃是我父为谁预备的，就赐给谁。 ###EN### He said to them, My cup you shall indeed drink, but to sit on My right and on My left, this is not Mine to give, but it is for those for whom it has been prepared by My Father.
+Verse_Ch: 20:24 那十个听见，就恼怒这两个兄弟。 ###EN### And when the ten heard this, they were indignant concerning the two brothers.
+Verse_Ch: 20:25 于是耶稣叫了他们来，说，你们知道外邦人有君王为主治理他们，也有大臣操权管辖他们。 ###EN### But Jesus called them to Him and said, You know that the rulers of the Gentiles lord it over them, and the great exercise authority over them.
+Verse_Ch: 20:26 但你们中间不是这样；反倒你们中间无论谁想要为大，就必作你们的仆役； ###EN### It shall not be so among you; but whoever wants to become great among you shall be your servant,
+Verse_Ch: 20:27 你们中间无论谁想要为首，就必作你们的奴仆。 ###EN### And whoever wants to be first among you shall be your slave;
+Verse_Ch: 20:28 正如人子来，不是要受人的服事，乃是要服事人，并且要舍命，作多人的赎价。 ###EN### Just as the Son of Man did not come to be served, but to serve and to give His life as a ransom for many.
+Verse_Ch: 20:29 他们出耶利哥的时候，有大批群众跟着祂。 ###EN### And as they were going out from Jericho, a great crowd followed Him.
+Verse_Ch: 20:30 看哪，有两个瞎子坐在路旁，听见耶稣经过，就喊着说，主阿，大卫的子孙，可怜我们吧！ ###EN### And behold, two blind men sitting by the road, hearing that Jesus was passing by, cried out, saying, Have mercy on us, Lord, Son of David!
+Verse_Ch: 20:31 群众责备他们，叫他们安静，他们却越发喊着说，主阿，大卫的子孙，可怜我们吧！ ###EN### And the crowd rebuked them so that they would be silent, but they cried out the more, saying, Have mercy on us, Lord, Son of David!
+Verse_Ch: 20:32 耶稣就站住，叫他们来，说，要我为你们作什么？ ###EN### And Jesus, standing still, called them and said, What do you want Me to do for you?
+Verse_Ch: 20:33 他们说，主阿，要我们的眼睛得开。 ###EN### They said to Him, Lord, that our eyes may be opened.
+Verse_Ch: 20:34 耶稣就动了慈心，把他们的眼睛一摸，他们立刻看见，就跟从了耶稣。 ###EN### And Jesus, moved with compassion, touched their eyes, and immediately they received their sight and followed Him.
+Chapter_Header: 21
+Verse_Ch: 21:1 耶稣和门徒将近耶路撒冷，来到伯法其，橄榄山那里。 ###EN### And when they drew near to Jerusalem and came to Bethphage at the Mount of Olives, then Jesus sent two disciples,
+Verse_Ch: 21:2 耶稣就打发两个门徒，对他们说，你们往对面村子去，立刻就会看见一匹驴，带着驴驹拴着；你们解开，牵来给我。 ###EN### Saying to them, Go into the village opposite you, and immediately you will find a donkey tied and a colt with her; untie them and lead them to Me.
+Verse_Ch: 21:3 若有人对你们说什么，你们就说，主需要它们；他必立刻打发它们来。 ###EN### And if anyone says anything to you, you shall say, The Lord has need of them; and immediately he will send them.
+Verse_Ch: 21:4 这事成就，为要应验那借着申言者所说的，说， ###EN### Now this took place in order that what was spoken through the prophet might be fulfilled, saying,
+Verse_Ch: 21:5 “要对锡安的女儿说，看哪，你的王来到你这里，是温柔的，骑着驴，骑着驴驹，就是负重牲口的崽子。” " ###EN### Say to the daughter of Zion, Behold, your King is coming to you, meek and mounted on a donkey, and on a colt, a foal of a beast of burden.''
+Verse_Ch: 21:6 他们就去，照耶稣所吩咐他们的行， ###EN### And the disciples went and did as Jesus directed them,
+Verse_Ch: 21:7 牵了驴和驴驹来，把自己的衣服搭在上面，耶稣就骑上。 ###EN### And led the donkey and the colt. And they put their garments on them, and He sat upon them.
+Verse_Ch: 21:8 群众多半把自己的衣服铺在路上，另有人从树上砍下枝子铺在路上。 ###EN### And most of the crowd spread their own garments in the road, and others cut branches from the trees and spread them in the road.
+Verse_Ch: 21:9 前行后随的群众喊着说，和散那归与大卫的子孙！在主名里来的，是当受颂赞的！至高之处的和散那！ ###EN### And the crowds who went before Him and those who followed cried out, saying, Hosanna to the Son of David! Blessed is He who comes in the name of the Lord! Hosanna in the highest!
+Verse_Ch: 21:10 耶稣进了耶路撒冷，全城都震动了，说，这是谁？ ###EN### And when He entered into Jerusalem, all the city was stirred, saying, Who is this?
+Verse_Ch: 21:11 群众说，这是从加利利拿撒勒来的申言者耶稣。 ###EN### And the crowds said, This is the prophet Jesus from Nazareth of Galilee.
+Verse_Ch: 21:12 耶稣进了殿，赶出所有在殿里作买卖的人，推倒兑换银钱之人的桌子，和卖鸽子之人的凳子， ###EN### And Jesus entered into the temple and cast out all those who were selling and buying in the temple. And He overturned the tables of the money changers and the seats of those who were selling the doves,
+Verse_Ch: 21:13 并且对他们说，经上记着，“我的殿必称为祷告的殿；”你们倒使它成为贼窝了。 ###EN### And He said to them, It is written, "My house shall be called a house of prayer,'' but you are making it a den of robbers.
+Verse_Ch: 21:14 在殿里的瞎子和瘸子到祂跟前来，祂就治好了他们。 ###EN### And the blind and the lame came to Him in the temple, and He healed them.
+Verse_Ch: 21:15 祭司长和经学家看见耶稣所行的奇事，并小孩子在殿里喊着说，和散那归与大卫的子孙，就甚恼怒， ###EN### But when the chief priests and the scribes saw the wonders that He did and the children who were crying out in the temple and saying, Hosanna to the Son of David, they were indignant.
+Verse_Ch: 21:16 对祂说，这些人所说的，你听见了么？耶稣对他们说，是的；经上说，“从婴孩和吃奶的口中，你使赞美得以完全。”难道你们没有念过么？ ###EN### And they said to Him, Do you hear what these are saying? And Jesus said to them, Yes. Have you never read, "Out of the mouth of infants and sucklings You have perfected praise''?
+Verse_Ch: 21:17 于是撇开他们，出城到伯大尼去，在那里住宿。 ###EN### And leaving them, He went out of the city to Bethany and lodged there.
+Verse_Ch: 21:18 早晨回城的时候，耶稣饿了； ###EN### Now in the morning as He returned to the city, He became hungry.
+Verse_Ch: 21:19 看见路旁一棵无花果树，就走到跟前，在树上找不着什么，不过有叶子；就对树说，你不再结果子，直到永远。那无花果树就立刻枯干了。 ###EN### And seeing a fig tree on the way, He came to it and found nothing on it except leaves only. And He said to it, May there no longer be fruit from you forever! And the fig tree was instantly dried up.
+Verse_Ch: 21:20 门徒看见了，便希奇说，这无花果树怎么立刻就枯干了？ ###EN### And when the disciples saw this, they marveled, saying, How did the fig tree instantly dry up?
+Verse_Ch: 21:21 耶稣回答他们说，我实在告诉你们，你们若有信心，不疑惑，不但能行无花果树上所发生的事，就是对这座山说，你得挪开，投在海里，也必成就。 ###EN### And Jesus answered and said to them, Truly I say to you, If you have faith and do not doubt, you will not only do what was done to the fig tree, but even if you say to this mountain, Be taken up and cast into the sea, it will happen.
+Verse_Ch: 21:22 你们祷告，无论求什么，只要信，就必得着。 ###EN### And all that you ask in prayer, if you believe, you will receive.
+Verse_Ch: 21:23 耶稣进了殿，正施教的时候，祭司长和民间的长老到祂跟前来，说，你仗着什么权柄作这些事？给你这权柄的是谁？ ###EN### And when He came into the temple, the chief priests and elders of the people came to Him as He was teaching and said, By what authority do You do these things? And who gave You this authority?
+Verse_Ch: 21:24 耶稣回答他们说，我也要问你们一句话，你们若告诉我，我就告诉你们，我仗着什么权柄作这些事。 ###EN### And Jesus answered and said to them, I also will ask you one thing, which if you tell Me, I also will tell you by what authority I do these things.
+Verse_Ch: 21:25 约翰的浸是从那里来的？是从天上来的，还是从人来的？他们就彼此议论说，我们若说从天上来的，祂必对我们说，这样，你们为什么不信他？ ###EN### The baptism of John, from where did it come, from heaven or from men? And they reasoned among themselves, saying, If we say, From heaven, He will say to us, Why then did you not believe him?
+Verse_Ch: 21:26 若说从人来的，我们又怕群众，因为他们都以约翰为申言者。 ###EN### But if we say, From men, we fear the crowd, for all hold John as a prophet.
+Verse_Ch: 21:27 于是回答耶稣说，我们不知道。耶稣也对他们说，我也不告诉你们，我仗着什么权柄作这些事。 ###EN### And they answered Jesus and said, We do not know. He too said to them, Neither do I tell you by what authority I do these things.
+Verse_Ch: 21:28 你们怎么看？一个人有两个孩子，他来对大的说，孩子，你今天到葡萄园里去作工。 ###EN### But what do you think? A man had two children. And he came to his first son and said, Child, go today and work in the vineyard.
+Verse_Ch: 21:29 他回答说，我不去；后来懊悔，就去了。 ###EN### And he answered and said, I do not want to; yet later he regretted and went.
+Verse_Ch: 21:30 又来对另一个也这样说，他回答说，主阿，我去；却没有去。 ###EN### And he came to the other and said likewise. And he answered and said, I will, sir; yet he did not go.
+Verse_Ch: 21:31 两个当中，那一个完成了父亲的心意？他们说，大的。耶稣对他们说，我实在告诉你们，税吏和娼妓要在你们以前进神的国。 ###EN### Which of the two did the will of the father? They said, The first. Jesus said to them, Truly I say to you that the tax collectors and the harlots are going into the kingdom of God before you.
+Verse_Ch: 21:32 因为约翰在义路中来到你们这里，你们不信他，税吏和娼妓倒信他。你们看见了，后来还是不悔改去信他。 ###EN### For John came to you in the way of righteousness, and you did not believe him, but the tax collectors and the harlots believed him. And you, when you saw it, did not later regret it to believe him.
+Verse_Ch: 21:33 你们听另一个比喻。有一个作家主的人，栽了一个葡萄园，四周围上篱笆，里面挖了一个压酒池，盖了一座楼，租给园户，就往外国去了。 ###EN### Hear another parable. There was a man, a householder, who planted a vineyard and put a hedge around it, and dug a winepress in it, and built a tower; and he leased it out to vinedressers and went abroad.
+Verse_Ch: 21:34 收果子的时候近了，他打发奴仆到园户那里去收果子。 ###EN### And when the time to harvest the fruit drew near, he sent his slaves to the vinedressers to get his fruit.
+Verse_Ch: 21:35 园户拿住他的奴仆，打了一个，杀了一个，用石头打死一个。 ###EN### And the vinedressers took his slaves and beat one, and killed another, and stoned another.
+Verse_Ch: 21:36 他又打发别的奴仆去，比先前更多，园户还是照样待他们。 ###EN### Again, he sent some other slaves, more than the first, and they did likewise to them.
+Verse_Ch: 21:37 后来就打发他的儿子到他们那里去，心里说，他们必尊敬我的儿子。 ###EN### Then later he sent to them his son, saying, They will respect my son.
+Verse_Ch: 21:38 不料，园户看见那儿子，就彼此说，这是承受产业的；来吧，我们杀了他，得他的产业。 ###EN### But the vinedressers, when they saw the son, said among themselves, This is the heir. Come, let us kill him and take possession of his inheritance.
+Verse_Ch: 21:39 于是拿住他，推出葡萄园外杀了。 ###EN### And they took him and cast him out of the vineyard and killed him.
+Verse_Ch: 21:40 这样，葡萄园的主人来到的时候，要怎样处治那些园户？ ###EN### Therefore when the master of the vineyard comes, what will he do to those vinedressers?
+Verse_Ch: 21:41 他们说，他必凶恶的除灭那些恶人，将葡萄园另租给那按时候交果子的园户。 ###EN### They said to Him, He will miserably destroy those evil men and will lease the vineyard to other vinedressers, who will give the fruit to him in their seasons.
+Verse_Ch: 21:42 耶稣对他们说，“匠人所弃的石头，已成了房角的头块石头；这是主所作的，在我们眼中看为希奇。”你们在经上从来没有念过么？ ###EN### Jesus said to them, Have you never read in the Scriptures, "The stone which the builders rejected, this has become the head of the corner. This was from the Lord, and it is marvelous in our eyes''?
+Verse_Ch: 21:43 所以我告诉你们，神的国必从你们夺去，赐给那能结果子的百姓。 ###EN### Therefore I say to you that the kingdom of God shall be taken from you and shall be given to a nation producing its fruit.
+Verse_Ch: 21:44 那跌在这石头上的，必要跌碎；这石头掉在谁身上，就要把谁砸得粉碎，簸散如糠秕。 ###EN### And he who falls on this stone shall be broken to pieces; but on whomever it falls, it shall crush him to powder and scatter him like chaff.
+Verse_Ch: 21:45 祭司长和法利赛人听了祂的比喻，就看出祂是指着他们说的； ###EN### And when the chief priests and the Pharisees heard His parables, they perceived that He was speaking concerning them.
+Verse_Ch: 21:46 于是想要捉拿祂，只是惧怕群众，因为群众以祂为申言者。 ###EN### And though they sought to seize Him, they feared the crowds because they held Him as a prophet.
+Chapter_Header: 22
+Verse_Ch: 22:1 耶稣又用比喻对他们说， ###EN### And Jesus answered and spoke again in parables to them, saying,
+Verse_Ch: 22:2 诸天的国好比一个作王的人，为他儿子摆设婚筵。 ###EN### The kingdom of the heavens has become like a king who prepared a wedding feast for his son.
+Verse_Ch: 22:3 他打发奴仆去召那些被召的人来赴婚筵，他们却不肯来。 ###EN### And he sent his slaves to call those who had been called to the wedding feast, yet they would not come.
+Verse_Ch: 22:4 他又打发别的奴仆去，说，你们要告诉那些被召的：看哪，我的筵席已经预备好了，公牛和肥畜已经宰了，各样都齐备，请来赴婚筵。 ###EN### Again, he sent other slaves, saying, Tell those who have been called, Behold, I have prepared my dinner: my oxen and my fatted cattle have been slain, and all things are ready. Come to the wedding feast.
+Verse_Ch: 22:5 但那些人不理就走了；一个到田里去，一个作买卖去， ###EN### But they disregarded it and went off, one to his own field and another to his business,
+Verse_Ch: 22:6 其余的抓住他的奴仆，凌辱他们，把他们杀了。 ###EN### And the rest took hold of his slaves, treated them shamefully, and killed them.
+Verse_Ch: 22:7 王就动怒，发兵除灭那些凶手，烧毁他们的城。 ###EN### And the king became angry, and he sent his troops and destroyed those murderers and burned their city.
+Verse_Ch: 22:8 然后对奴仆说，婚筵已经齐备，只是所召的人不配。 ###EN### Then he said to his slaves, The wedding feast is ready, but those who have been called were not worthy.
+Verse_Ch: 22:9 所以你们要往岔路口去，凡遇见的，都召来赴婚筵。 ###EN### Go therefore to the crossroads, and as many as you find, call to the wedding feast.
+Verse_Ch: 22:10 那些奴仆就出去，到大路上，凡遇见的，不论善恶都聚集了来，婚筵上就满了坐席的。 ###EN### And those slaves went out into the streets and gathered all whom they found, both evil and good, and the wedding feast was filled with those reclining at table.
+Verse_Ch: 22:11 王进来观看坐席的，见那里有一个没有穿婚筵礼服的， ###EN### But when the king came in to look at those reclining at table, he saw there a man who was not clothed with a wedding garment,
+Verse_Ch: 22:12 就对他说，朋友，你没有穿婚筵的礼服，是怎么进到这里来的？那人无言可答。 ###EN### And he said to him, Friend, how did you come in here without a wedding garment? And he was speechless.
+Verse_Ch: 22:13 于是王对仆役说，把他的手脚捆起来，扔在外面黑暗里，在那里必要哀哭切齿了。 ###EN### Then the king said to the servants, Bind his feet and hands, and cast him out into the outer darkness. In that place there will be the weeping and the gnashing of teeth.
+Verse_Ch: 22:14 因为被召的多，选上的少。 ###EN### For many are called but few are chosen.
+Verse_Ch: 22:15 当时，法利赛人去商议，怎样就着耶稣的话陷害祂。 ###EN### Then the Pharisees went and took counsel how they might ensnare Him in His words.
+Verse_Ch: 22:16 于是打发他们的门徒，同希律党的人到耶稣那里，说，夫子，我们知道你是诚实的，并且诚诚实实教导神的道路，什么人你都不顾忌，因为你不看 人的外貌。 ###EN### And they sent to Him their disciples with the Herodians, saying, Teacher, we know that You are true and that You teach the way of God in truth and do not fear anyone, for You do not regard the person of men.
+Verse_Ch: 22:17 请告诉我们，你怎么看，纳税给该撒，可以不可以？ ###EN### Tell us therefore, What do You think? Is it lawful to give tribute to Caesar, or not?
+Verse_Ch: 22:18 耶稣看出他们的恶意，就说，假冒为善的人哪，为什么试诱我？ ###EN### But Jesus, knowing their evil intent, said, Why do you tempt Me, hypocrites?
+Verse_Ch: 22:19 拿一个上税的钱给我看。他们就拿一个银币给祂。 ###EN### Show Me the coin for the tribute. And they brought to Him a denarius.
+Verse_Ch: 22:20 耶稣说，这像和这号是谁的？ ###EN### And He said to them, Whose is this image and inscription?
+Verse_Ch: 22:21 他们说，是该撒的。耶稣说，这样，把该撒的物归给该撒，把神的物归给神。 ###EN### They said, Caesar's. Then He said to them, Render then the things that are Caesar's to Caesar and the things that are God's to God.
+Verse_Ch: 22:22 他们听见就希奇，便离开祂走了。 ###EN### And when they heard this, they marveled. And they left Him and went away.
+Verse_Ch: 22:23 向来说没有复活的撒都该人，那一天到耶稣跟前来，问祂说， ###EN### On that day some Sadducees, who say that there is no resurrection, came to Him and questioned Him,
+Verse_Ch: 22:24 夫子，摩西说，人若死了，没有孩子，他的兄弟当继娶他的妻子，为哥哥立后。 ###EN### Saying, Teacher, Moses said, If anyone dies and does not have children, his brother as next of kin shall marry his wife and raise up seed to his brother.
+Verse_Ch: 22:25 我们这里从前有兄弟七人。第一个娶了妻，死了，没有后裔，遗下妻子给兄弟。 ###EN### Now there were seven brothers with us. And the first married and died, and having no seed, he left his wife to his brother;
+Verse_Ch: 22:26 第二、第三，直到第七个，都是如此。 ###EN### Likewise also the second and the third until the seventh.
+Verse_Ch: 22:27 最后，那妇人也死了。 ###EN### And last of all the woman died.
+Verse_Ch: 22:28 这样，在复活的时候，她是这七人中那一个的妻子？因为全都娶过她。 ###EN### In the resurrection, then, whose wife will she be of the seven? For they all had her.
+Verse_Ch: 22:29 耶稣回答他们说，你们错了，因为不明白圣经，也不晓得神的大能。 ###EN### And Jesus answered and said to them, You err, not knowing the Scriptures nor the power of God.
+Verse_Ch: 22:30 在复活的时候，人也不娶也不嫁，乃像天上的使者一样。 ###EN### For in the resurrection they neither marry nor are given in marriage, but are like angels in heaven.
+Verse_Ch: 22:31 关于死人复活，神向你们所说的，你们没有念过么？祂说， ###EN### But concerning the resurrection of the dead, have you not read that which was spoken to you by God, saying,
+Verse_Ch: 22:32 “我是亚伯拉罕的神，以撒的神，雅各的神。”神并不是死人的神，乃是活人的神。 " ###EN### I am the God of Abraham and the God of Isaac and the God of Jacob''? He is not the God of the dead, but of the living.
+Verse_Ch: 22:33 群众听见了，就惊讶祂的教训。 ###EN### And when the crowds heard this, they were astounded at His teaching.
+Verse_Ch: 22:34 法利赛人听见耶稣笼住了撒都该人的口，就聚集一起。 ###EN### But the Pharisees, when they heard that He had muzzled the Sadducees, gathered themselves together.
+Verse_Ch: 22:35 他们中间有一个律法师，试诱耶稣，问祂说， ###EN### And one of them, a lawyer, asked Him a question, testing Him,
+Verse_Ch: 22:36 夫子，律法上那一条诫命最大？ ###EN### Teacher, which is the great commandment in the law?
+Verse_Ch: 22:37 耶稣对他说，“你要全心、全魂并全心思，爱主你的神。” ###EN### And He said to him, "You shall love the Lord your God with all your heart and with all your soul and with all your mind.''
+Verse_Ch: 22:38 这是最大的，且是第一条诫命。 ###EN### This is the great and first commandment.
+Verse_Ch: 22:39 其次也相仿：“要爱邻舍如同自己。” ###EN### And the second is like it: "You shall love your neighbor as yourself.''
+Verse_Ch: 22:40 一切律法和申言者的教训都系于这两条诫命。 ###EN### On these two commandments hang all the Law and the Prophets.
+Verse_Ch: 22:41 法利赛人聚集的时候，耶稣问他们说， ###EN### Now while the Pharisees were gathered together, Jesus questioned them,
+Verse_Ch: 22:42 论到基督，你们怎么看？祂是谁的子孙？他们说，是大卫的。 ###EN### Saying, What do you think concerning the Christ? Whose son is He? They said to Him, David's.
+Verse_Ch: 22:43 耶稣对他们说，这样，大卫在灵里怎么还称祂为主，说， ###EN### He said to them, How then does David in spirit call Him Lord, saying,
+Verse_Ch: 22:44 “主对我主说，你坐在我的右边，等我把你的仇敌，放在你的脚下？” " ###EN### The Lord said to my Lord, Sit at My right hand until I put Your enemies underneath Your feet''?
+Verse_Ch: 22:45 大卫既称祂为主，祂怎么又是大卫的子孙？ ###EN### If then David calls Him Lord, how is He his son?
+Verse_Ch: 22:46 他们没有人能回答祂一句话；从那一天，再也没有任何人敢问祂什么了。 ###EN### And no one was able to answer Him a word, nor did anyone from that day dare to question Him anymore.
+Chapter_Header: 23
+Verse_Ch: 23:1 那时，耶稣对群众和门徒讲论，说， ###EN### Then Jesus spoke to the crowds and to His disciples,
+Verse_Ch: 23:2 经学家和法利赛人是坐在摩西的位上， ###EN### Saying, The scribes and the Pharisees have seated themselves in Moses' seat;
+Verse_Ch: 23:3 所以，凡他们所告诉你们的，不论是什么，你们都要遵行、谨守；但不要照他们的行为去行，因为他们说而不行。 ###EN### Therefore all that they tell you, do and keep; but do not do according to their works, for they say things and do not do them.
+Verse_Ch: 23:4 他们把沉重难担的担子捆起来，放在人的肩上，但自己连一个指头也不肯动。 ###EN### And they bind burdens, heavy and hard to bear, and lay them on men's shoulders; but they themselves will not move them with their finger.
+Verse_Ch: 23:5 他们所作的一切事，都是为要给人看见；因为他们将佩戴的经文匣作宽了，衣繸也加长了； ###EN### And all their works they do to be seen by men, for they broaden their phylacteries and enlarge the fringes of their garments,
+Verse_Ch: 23:6 他们又喜爱筵席上的首座，并会堂里的高位， ###EN### And they love the place of honor at the dinners and the chief seats in the synagogues
+Verse_Ch: 23:7 且喜爱人在市场上问他们安，称他们为拉比。 ###EN### And the salutations in the marketplaces and to be called by men, Rabbi.
+Verse_Ch: 23:8 但你们不要受拉比的称呼，因为只有一位是你们的夫子，你们都是弟兄； ###EN### But you, do not be called Rabbi, for One is your Teacher, and you are all brothers.
+Verse_Ch: 23:9 也不要称地上的人为父，因为只有一位是你们的父，就是那天上的； ###EN### And do not call anyone on earth your father, for One is your Father, He who is in the heavens.
+Verse_Ch: 23:10 也不要受师尊的称呼，因为只有一位是你们的师尊，就是基督。 ###EN### Neither be called instructors, because One is your Instructor, the Christ.
+Verse_Ch: 23:11 你们中间谁为大，谁就要作你们的仆役。 ###EN### And the greatest among you shall be your servant.
+Verse_Ch: 23:12 凡高抬自己的，必降为卑；降卑自己的，必升为高。 ###EN### And he who will exalt himself shall be humbled, and he who will humble himself shall be exalted.
+Verse_Ch: 23:13 假冒为善的经学家和法利赛人，你们有祸了！因为你们在人面前，把诸天的国关了；你们自己不进去，也不让那些要进去的人进去。 ###EN### But woe to you, scribes and Pharisees, hypocrites! For you close off the kingdom of the heavens in the face of men; for you do not enter in yourselves, nor do you allow those who are entering to enter.
+Verse_Ch: 23:14 假冒为善的经学家和法利赛人，你们有祸了！因为你们侵吞寡妇的家产，假意作很长的祷告，所以你们要受更重的刑罚。 ###EN### But woe to you, scribes and Pharisees, hypocrites! For you devour the widows' houses, even while for a pretense you make long prayers. For this reason you shall receive greater judgment.
+Verse_Ch: 23:15 假冒为善的经学家和法利赛人，你们有祸了！因为你们走遍洋海陆地，叫一个人入教，既入了教，却使他成为火坑之子，比你们还加倍。 ###EN### Woe to you, scribes and Pharisees, hypocrites! For you go about the sea and the dry land to make one proselyte; and when he becomes one, you make him twice as much a son of Gehenna as yourselves.
+Verse_Ch: 23:16 瞎眼领路的，你们有祸了！你们说，凡指着殿起誓的，算不得什么；只是凡指着殿中金子起誓的，他就该谨守。 ###EN### Woe to you, blind guides, who say, Whoever swears by the temple, it is nothing; but whoever swears by the gold of the temple, he is bound.
+Verse_Ch: 23:17 愚拙瞎眼的人，那个是更大的，是金子，还是叫金子成圣的殿？ ###EN### Fools and blind men, which is greater, the gold or the temple which sanctifies the gold?
+Verse_Ch: 23:18 你们又说，凡指着坛起誓的，算不得什么；只是凡指着坛上礼物起誓的，他就该谨守。 ###EN### And, Whoever swears by the altar, it is nothing; but whoever swears by the gift which is upon it, he is bound.
+Verse_Ch: 23:19 瞎眼的人，那个是更大的，是礼物，还是叫礼物成圣的坛？ ###EN### Blind men, which is greater, the gift or the altar which sanctifies the gift?
+Verse_Ch: 23:20 所以指着坛起誓的，就是指着坛和坛上的一切起誓； ###EN### Therefore he who swears by the altar swears by it and by all the things upon it;
+Verse_Ch: 23:21 指着殿起誓的，就是指着殿和那住在殿中的起誓； ###EN### And he who swears by the temple swears by it and by Him who dwells in it;
+Verse_Ch: 23:22 指着天起誓的，就是指着神的宝座，和那坐在其上的起誓。 ###EN### And he who swears by heaven swears by the throne of God and by Him who sits upon it.
+Verse_Ch: 23:23 假冒为善的经学家和法利赛人，你们有祸了！因为你们将薄荷、芹菜、茴香，献上十分之一，却撇开律法上更重的事，就是正义、怜悯、信实；这 些原是必须行的，那些也是不可撇开的。 ###EN### Woe to you, scribes and Pharisees, hypocrites! For you give a tenth of the mint and the anise and the cummin, and have neglected the weightier matters of the law -- justice and mercy and faithfulness. But these you should have done and not neglected the others.
+Verse_Ch: 23:24 瞎眼领路的，蠓虫你们就滤出来，骆驼你们倒吞下去。 ###EN### Blind guides, who strain out the gnat but swallow the camel!
+Verse_Ch: 23:25 假冒为善的经学家和法利赛人，你们有祸了！因为你们洁净杯盘的外面，里面却盛满了勒索和放荡。 ###EN### Woe to you, scribes and Pharisees, hypocrites! For you cleanse the outside of the cup and the dish, but inwardly they are full of extortion and self-indulgence.
+Verse_Ch: 23:26 瞎眼的法利赛人，你先洁净杯盘的里面，好叫外面也干净了。 ###EN### Blind Pharisee, cleanse first the inside of the cup and the dish so that their outside also may become clean.
+Verse_Ch: 23:27 假冒为善的经学家和法利赛人，你们有祸了！因为你们好像粉饰的坟墓，外面显得美观，里面却满了死人的骨头，和一切的污秽。 ###EN### Woe to you, scribes and Pharisees, hypocrites! For you resemble whitewashed graves, which outwardly appear beautiful but inwardly are full of dead men's bones and all uncleanness.
+Verse_Ch: 23:28 你们也是如此，外面向人显出公义，里面却满了伪善和不法。 ###EN### So you also outwardly appear righteous to men, but inwardly you are full of hypocrisy and lawlessness.
+Verse_Ch: 23:29 假冒为善的经学家和法利赛人，你们有祸了！因为你们建造申言者的坟，修饰义人的墓， ###EN### Woe to you, scribes and Pharisees, hypocrites! For you build up the graves of the prophets and adorn the tombs of the righteous,
+Verse_Ch: 23:30 并说，若是我们在我们祖宗的日子，必不和他们一同流申言者的血。 ###EN### And say, If we had been there in the days of our fathers, we would not have been partakers with them in the blood of the prophets.
+Verse_Ch: 23:31 这就是你们证明自己是杀害申言者之人的子孙了。 ###EN### So then you testify against yourselves that you are the sons of those who murdered the prophets.
+Verse_Ch: 23:32 你们去充满你们祖宗的恶贯吧！ ###EN### And you, fill up the measure of your fathers!
+Verse_Ch: 23:33 蛇类，毒蛇之种，你们怎能逃避火坑的审判？ ###EN### Serpents! Brood of vipers! How shall you escape the judgment of Gehenna?
+Verse_Ch: 23:34 所以，我差遣申言者和智慧人并经学家到你们这里来，有的你们要杀害，要钉十字架，有的你们要在你们的会堂里鞭打，从这城追逼到那城； ###EN### Therefore, behold, I send to you prophets and wise men and scribes. Some of them you will kill and crucify, and some of them you will scourge in your synagogues and persecute from city to city,
+Verse_Ch: 23:35 叫世上所流一切的义血，都归到你们身上，从义人亚伯的血起，直到你们在殿和坛中间，所杀巴拉加的儿子撒迦利亚的血为止。 ###EN### So that upon you may come all the righteous blood shed on the earth, from the blood of righteous Abel to the blood of Zachariah, son of Barachiah, whom you murdered between the temple and the altar.
+Verse_Ch: 23:36 我实在告诉你们，这一切的罪都要归到这世代了。 ###EN### Truly I say to you, All these things shall come upon this generation.
+Verse_Ch: 23:37 耶路撒冷阿，耶路撒冷阿，你常杀害申言者，又用石头打死那奉差遣到你这里来的。我多次愿意聚集你的儿女，好像母鸡把小鸡聚集在翅膀底下， 只是你们不愿意。 ###EN### Jerusalem, Jerusalem, who kills the prophets and stones those who are sent to her! How often I desired to gather your children together, the way a hen gathers her brood under her wings, and you would not!
+Verse_Ch: 23:38 看哪，你们的家要成为荒场，留给你们。 ###EN### Behold, your house is left to you desolate.
+Verse_Ch: 23:39 我告诉你们，从今以后，你们不得再见我，直等到你们说，在主名里来的，是当受颂赞的！ ###EN### For I say to you, You shall by no means see Me from now on until you say, Blessed is He who comes in the name of the Lord.
+Chapter_Header: 24
+Verse_Ch: 24:1 耶稣从殿里出来，正走的时候，门徒进前来，把殿的建筑指给祂看。 ###EN### And Jesus came out from the temple and was going away, and His disciples came to Him to show Him the buildings of the temple.
+Verse_Ch: 24:2 祂就对他们说，你们不是看见这一切么？我实在告诉你们，将来在这里，绝没有一块石头留在石头上，不被拆毁的。 ###EN### But He answered and said to them, Do you not see all these things? Truly I say to you, There shall by no means be left here a stone upon a stone, which shall not be thrown down.
+Verse_Ch: 24:3 耶稣在橄榄山上坐着，门徒暗暗的到祂跟前来，说，请告诉我们，什么时候会有这些事？你的来临和这世代的终结，有什么兆头？ ###EN### And as He sat on the Mount of Olives, the disciples came to Him privately, saying, Tell us, When will these things be? And what will be the sign of Your coming and of the consummation of the age?
+Verse_Ch: 24:4 耶稣回答他们说，你们要谨慎，免得有人迷惑你们； ###EN### And Jesus answered and said to them, See that no one leads you astray.
+Verse_Ch: 24:5 因为将来要有许多人冒我的名来，说，我是基督，并且要迷惑许多人。 ###EN### For many will come in My name, saying, I am the Christ, and they will lead many astray.
+Verse_Ch: 24:6 你们要听见打仗和打仗的风声；要当心，不要惊慌；因为这是必须发生的，只是末期还没有到。 ###EN### And you will be hearing of wars and rumors of wars. See that you are not alarmed, for it must happen; but the end is not yet.
+Verse_Ch: 24:7 民要起来攻打民，国要起来攻打国，到处必有饥荒、地震。 ###EN### For nation will rise up against nation, and kingdom against kingdom; and there will be famines and earthquakes in various places.
+Verse_Ch: 24:8 这些都是产难的开始。 ###EN### All these things are the beginning of birth pangs.
+Verse_Ch: 24:9 那时，人要把你们陷在患难里，也要杀害你们；你们又要因我的名，被万民恨恶。 ###EN### Then they will deliver you up to tribulation and will kill you, and you will be hated by all the nations because of My name.
+Verse_Ch: 24:10 那时，有许多人要绊跌，也要彼此陷害，彼此恨恶； ###EN### And at that time many will be stumbled and will deliver up one another and will hate one another.
+Verse_Ch: 24:11 且有好些假申言者要起来，迷惑许多人。 ###EN### And many false prophets will arise and will lead many astray.
+Verse_Ch: 24:12 只因不法的事增多，许多人的爱心就渐渐冷淡了。 ###EN### And because lawlessness will be multiplied, the love of the many will grow cold.
+Verse_Ch: 24:13 惟有忍耐到底的，必然得救。 ###EN### But he who has endured to the end, this one shall be saved.
+Verse_Ch: 24:14 这国度的福音要传遍天下，对万民作见证，然后末期才来到。 ###EN### And this gospel of the kingdom will be preached in the whole inhabited earth for a testimony to all the nations, and then the end will come.
+Verse_Ch: 24:15 你们看见那借着申言者但以理所说，行毁坏的可憎之物站在圣地，（读这经的人需要会意，） ###EN### Therefore when you see the abomination of desolation, which was spoken of through Daniel the prophet, standing in the holy place (let him who reads understand),
+Verse_Ch: 24:16 那时，在犹太的，要逃到山上； ###EN### Then let those in Judea flee to the mountains;
+Verse_Ch: 24:17 在房顶上的，不要下来拿家里的东西； ###EN### Let him who is on the housetop not come down to take the things out of his house;
+Verse_Ch: 24:18 在田地里的，也不要回去取衣服。 ###EN### And let him who is in the field not turn back to take his garment.
+Verse_Ch: 24:19 当那些日子，怀孕的和乳养孩子的有祸了。 ###EN### But woe to those who are pregnant and to those who are nursing babies in those days.
+Verse_Ch: 24:20 你们要祷告，叫你们逃走的时候，不遇见冬天或安息日； ###EN### And pray that your flight may not be in winter, nor on a Sabbath,
+Verse_Ch: 24:21 因为那时必有大灾难，这样的灾难，就是从世界的起头直到如今，都未曾发生过，将来也绝不会发生。 ###EN### For at that time there will be great tribulation, such as has not occurred from the beginning of the world until now, nor shall by any means ever occur.
+Verse_Ch: 24:22 那些日子若不削减，凡属肉体的人，没有一个会得救的；但因选民的缘故，那些日子必要削减。 ###EN### And unless those days had been cut short, no flesh would be saved; but on account of the chosen, those days will be cut short.
+Verse_Ch: 24:23 那时，若有人对你们说，看哪，基督在这里！或说，基督在那里！你们不要信。 ###EN### At that time if anyone says to you, Behold, here is the Christ! or, Here! do not believe it.
+Verse_Ch: 24:24 因为假基督和假申言者将要起来，显大神迹和大奇事；若是可能，连选民也要迷惑了。 ###EN### For false Christs and false prophets will arise and will show great signs and wonders so as to lead astray, if possible, even the chosen.
+Verse_Ch: 24:25 看哪，我预先告诉你们了。 ###EN### Behold, I have told you beforehand.
+Verse_Ch: 24:26 若是他们对你们说，看哪，基督在旷野里，你们不要出去；或说，看哪，基督在内室里，你们不要信。 ###EN### Therefore if they say to you, Behold, He is in the wilderness, do not go forth; Behold, He is in the inner rooms, do not believe it.
+Verse_Ch: 24:27 闪电怎样从东边发出，直照到西边，人子来临也要这样。 ###EN### For just as the lightning comes forth from the east and shines to the west, so will the coming of the Son of Man be.
+Verse_Ch: 24:28 尸首在那里，鹰也必聚在那里。 ###EN### Wherever the corpse is, there will the vultures be gathered together.
+Verse_Ch: 24:29 那些日子的灾难一过去，日头就变黑了，月亮也不放光，众星要从天上坠落，天势都要震动。 ###EN### And immediately after the tribulation of those days, the sun will be darkened, and the moon will not give its light, and the stars will fall from heaven, and the powers of the heavens will be shaken.
+Verse_Ch: 24:30 那时，人子的兆头要显在天上，这地的各族都要哀哭；他们要看见人子，带着能力和大荣耀，驾着天上的云而来。 ###EN### And at that time the sign of the Son of Man will appear in heaven, and then all the tribes of the land will mourn, and they will see the Son of Man coming on the clouds of heaven with power and great glory.
+Verse_Ch: 24:31 祂要差遣天使，用号筒的大声，将祂的选民从四方，从诸天的这边到诸天的那边，都聚集了来。 ###EN### And He will send His angels with a loud trumpet call, and they will gather His chosen together from the four winds, from one end of the heavens to the other end.
+Verse_Ch: 24:32 但是你们可以从无花果树学个比方：当树枝发嫩长叶的时候，你们就知道夏天近了； ###EN### But learn the parable from the fig tree: As soon as its branch has become tender and puts forth its leaves, you know that the summer is near.
+Verse_Ch: 24:33 照样，你们几时看见这一切的事，也该知道那夏天近了，正在门口了。 ###EN### So also you, when you see all these things, know that it is near, at the doors.
+Verse_Ch: 24:34 我实在告诉你们，这一代还没有过去，这一切事都要发生。 ###EN### Truly I say to you that this generation shall by no means pass away until all these things happen.
+Verse_Ch: 24:35 天地要过去，但我的话绝不能过去。 ###EN### Heaven and earth will pass away, but My words shall by no means pass away.
+Verse_Ch: 24:36 至于那日子、那时辰，没有人知道，诸天之上的使者也不知道，子也不知道，惟独父知道。 ###EN### But concerning that day and hour, no one knows, not even the angels of the heavens nor the Son, but the Father only.
+Verse_Ch: 24:37 挪亚的日子怎样，人子来临也要怎样。 ###EN### For just as the days of Noah were, so will the coming of the Son of Man be.
+Verse_Ch: 24:38 因为就如在洪水以前的那些日子，人又吃又喝，又娶又嫁，直到挪亚进方舟的那日， ###EN### For as they were in those days before the flood, eating and drinking, marrying and giving in marriage, until the day in which Noah entered into the ark,
+Verse_Ch: 24:39 并不知道审判要来，直到洪水来了，把他们全都冲去；人子来临也要这样。 ###EN### And they did not know that judgment was coming until the flood came and took all away, so also will the coming of the Son of Man be.
+Verse_Ch: 24:40 那时，两个人在田里，取去一个，撇下一个。 ###EN### At that time two men will be in the field; one is taken and one is left.
+Verse_Ch: 24:41 两个女人在磨坊推磨，取去一个，撇下一个。 ###EN### Two women will be grinding at the mill; one is taken and one is left.
+Verse_Ch: 24:42 所以你们要儆醒，因为不知道你们的主那一天要来。 ###EN### Watch therefore, for you do not know on what day your Lord comes.
+Verse_Ch: 24:43 但你们要知道，家主若晓得贼在几更天要来，他就必儆醒，不容他的房屋被人挖透。 ###EN### But know this, that if the householder had known in which watch the thief was coming, he would have watched and would not have allowed his house to be broken into.
+Verse_Ch: 24:44 所以你们也要预备，因为在你们想不到的时辰，人子就来了。 ###EN### For this reason you also be ready, because at an hour when you do not expect it, the Son of Man is coming.
+Verse_Ch: 24:45 这样，谁是那忠信又精明的奴仆，为主人所派，管理他的家人，按时分粮给他们？ ###EN### Who then is the faithful and prudent slave, whom the master has set over his household to give them food at the proper time?
+Verse_Ch: 24:46 主人来到，看见他这样行，那奴仆就有福了。 ###EN### Blessed is that slave whom his master, when he comes, will find so doing.
+Verse_Ch: 24:47 我实在告诉你们，主人要派他管理一切的家业。 ###EN### Truly I say to you that he will set him over all his possessions.
+Verse_Ch: 24:48 若是那恶仆心里说，我的主人必来得迟， ###EN### But if that evil slave says in his heart, My master delays,
+Verse_Ch: 24:49 就动手打那些和他同作奴仆的，又和酒醉的人一同吃喝， ###EN### And begins to beat his fellow slaves and eats and drinks with the drunken,
+Verse_Ch: 24:50 在想不到的日子，不知道的时辰，那奴仆的主人要来， ###EN### The master of that slave will come on a day when he does not expect him and at an hour which he does not know,
+Verse_Ch: 24:51 把他割断，定他和假冒为善的人同受处分；在那里必要哀哭切齿了。 ###EN### And will cut him asunder and appoint his portion with the hypocrites. In that place there will be the weeping and the gnashing of teeth.
+Chapter_Header: 25
+Verse_Ch: 25:1 那时，诸天的国好比十个童女，拿着她们的灯，出去迎接新郎。 ###EN### At that time the kingdom of the heavens will be likened to ten virgins, who took their lamps and went forth to meet the bridegroom.
+Verse_Ch: 25:2 其中五个是愚拙的，五个是精明的。 ###EN### And five of them were foolish and five were prudent.
+Verse_Ch: 25:3 愚拙的拿着她们的灯，却没有带着油； ###EN### For the foolish, when they took their lamps, did not take oil with them;
+Verse_Ch: 25:4 但精明的拿着她们的灯，又在器皿里带着油。 ###EN### But the prudent took oil in their vessels with their lamps.
+Verse_Ch: 25:5 新郎迟延的时候，她们都打盹睡着了。 ###EN### And while the bridegroom delayed, they all became drowsy and slept.
+Verse_Ch: 25:6 半夜有人喊叫：看哪，新郎来了，你们出来迎接他。 ###EN### But at midnight there was a cry, Behold, the bridegroom! Go forth to meet him!
+Verse_Ch: 25:7 那些童女就都起来，整理她们的灯。 ###EN### Then all those virgins arose and trimmed their own lamps.
+Verse_Ch: 25:8 愚拙的对精明的说，请分点油给我们，因为我们的灯要灭了。 ###EN### And the foolish said to the prudent, Give us some of your oil, for our lamps are going out.
+Verse_Ch: 25:9 精明的回答说，恐怕不够我们和你们用的，不如你们到卖油的那里，为自己买吧。 ###EN### But the prudent answered, saying, Perhaps there will not be enough for us and for you; go rather to those who sell, and buy for yourselves.
+Verse_Ch: 25:10 不料，她们去买的时候，新郎到了；那预备好的，同他进去赴婚筵，门就关了。 ###EN### And as they were going away to buy, the bridegroom came; and those who were ready went in with him to the wedding feast. And the door was shut.
+Verse_Ch: 25:11 其余的童女随后也来了，说，主阿，主阿，给我们开门。 ###EN### And later the rest of the virgins came also, saying, Lord, lord, open to us!
+Verse_Ch: 25:12 他却回答说，我实在告诉你们，我不认识你们。 ###EN### But he answered and said, Truly I say to you, I do not know you.
+Verse_Ch: 25:13 所以你们要儆醒，因为那日子、那时辰，你们不知道。 ###EN### Watch therefore, for you do not know the day nor the hour.
+Verse_Ch: 25:14 诸天的国又好比一个人要往外国去，就叫了自己的奴仆来，把他的家业交给他们， ###EN### For the kingdom of the heavens is just like a man about to go abroad, who called his own slaves and delivered to them his possessions.
+Verse_Ch: 25:15 按照各人的才干，个别的给了一个五他连得银子，一个二他连得，一个一他连得，就往外国去了。 ###EN### To one he gave five talents, and to another two, and to another one, to each according to his own ability. And he went abroad.
+Verse_Ch: 25:16 那领五他连得的，随即拿去作买卖，另外赚了五他连得。 ###EN### Immediately he who had received the five talents went and traded with them and gained another five.
+Verse_Ch: 25:17 那领二他连得的，也照样另赚了二他连得。 ###EN### Similarly, he who had received the two gained another two.
+Verse_Ch: 25:18 但那领一他连得的，去掘开地，把他主人的银子埋藏了。 ###EN### But he who had received the one went off and dug in the earth and hid his master's money.
+Verse_Ch: 25:19 过了许久，那些奴仆的主人竟然来和他们算账。 ###EN### Now after a long time the master of those slaves came and settled accounts with them.
+Verse_Ch: 25:20 那领五他连得的，带着另外的五他连得进前来，说，主阿，你交给我五他连得；请看，我另赚了五他连得。 ###EN### And he who had received the five talents came and brought another five talents, saying, Master, you delivered to me five talents; behold, I have gained another five talents.
+Verse_Ch: 25:21 主人对他说，好，良善又忠信的奴仆，你在不多的事上既是忠信的，我要把许多事派你管理；进来享受你主人的快乐。 ###EN### His master said to him, Well done, good and faithful slave. You were faithful over a few things; I will set you over many things. Enter into the joy of your master.
+Verse_Ch: 25:22 那领二他连得的也进前来，说，主阿，你交给我二他连得；请看，我另赚了二他连得。 ###EN### And he who had received the two talents also came and said, Master, you delivered to me two talents; behold, I have gained another two talents.
+Verse_Ch: 25:23 主人对他说，好，良善又忠信的奴仆，你在不多的事上既是忠信的，我要把许多事派你管理；进来享受你主人的快乐。 ###EN### His master said to him, Well done, good and faithful slave. You were faithful over a few things; I will set you over many things. Enter into the joy of your master.
+Verse_Ch: 25:24 随后那领一他连得的，也进前来，说，主阿，我知道你是忍心的人，没有撒种的地方要收割，没有簸散的地方要收聚； ###EN### Then he who had received the one talent also came and said, Master, I knew about you, that you are a hard man, reaping where you did not sow, and gathering where you did not winnow.
+Verse_Ch: 25:25 我就害怕，去把你的一他连得埋藏在地里；请看，你仍有你所有的。 ###EN### And I was afraid and went off and hid your talent in the earth; behold, you have what is yours.
+Verse_Ch: 25:26 主人就回答他说，又恶又懒的奴仆，你既知道我没有撒种的地方要收割，没有簸散的地方要收聚， ###EN### And his master answered and said to him, Evil and slothful slave, you knew that I reap where I did not sow and gather where I did not winnow.
+Verse_Ch: 25:27 就当把我的银子放给兑换银钱的人，到我来的时候，可以连本带利收回。 ###EN### Therefore you should have deposited my money with the money changers; and when I came, I would have recovered what is mine with interest.
+Verse_Ch: 25:28 从他夺过这他连得来，给那有十他连得的。 ###EN### Take away therefore the talent from him and give it to him who has the ten talents.
+Verse_Ch: 25:29 因为凡有的，还要给他，他就充盈有余；没有的，连他所有的，也要从他夺去。 ###EN### For to every one who has, more shall be given, and he shall abound; but from him who does not have, even that which he has shall be taken away from him.
+Verse_Ch: 25:30 把这无用的奴仆，扔在外面黑暗里，在那里必要哀哭切齿了。 ###EN### And cast out the useless slave into the outer darkness. In that place there will be the weeping and the gnashing of teeth.
+Verse_Ch: 25:31 但是，当人子在祂的荣耀里，所有的天使同着祂来的时候，祂要坐在祂荣耀的宝座上； ###EN### But when the Son of Man comes in His glory and all the angels with Him, at that time He will sit on the throne of His glory.
+Verse_Ch: 25:32 万民都要聚集在祂面前，祂要把他们彼此分开，好像牧人把绵羊从山羊分开一样； ###EN### And all the nations will be gathered before Him, and He will separate them from one another, just as the shepherd separates the sheep from the goats.
+Verse_Ch: 25:33 绵羊安置在祂右边，山羊在左边。 ###EN### And He will set the sheep on His right hand and the goats on the left.
+Verse_Ch: 25:34 于是王要对那在祂右边的说，你们这蒙我父赐福的，来承受那创世以来为你们所预备的国。 ###EN### Then the King will say to those on His right hand, Come, you who are blessed of My Father, inherit the kingdom prepared for you from the foundation of the world.
+Verse_Ch: 25:35 因为我饿了，你们给我吃；我渴了，你们给我喝；我作客旅，你们留我住； ###EN### For I was hungry and you gave Me something to eat; I was thirsty and you gave Me a drink; I was a stranger and you took Me in,
+Verse_Ch: 25:36 我赤身露体，你们给我穿；我病了，你们看顾我；我在监里，你们来看我。 ###EN### Naked and you clothed Me; I was sick and you visited Me; I was in prison and you came to Me.
+Verse_Ch: 25:37 那时义人要回答祂说，主阿，我们什么时候见你饿了给你吃，或是渴了给你喝？ ###EN### Then the righteous will answer Him, saying, Lord, when have we seen You hungry and have fed You, or thirsty and have given You a drink?
+Verse_Ch: 25:38 什么时候见你作客旅留你住，或是赤身露体给你穿？ ###EN### And when have we seen You a stranger and have taken You in, or naked and have clothed You?
+Verse_Ch: 25:39 又什么时候见你病了，或是在监里，来看你？ ###EN### And when have we seen You sick or in prison and have come to You?
+Verse_Ch: 25:40 王要回答他们说，我实在告诉你们，这些事你们既作在我这些弟兄中最小的一个身上，就是作在我身上。 ###EN### And the King will answer and say to them, Truly I say to you, Inasmuch as you have done it to one of these, the least of My brothers, you have done it to Me.
+Verse_Ch: 25:41 然后祂又要对那左边的说，你们这被咒诅的，离开我，进入那为魔鬼和他的使者所预备的永火里去。 ###EN### Then He will say also to those on the left, Go away from Me, you who are cursed, into the eternal fire prepared for the devil and his angels.
+Verse_Ch: 25:42 因为我饿了，你们没有给我吃；我渴了，你们没有给我喝； ###EN### For I was hungry and you did not give Me anything to eat; I was thirsty and you did not give Me a drink;
+Verse_Ch: 25:43 我作客旅，你们没有留我住；我赤身露体，你们没有给我穿；我病了，我在监里，你们没有看顾我。 ###EN### I was a stranger and you did not take Me in; naked and you did not clothe Me; sick and in prison, and you did not visit Me.
+Verse_Ch: 25:44 那时他们也要回答说，主阿，我们什么时候见你饿了，或渴了，或作客旅，或赤身露体，或病了，或在监里，没有服事你？ ###EN### Then they also will answer, saying, Lord, when have we seen You hungry or thirsty or a stranger or naked or sick or in prison and did not minister to You?
+Verse_Ch: 25:45 王要回答他们说，我实在告诉你们，这些事你们既没有作在我这些弟兄中最小的一个身上，就是没有作在我身上。 ###EN### Then He will answer them, saying, Truly I say to you, Inasmuch as you did not do it to one of the least of these, neither have you done it to Me.
+Verse_Ch: 25:46 这些人要往永远的刑罚里去，那些义人却要往永远的生命里去。 ###EN### And these shall go away into eternal punishment, but the righteous into eternal life.
+Chapter_Header: 26
+Verse_Ch: 26:1 耶稣说完了这一切的话，就对门徒说， ###EN### And when Jesus finished all these words, He said to His disciples,
+Verse_Ch: 26:2 你们知道过两天是逾越节，人子将要被交给人，钉十字架。 ###EN### You know that after two days the Passover takes place, and the Son of Man is being delivered up to be crucified.
+Verse_Ch: 26:3 那时，祭司长和民间的长老聚集在称呼该亚法的大祭司院子里， ###EN### Then the chief priests and the elders of the people were gathered together in the courtyard of the high priest, who was called Caiaphas,
+Verse_Ch: 26:4 一同商议，要用诡计拿住耶稣，把祂杀了。 ###EN### And they took counsel together to seize Jesus by craftiness and kill Him.
+Verse_Ch: 26:5 只是他们说，在节期中不可，恐怕民间生乱。 ###EN### But they said, Not at the feast, lest there be an uproar among the people.
+Verse_Ch: 26:6 耶稣在伯大尼患痲疯的西门家里， ###EN### Now when Jesus was in Bethany, in the house of Simon the leper,
+Verse_Ch: 26:7 有一个女人拿着一玉瓶极贵的香膏，到祂跟前来，趁祂坐席的时候，浇在祂的头上。 ###EN### A woman came to Him, having an alabaster flask of ointment of great value, and she poured it on His head as He reclined at table.
+Verse_Ch: 26:8 门徒看见，就恼怒说，何必这样枉费？ ###EN### But when the disciples saw it, they were indignant, saying, Why this waste?
+Verse_Ch: 26:9 这香膏可以卖许多钱，分给穷人。 ###EN### For this could have been sold for much and given to the poor.
+Verse_Ch: 26:10 耶稣知道了，就对他们说，为什么难为这女人？她在我身上作的，是一件美事。 ###EN### But Jesus, knowing it, said to them, Why do you trouble the woman? She has done a noble deed to Me.
+Verse_Ch: 26:11 因为常有穷人和你们同在，只是你们不常有我。 ###EN### For the poor you have with you always, but you do not always have Me.
+Verse_Ch: 26:12 她将这香膏浇在我身上，是为安葬我作的。 ###EN### For in pouring out this ointment on My body, she has done it for My burial.
+Verse_Ch: 26:13 我实在告诉你们，普天之下，无论在什么地方传扬这福音，也要述说这女人所行的，作为对她的记念。 ###EN### Truly I say to you, Wherever this gospel is proclaimed in the whole world, what this woman has done shall also be told as a memorial of her.
+Verse_Ch: 26:14 当下，十二个门徒中，有一个称为加略人犹大的，去见祭司长，说， ###EN### At that time one of the twelve, the one called Judas Iscariot, went to the chief priests
+Verse_Ch: 26:15 我把祂交给你们，你们愿意给我什么？他们就称给他三十锭银子。 ###EN### And said, What are you willing to give me, and I will deliver Him to you? And they weighed out to him thirty pieces of silver.
+Verse_Ch: 26:16 从那时候，他就找机会，要把耶稣交出。 ###EN### And from then on he sought opportunity to deliver Him up.
+Verse_Ch: 26:17 除酵节的第一天，门徒到耶稣跟前来，说，你要我们在那里为你预备吃逾越节的筵席？ ###EN### Now on the first day of the Feast of Unleavened Bread, the disciples came to Jesus, saying, Where do You want us to prepare for You to eat the passover?
+Verse_Ch: 26:18 耶稣说，你们进城去，到某人那里，对他说，夫子说，我的时候近了，我同我的门徒要在你家里守逾越节。 ###EN### And He said, Go into the city to a certain man and say to him, The Teacher says, My time is near. I am keeping the passover at your house with My disciples.
+Verse_Ch: 26:19 门徒就照着耶稣所吩咐他们的去作，预备了逾越节的筵席。 ###EN### And the disciples did as Jesus directed them, and they prepared the passover.
+Verse_Ch: 26:20 到了晚上，耶稣和十二个门徒坐席。 ###EN### And when evening fell, He reclined at table with the twelve.
+Verse_Ch: 26:21 正吃的时候，耶稣说，我实在告诉你们，你们中间有一个人要出卖我了。 ###EN### And as they were eating, He said, Truly I say to you that one of you will betray Me.
+Verse_Ch: 26:22 他们就甚忧愁，一个一个的问祂说，主，是我么？ ###EN### And being greatly grieved, each one of them began to say to Him, I am not the one, am I, Lord?
+Verse_Ch: 26:23 耶稣回答说，同我蘸手在盘子里的，就是他要出卖我。 ###EN### And He answered and said, The one who dips his hand with Me in the dish, this one will betray Me.
+Verse_Ch: 26:24 人子必要去世，正如经上指着祂所写的，但出卖人子的有祸了，那人不生下来倒好。 ###EN### The Son of Man is going away, even as it is written concerning Him, but woe to that man through whom the Son of Man is betrayed! It would have been good for that man if he had not been born.
+Verse_Ch: 26:25 出卖耶稣的犹大应声说，拉比，是我么？祂对他说，你说的是。 ###EN### And Judas, who was betraying Him, answered and said, I am not the one, am I, Rabbi? He said to him, You have said it yourself.
+Verse_Ch: 26:26 他们吃的时候，耶稣拿起饼来，祝福了，就擘开，递给门徒，说，你们拿着吃，这是我的身体。 ###EN### And as they were eating, Jesus took bread and blessed it, and He broke it and gave it to the disciples and said, Take, eat; this is My body.
+Verse_Ch: 26:27 又拿起杯来，祝谢了，递给他们，说，你们都喝这个， ###EN### And He took a cup and gave thanks, and He gave it to them, saying, Drink of it, all of you,
+Verse_Ch: 26:28 因为这是我立约的血，为多人流出来，使罪得赦。 ###EN### For this is My blood of the covenant, which is being poured out for many for forgiveness of sins.
+Verse_Ch: 26:29 但我告诉你们，从今以后，我绝不喝这葡萄树的产品，直到我在我父的国里，同你们喝新的那日子。 ###EN### But I say to you, I shall by no means drink of this product of the vine from now on until that day when I drink it new with you in the kingdom of My Father.
+Verse_Ch: 26:30 他们唱了诗，就出来往橄榄山去。 ###EN### And after singing a hymn, they went out to the Mount of Olives.
+Verse_Ch: 26:31 那时，耶稣对他们说，今夜你们都要因我绊跌，因为经上记着，“我要击打牧人，羊群的羊就分散了。” ###EN### Then Jesus said to them, You will all be stumbled because of Me this night, for it is written, "I will smite the Shepherd, and the sheep of the flock will be scattered.''
+Verse_Ch: 26:32 但我复活以后，要在你们以先往加利利去。 ###EN### But after I have been raised, I will go before you into Galilee.
+Verse_Ch: 26:33 彼得就应声对祂说，即使众人因你绊跌，我总不绊跌。 ###EN### Then Peter answered and said to Him, If all will be stumbled because of You, I will never be stumbled.
+Verse_Ch: 26:34 耶稣对他说，我实在告诉你，今夜鸡叫以前，你要三次否认我。 ###EN### Jesus said to him, Truly I say to you that in this night, before a rooster crows, you will deny Me three times.
+Verse_Ch: 26:35 彼得对祂说，我就是必须和你同死，也绝不会否认你。所有的门徒也都这样说。 ###EN### Peter said to Him, Even if I must die with You, I will by no means deny You. And all the disciples said likewise.
+Verse_Ch: 26:36 随后耶稣同门徒来到一个地方，名叫客西马尼，就对他们说，你们坐在这里，等我到那边去祷告。 ###EN### Then Jesus came with them to a place called Gethsemane, and He said to the disciples, Sit here while I go over there and pray.
+Verse_Ch: 26:37 于是带着彼得，和西庇太的两个儿子到一边去，就忧愁起来，极其难过， ###EN### And taking Peter and the two sons of Zebedee aside, He began to be sorrowful and deeply distressed.
+Verse_Ch: 26:38 便对他们说，我的魂极其忧伤，几乎要死。你们留在这里，和我一同儆醒。 ###EN### Then He said to them, My soul is exceedingly sorrowful, even to death. Remain here and watch with Me.
+Verse_Ch: 26:39 祂就稍往前走，面伏于地，祷告说，我父阿，若是可能，就叫这杯离开我；然而不要照我的意思，只要照你的意思。 ###EN### And going forward a little, He fell on His face and prayed, saying, My Father, if it is possible, let this cup pass from Me; yet not as I will, but as You will.
+Verse_Ch: 26:40 祂来到门徒那里，见他们睡着了，就对彼得说，怎么，你们不能同我儆醒片时么？ ###EN### And He came to the disciples and found them sleeping. And He said to Peter, So were you not able to watch with Me for one hour?
+Verse_Ch: 26:41 要儆醒祷告，免得入了试诱；你们的灵固然愿意，肉体却软弱了。 ###EN### Watch and pray that you may not enter into temptation. The spirit is willing, but the flesh is weak.
+Verse_Ch: 26:42 祂第二次又去祷告说，我父阿，这杯若不能离开我，必要我喝，就愿你的旨意成就。 ###EN### Again, going away a second time, He prayed, saying, My Father, if this cannot pass away unless I drink it, Your will be done.
+Verse_Ch: 26:43 祂又来，见他们睡着了，因为他们的眼睛困倦。 ###EN### And coming again, He found them sleeping, for their eyes were heavy.
+Verse_Ch: 26:44 祂又离开他们，第三次去祷告，还是说同样的话。 ###EN### And leaving them, He went away again and prayed a third time, saying the same word again.
+Verse_Ch: 26:45 然后来到门徒那里，对他们说，现在你们还在睡觉安歇么？看哪，时刻近了，人子要被交在罪人手里。 ###EN### Then He came to the disciples and said to them, Are you still sleeping and resting? Behold, the hour has drawn near, and the Son of Man is being delivered up into the hands of sinners.
+Verse_Ch: 26:46 起来，我们走吧。看哪，出卖我的人近了。 ###EN### Arise, let us be going. Behold, the one who is betraying Me has drawn near.
+Verse_Ch: 26:47 耶稣还在说话的时候，看哪，那十二个门徒中的犹大来了，还有大批群众带着刀棒，从祭司长和民间的长老那里，与他同来。 ###EN### And while He was still speaking, behold, Judas, one of the twelve, came, and with him a great crowd with swords and clubs, from the chief priests and elders of the people.
+Verse_Ch: 26:48 那出卖耶稣的，就给了他们一个暗号，说，我和谁亲嘴，谁就是祂，你们就拿住祂。 ###EN### Now the one who was betraying Him had given them a sign, saying, Whomever I kiss, He is the one; seize Him.
+Verse_Ch: 26:49 犹大随即到耶稣跟前来，说，拉比，愿你喜乐！就热切的和祂亲嘴。 ###EN### And immediately he came to Jesus and said, Rejoice, Rabbi, and kissed Him affectionately.
+Verse_Ch: 26:50 耶稣对他说，朋友，你在这里作什么！于是那些人上前来，下手拿住耶稣。 ###EN### But Jesus said to him, Friend, what are you here for? Then they came and laid hands on Jesus and seized Him.
+Verse_Ch: 26:51 看哪，同耶稣在一起的人中，有一个伸手拔出刀来，将大祭司的奴仆砍了一刀，削掉了他一个耳朵。 ###EN### And behold, one of those with Jesus stretched out his hand and drew his sword, and struck the slave of the high priest and took off his ear.
+Verse_Ch: 26:52 于是耶稣对他说，把你的刀收回原处；因为凡动刀的，必死在刀下。 ###EN### Then Jesus said to him, Return your sword to its place, for all those who take up the sword will perish by the sword.
+Verse_Ch: 26:53 你想我不能求我父，现在为我派遣十二营多的天使来么？ ###EN### Or do you think that I cannot beseech My Father, and He will provide Me at once with more than twelve legions of angels?
+Verse_Ch: 26:54 若是这样，经上所说事情必须如此的话，怎能应验？ ###EN### How then shall the Scriptures be fulfilled which say that it must happen this way?
+Verse_Ch: 26:55 当时，耶稣对群众说，你们带着刀棒出来捉我，如同捉强盗么？我天天坐在殿里施教，你们并没有捉拿我。 ###EN### In that hour Jesus said to the crowds, Have you come out as against a robber with swords and clubs to arrest Me? Day after day I sat in the temple teaching, and you did not seize Me.
+Verse_Ch: 26:56 但这一切成就了，为要应验申言者所写的。当下，门徒都离开祂逃走了。 ###EN### But all this has happened in order that the writings of the prophets may be fulfilled. Then all the disciples left Him and fled.
+Verse_Ch: 26:57 捉拿耶稣的人，就把祂带到大祭司该亚法那里去；经学家和长老已经在那里聚集。 ###EN### And those who seized Jesus led Him away to Caiaphas the high priest, where the scribes and the elders had gathered.
+Verse_Ch: 26:58 彼得远远的跟着耶稣，直到大祭司的院子，进到里面，就和差役同坐，要看结局。 ###EN### And Peter followed Him at a distance to the courtyard of the high priest; and entering within, he sat with the attendants to see the end.
+Verse_Ch: 26:59 祭司长和全议会尽力寻找假见证，控告耶稣，为要把祂治死， ###EN### Now the chief priests and the whole Sanhedrin were seeking false testimony against Jesus so that they might put Him to death,
+Verse_Ch: 26:60 总是得不到，尽管有好些假见证人上前作证。但后来有两个人上前说， ###EN### And they did not find it, though many false witnesses came forward. But later two came
+Verse_Ch: 26:61 这个人曾说，我能拆毁神的殿，三日内又建造起来。 ###EN### And said, This man said, I am able to destroy the temple of God and build it up in three days.
+Verse_Ch: 26:62 大祭司就站起来，对耶稣说，你什么都不回答么？这些人作见证告你的是什么？ ###EN### And the high priest stood up and said to Him, Do You answer nothing? What is it that these testify against You?
+Verse_Ch: 26:63 耶稣却默不作声。大祭司对祂说，我要你指着活神起誓告诉我们，你是神的儿子基督不是？ ###EN### But Jesus remained silent. And the high priest said to Him, I charge You to swear by the living God to tell us if You are the Christ, the Son of God.
+Verse_Ch: 26:64 耶稣对他说，你说的对了。然而我还要告诉你们，从此以后你们要看见人子，坐在那大能者的右边，驾着天上的云而来。 ###EN### Jesus said to him, You have said rightly. Nevertheless I say to you, From now on you will see the Son of Man sitting at the right hand of Power and coming on the clouds of heaven.
+Verse_Ch: 26:65 大祭司就撕开衣服，说，祂说了僭妄的话，我们还需要什么证人？你看，这僭妄的话现在你们都听见了， ###EN### Then the high priest tore his garments, saying, He has blasphemed! What further need do we have of witnesses? Behold, now you have heard the blasphemy.
+Verse_Ch: 26:66 你们怎么看？他们就回答说，祂是该死的。 ###EN### What do you think? And they answered and said, He is worthy of death.
+Verse_Ch: 26:67 于是他们吐唾沫在祂脸上，用拳头打祂，也有用手掌打祂的，说， ###EN### Then they spat in His face and beat Him with their fists, and others slapped Him,
+Verse_Ch: 26:68 基督阿，对我们申言出，打你的是谁？ ###EN### Saying, Prophesy to us, Christ! Who is the one who hit You?
+Verse_Ch: 26:69 彼得却在外面院子里坐着，有一个使女来到他跟前，说，你也是同那加利利人耶稣一起的。 ###EN### Now Peter was sitting outside in the courtyard, and a servant girl came to him and said, You also were with Jesus the Galilean.
+Verse_Ch: 26:70 彼得在众人面前却不承认，说，我不知道你说的是什么。 ###EN### But he denied it before all, saying, I do not know what you are talking about!
+Verse_Ch: 26:71 他出去，到了门廊，另有一个使女看见他，就对那里的人说，这个人也是同那拿撒勒人耶稣一起的。 ###EN### And after he had gone out to the porch, another girl saw him and said to those who were there, This man was with Jesus the Nazarene.
+Verse_Ch: 26:72 彼得又不承认，起誓说，我不认得那个人。 ###EN### And again he denied with an oath, I do not know the man!
+Verse_Ch: 26:73 过了不久，旁边站着的人进前来，对彼得说，你也确是属他们的，因为你的口音把你露出来了。 ###EN### And after a little while those who were standing there came to Peter and said, Surely you also are one of them, for your speech also makes it clear that you are.
+Verse_Ch: 26:74 彼得遂发咒起誓说，我不认得那个人。立时鸡就叫了。 ###EN### Then he began to curse and to swear: I do not know the man! And immediately a rooster crowed.
+Verse_Ch: 26:75 彼得想起耶稣所说的话，鸡叫以前，你要三次否认我。他就到外面去痛哭。 ###EN### And Peter remembered the word which Jesus had said, Before a rooster crows, you will deny Me three times. And he went out and wept bitterly.
+Chapter_Header: 27
+Verse_Ch: 27:1 到了早晨，所有的祭司长和民间的长老商议陷害耶稣，为要把祂治死， ###EN### Now when morning had come, all the chief priests and the elders of the people took counsel against Jesus to put Him to death.
+Verse_Ch: 27:2 就把祂捆绑，解去交给总督彼拉多。 ###EN### And having bound Him, they led Him away and delivered Him to Pilate the governor.
+Verse_Ch: 27:3 这时，出卖耶稣的犹大看见耶稣定了罪，就后悔，把那三十锭银子还给祭司长和长老，说， ###EN### Then Judas, who betrayed Him, seeing that He was condemned, regretted and returned the thirty pieces of silver to the chief priests and elders,
+Verse_Ch: 27:4 我出卖了无辜的血，有罪了！他们说，那与我们何干？你自己看着办吧。 ###EN### Saying, I have sinned in betraying innocent blood. But they said, What is that to us? You see to that yourself!
+Verse_Ch: 27:5 他就把那些银锭丢在殿里，离开，出去吊死了。 ###EN### And he threw the pieces of silver into the temple and departed, and he went away and hanged himself.
+Verse_Ch: 27:6 祭司长取了那些银锭，说，不可把它们放在圣库里，因为那是血价。 ###EN### And the chief priests took the pieces of silver and said, It is not lawful to put them into the temple treasury, since it is blood money.
+Verse_Ch: 27:7 他们就商议，用那些银锭买了窑匠的一块田，用来埋葬客旅。 ###EN### And after taking counsel, they bought with it the potter's field as a burial place for strangers.
+Verse_Ch: 27:8 所以那块田，直到今日还叫作血田。 ###EN### Therefore that field has been called the Field of Blood to this day.
+Verse_Ch: 27:9 这就应验了那借着申言者耶利米所说的，说，“他们拿那三十锭银子，就是被估定之人的价钱，是以色列子孙中所估定的， ###EN### At that time what was spoken through Jeremiah the prophet was fulfilled, saying, "And they took the thirty pieces of silver, the price of Him that had been priced, whom they of the sons of Israel had priced,
+Verse_Ch: 27:10 买了窑匠的一块田，正如主所吩咐我的。” ###EN### And they gave them for the potter's field, as the Lord directed me.''
+Verse_Ch: 27:11 耶稣站在总督面前，总督问祂说，你是犹太人的王么？耶稣说，你说的是。 ###EN### And Jesus stood before the governor, and the governor questioned Him, saying, Are You the King of the Jews? And Jesus said, It is as you say.
+Verse_Ch: 27:12 可是，当祂被祭司长和长老控告的时候，什么都不回答。 ###EN### And while He was being accused by the chief priests and elders, He answered nothing.
+Verse_Ch: 27:13 彼拉多对祂说，他们作见证，告你这么多的事，你没有听见么？ ###EN### Then Pilate said to Him, Do You not hear how many things they testify against You?
+Verse_Ch: 27:14 耶稣仍不回答，连一句话也不说，以致总督极为希奇。 ###EN### And He did not answer him, not even to one word, so that the governor marveled greatly.
+Verse_Ch: 27:15 每逢节期，总督照例把群众所要的一个囚犯，释放给他们。 ###EN### Now at the feasts the governor was accustomed to release to the crowd one prisoner whom they wanted.
+Verse_Ch: 27:16 当时，有一个出名的囚犯，名叫巴拉巴。 ###EN### And they had at that time a notorious prisoner named Barabbas.
+Verse_Ch: 27:17 众人聚集的时候，彼拉多就对他们说，你们要我释放那一个给你们？巴拉巴，还是称为基督的耶稣？ ###EN### Therefore when they were gathered together, Pilate said to them, Whom do you want me to release to you? Barabbas or Jesus who is called Christ?
+Verse_Ch: 27:18 他原知道他们是因嫉妒才把耶稣解了来。 ###EN### For he knew that it was because of envy that they had delivered Him up.
+Verse_Ch: 27:19 彼拉多正坐在审判台上的时候，他的夫人打发人到他那里说，这义人的事，你一点也不可管，因为我今天在梦中，因祂受了许多苦。 ###EN### And while he was sitting on the judgment seat, his wife sent word to him, saying, Have nothing to do with that righteous man, for I have suffered much today in a dream because of Him.
+Verse_Ch: 27:20 但祭司长和长老挑唆群众，要求释放巴拉巴，除灭耶稣。 ###EN### But the chief priests and the elders persuaded the crowds to ask for Barabbas and to destroy Jesus.
+Verse_Ch: 27:21 总督对他们说，两个当中，你们要我释放那一个给你们？他们说，巴拉巴。 ###EN### And the governor answered and said to them, Which of the two do you want me to release to you? And they said, Barabbas.
+Verse_Ch: 27:22 彼拉多对他们说，那么，那称为基督的耶稣，我怎么办祂？众人都说，钉祂十字架！ ###EN### Pilate said to them, What then shall I do with Jesus who is called Christ? They all said, Let Him be crucified!
+Verse_Ch: 27:23 总督说，为什么？祂作了什么恶事？他们却更加喊叫说，钉祂十字架！ ###EN### But he said, Why, what evil has He done? But they cried out the more, saying, Let Him be crucified!
+Verse_Ch: 27:24 彼拉多见无济于事，反要生乱，就拿水在群众面前洗手，说，流这人的血，罪不在我，你们自己看着办吧。 ###EN### And Pilate, seeing that nothing was gained but rather that an uproar was taking place, took water and washed his hands before the crowd, saying, I am innocent of this man's blood. You see to it yourselves.
+Verse_Ch: 27:25 众百姓回答说，祂的血归到我们，和我们的子孙身上。 ###EN### And all the people answered and said, His blood be upon us and upon our children!
+Verse_Ch: 27:26 于是彼拉多释放巴拉巴给他们，却把耶稣鞭打了，交给人钉十字架。 ###EN### Then he released to them Barabbas, but Jesus he scourged and delivered up to be crucified.
+Verse_Ch: 27:27 那时，总督的兵丁把耶稣带进总督府，全营都聚集在祂那里。 ###EN### Then the governor's soldiers took Jesus into the praetorium and gathered about Him the whole cohort.
+Verse_Ch: 27:28 他们剥了祂的衣服，给祂穿上一件朱红色袍子， ###EN### And they stripped Him and put a scarlet robe around Him,
+Verse_Ch: 27:29 用荆棘编作冠冕，戴在祂头上，又把一根苇子放在祂右手里，跪在祂面前戏弄祂，说，犹太人的王！愿你喜乐！ ###EN### And they wove a crown of thorns and placed it on His head and put a reed in His right hand; and they kneeled before Him and mocked Him saying, Rejoice, King of the Jews!
+Verse_Ch: 27:30 又向祂吐唾沫，拿苇子打祂的头。 ###EN### And they spat on Him and took the reed and beat Him on the head.
+Verse_Ch: 27:31 戏弄完了，就脱下祂的袍子，给祂穿上自己的衣服，把祂带去钉十字架。 ###EN### And when they had mocked Him, they stripped Him of the robe and put His garments on Him, and led Him away to crucify Him.
+Verse_Ch: 27:32 他们出来的时候，遇见一个古利奈人，名叫西门，就强迫这人背耶稣的十字架。 ###EN### And as they were going out, they found a man of Cyrene, Simon by name; this one they compelled to take up His cross.
+Verse_Ch: 27:33 到了一个地方，名叫各各他，就是那称为髑髅地的。 ###EN### And when they had come to a place called Golgotha, that is to say, Place of a Skull,
+Verse_Ch: 27:34 他们拿苦胆调和的酒给祂喝。祂尝了，就不肯喝。 ###EN### They gave Him wine to drink, mingled with gall. And when He tasted it, He would not drink.
+Verse_Ch: 27:35 他们既将祂钉了十字架，就拈阄分祂的衣服， ###EN### And when they had crucified Him, they divided His garments among themselves, casting lots.
+Verse_Ch: 27:36 又坐在那里看守祂。 ###EN### And they sat down and guarded Him there.
+Verse_Ch: 27:37 他们在祂的头以上，安了一个牌子，写着祂的罪状：这是犹太人的王耶稣。 ###EN### And they set in writing over His head the charge against Him: This Is Jesus, The King Of The JEWS.
+Verse_Ch: 27:38 当时，有两个强盗和祂同钉十字架，一个在右边，一个在左边。 ###EN### At that time two robbers were crucified with Him, one on the right and one on the left.
+Verse_Ch: 27:39 经过的人就亵渎祂，摇着头说， ###EN### And those who were passing by blasphemed Him, wagging their heads
+Verse_Ch: 27:40 你这拆毁圣殿，三日内建造起来的，救你自己吧！你若是神的儿子，就从十字架上下来吧！ ###EN### And saying, You who destroy the temple and build it up in three days, save Yourself! If You are the Son of God, come down from the cross!
+Verse_Ch: 27:41 祭司长，同经学家和长老，也是这样戏弄祂，说， ###EN### Likewise also the chief priests with the scribes and elders mocked Him and said,
+Verse_Ch: 27:42 祂救了别人，不能救自己。祂是以色列的王，现在可以从十字架上下来，我们就信靠祂。 ###EN### He saved others; Himself He cannot save. He is King of Israel; let Him come down now from the cross, and we will believe on Him.
+Verse_Ch: 27:43 祂倚靠神，神若要祂，现在可以救祂，因为祂曾说，我是神的儿子。 ###EN### He trusts in God; let Him rescue Him now if He wants Him, for He said, I am the Son of God.
+Verse_Ch: 27:44 连和祂同钉的强盗，也是这样辱骂祂。 ###EN### And in the same way the robbers who were crucified with Him also reproached Him.
+Verse_Ch: 27:45 从正午到午后三时，遍地都黑暗了。 ###EN### Now from the sixth hour darkness fell over all the land until the ninth hour.
+Verse_Ch: 27:46 约在午后三时，耶稣大声呼喊说，以利，以利，拉马撒巴各大尼？就是：我的神，我的神，你为什么弃绝我？ ###EN### And about the ninth hour Jesus cried out with a loud voice, saying, Eli, Eli, lama sabachthani? that is, My God, My God, why have You forsaken Me?
+Verse_Ch: 27:47 站在那里的人，有的听见就说，这个人呼叫以利亚。 ###EN### And some of those standing there, when they heard this, said, This man is calling Elijah.
+Verse_Ch: 27:48 其中有一个人赶紧跑去，拿海绵蘸满了醋，绑在苇子上，送给祂喝。 ###EN### And immediately one of them ran, and taking a sponge, he soaked it with vinegar and put it on a reed, and gave it to Him to drink.
+Verse_Ch: 27:49 但其余的人说，等一等，看以利亚来救祂不来。 ###EN### But the rest said, Let Him be. Let us see if Elijah is coming to save Him.
+Verse_Ch: 27:50 耶稣又大声呼喊，交出了祂的灵。 ###EN### And Jesus cried out again with a loud voice and yielded up His spirit.
+Verse_Ch: 27:51 看哪，殿里的幔子从上到下裂为两半；地就震动，磐石也崩裂； ###EN### And behold, the veil of the temple was split in two from top to bottom, and the earth was shaken and the rocks were split,
+Verse_Ch: 27:52 坟墓也开了，已睡圣徒的身体，多有起来的。 ###EN### And the tombs were opened, and many bodies of the saints who had fallen asleep were raised.
+Verse_Ch: 27:53 到耶稣复活以后，他们从坟墓里出来，进了圣城，向许多人显现。 ###EN### And they came out of the tombs after His resurrection and entered into the holy city and appeared to many.
+Verse_Ch: 27:54 百夫长和一同看守耶稣的人，看见地震并所发生的事，就极其害怕，说，这真是神的儿子。 ###EN### Now the centurion and those with him guarding Jesus, when they saw the earthquake and the things that happened, became greatly frightened, saying, Truly this was the Son of God.
+Verse_Ch: 27:55 还有好些妇女在那里远远的观看，她们是从加利利跟随耶稣服事祂的。 ###EN### And many women were there looking on from a distance, who had followed Jesus from Galilee, ministering to Him,
+Verse_Ch: 27:56 其中有抹大拉的马利亚，又有雅各和约西的母亲马利亚，并有西庇太两个儿子的母亲。 ###EN### Among whom were Mary the Magdalene, and Mary the mother of James and Joseph, and the mother of the sons of Zebedee.
+Verse_Ch: 27:57 到了黄昏，有一个从亚利马太来的财主，名叫约瑟，他也是耶稣的门徒。 ###EN### And when evening fell, there came a rich man from Arimathea, named Joseph, who himself had also become a disciple of Jesus.
+Verse_Ch: 27:58 这人到彼拉多跟前来，求耶稣的身体，彼拉多就吩咐给他。 ###EN### This man came to Pilate and asked for the body of Jesus. Then Pilate commanded that it be given to him.
+Verse_Ch: 27:59 约瑟取了身体，用洁净的细麻布裹好， ###EN### And Joseph took the body and wrapped it in a clean, fine linen cloth.
+Verse_Ch: 27:60 安放在自己的新坟墓里，就是他凿在磐石里的。他又把大石头辊到坟墓门口，就去了。 ###EN### And he laid it in his own new tomb, which he had hewn in the rock. And having rolled a great stone in front of the door of the tomb, he went away.
+Verse_Ch: 27:61 抹大拉的马利亚，和另一个马利亚，却在那里对着坟墓坐着。 ###EN### And Mary the Magdalene was there, and the other Mary, sitting opposite the grave.
+Verse_Ch: 27:62 次日，就是预备日的第二天，祭司长和法利赛人聚集到彼拉多那里，说， ###EN### On the next day, which is the day after the preparation, the chief priests and the Pharisees gathered unto Pilate,
+Verse_Ch: 27:63 大人，我们记得那迷惑人的还活着的时候曾说，三日后我要复活。 ###EN### Saying, Sir, we have remembered that while He was still living, that deceiver said, After three days I will arise.
+Verse_Ch: 27:64 所以请吩咐人将坟墓把守妥当，直到第三日，免得祂的门徒来把祂偷去，就告诉百姓说，祂从死人中复活了。这样，那后来的迷惑，比先前的就更 厉害了。 ###EN### Therefore, give orders for the grave to be secured until the third day, lest His disciples come and steal Him away and say to the people, He has been raised from the dead. And the last deception will be worse than the first.
+Verse_Ch: 27:65 彼拉多对他们说，你们带着卫兵去吧，尽你们所能的把守妥当。 ###EN### Pilate said to them, Take a guard. Go and make the tomb as secure as you know how.
+Verse_Ch: 27:66 他们就去，同着卫兵用印封了石头，将坟墓把守妥当。 ###EN### And they went and secured the grave, sealing the stone, with the guard being there.
+Chapter_Header: 28
+Verse_Ch: 28:1 安息日将尽，七日的头一日，天快亮的时候，抹大拉的马利亚，和另一个马利亚来看坟墓。 ###EN### Now late on the Sabbath, as it began to dawn toward the first day of the week, Mary the Magdalene and the other Mary came to look at the grave.
+Verse_Ch: 28:2 看哪，地大震动；因为有主的使者从天上下来，上前把石头辊开，坐在上面。 ###EN### And behold, there was a great earthquake, for an angel of the Lord descended out of heaven and came and rolled away the stone and sat upon it.
+Verse_Ch: 28:3 他的像貌如同闪电，衣服白得像雪。 ###EN### And his appearance was like lightning, and his garment as white as snow.
+Verse_Ch: 28:4 看守的人由于怕他，就战抖，甚至和死人一样。 ###EN### And for fear of him the guards shook and became like dead men.
+Verse_Ch: 28:5 天使就对妇女说，不要怕，我知道你们是寻找那钉十字架的耶稣。 ###EN### And the angel answered and said to the women, Do not be afraid, for I know that you are seeking Jesus, the crucified.
+Verse_Ch: 28:6 祂不在这里，照祂所说的，已经复活了；你们来看安放祂的地方。 ###EN### He is not here, for He has been raised, even as He said. Come, see the place where He was lying.
+Verse_Ch: 28:7 快去告诉祂的门徒，祂已经从死人中复活，并且看哪，祂在你们以先往加利利去，在那里你们要看见祂。看哪，我已经告诉你们了。 ###EN### And go quickly and tell His disciples that He has been raised from the dead, and behold, He goes before you into Galilee. There you will see Him. Behold, I have told you.
+Verse_Ch: 28:8 她们就急忙离开坟墓，又害怕，又大大的欢喜，跑去报告祂的门徒。 ###EN### And they went away quickly from the tomb with fear and great joy and ran to report this to His disciples.
+Verse_Ch: 28:9 看哪，耶稣迎着她们，说，愿你们喜乐！她们就上前，抱住祂的脚拜祂。 ###EN### And behold, Jesus met them, saying, Rejoice! And they came to Him and took hold of His feet and worshipped Him.
+Verse_Ch: 28:10 耶稣对她们说，不要怕，你们去告诉我的弟兄，叫他们往加利利去，在那里必看见我。 ###EN### Then Jesus said to them, Do not be afraid. Go and report to My brothers that they should go into Galilee, and there they will see Me.
+Verse_Ch: 28:11 她们去的时候，几个卫兵进城去，将一切所发生的事都报给祭司长。 ###EN### And as they were going, behold, some from the guard came into the city and reported to the chief priests all that had happened.
+Verse_Ch: 28:12 祭司长和长老聚集商议，就把许多银子给兵丁，说， ###EN### And after the chief priests had gathered with the elders and had taken counsel, they gave a large sum of money to the soldiers,
+Verse_Ch: 28:13 你们要说，夜间我们睡觉的时候，祂的门徒来把祂偷去了。 ###EN### Saying, Say this, His disciples came by night and stole Him away while we slept.
+Verse_Ch: 28:14 若是这话被总督听见，我们会劝服他，使你们免去挂虑。 ###EN### And if this comes to the governor's ears, we will persuade him and make sure that you have nothing to worry about.
+Verse_Ch: 28:15 兵丁拿了银子，就照他们所受的指示去行。这话就流传在犹太人中间，直到今日。 ###EN### And they took the money and did as they were instructed. And this account has been widely spread among the Jews until this very day.
+Verse_Ch: 28:16 十一个门徒往加利利去，到了耶稣给他们指定的山上。 ###EN### And the eleven disciples went to Galilee, to the mountain where Jesus directed them.
+Verse_Ch: 28:17 他们见了耶稣，就拜祂，然而还有人疑惑。 ###EN### And when they saw Him, they worshipped Him, though some doubted.
+Verse_Ch: 28:18 耶稣进前来，对他们说，天上地上所有的权柄，都赐给我了。 ###EN### And Jesus came and spoke to them, saying, All authority has been given to Me in heaven and on earth.
+Verse_Ch: 28:19 所以你们要去，使万民作我的门徒，将他们浸入父、子、圣灵的名里， ###EN### Go therefore and disciple all the nations, baptizing them into the name of the Father and of the Son and of the Holy Spirit,
+Verse_Ch: 28:20 凡我所吩咐你们的，无论是什么，都教训他们遵守；看哪，我天天与你们同在，直到这世代的终结。 ###EN### Teaching them to observe all that I have commanded you. And behold, I am with you all the days until the consummation of the age.

@@ -1,0 +1,50 @@
+Chapter_Header: 1
+Verse_Ch: 1:1 保罗、西拉和提摩太，写信给在神我们的父并主耶稣基督里，帖撒罗尼迦人的召会： ###EN### Paul and Silvanus and Timothy to the church of the Thessalonians in God our Father and the Lord Jesus Christ:
+Verse_Ch: 1:2 愿恩典与平安，从神我们的父，并主耶稣基督归与你们。 ###EN### Grace to you and peace from God our Father and the Lord Jesus Christ.
+Verse_Ch: 1:3 弟兄们，我们应当常为你们感谢神，这本是合宜的；因你们的信心格外增长，你们众人每一位彼此相爱的心也一直增加， ###EN### We ought to thank God always concerning you, brothers, even as it is fitting, because your faith grows exceedingly and the love of each one of you all to one another is increasing,
+Verse_Ch: 1:4 以致我们在神的众召会中，亲自以你们为夸口，因为你们在所忍受的一切逼迫与患难中，仍有忍耐和信心； ###EN### So that we ourselves boast in you among the churches of God concerning your endurance and faith in all your persecutions and the afflictions which you bear,
+Verse_Ch: 1:5 这正是神公义审判的明证，叫你们可算配得神的国，你们的确是为这国受苦； ###EN### A plain indication of the righteous judgment of God, that you may be accounted worthy of the kingdom of God, for which also you suffer;
+Verse_Ch: 1:6 因为在神这是公义的，就是在主耶稣从天上，同祂有能力的天使，在火焰中显现，要报应那不认识神，和那不顺从我们主耶稣基督福音之人的时候， ###EN### Since it is just with God to repay with affliction those afflicting you,
+Verse_Ch: 1:7 将患难报应那加患难给你们的人， ###EN### And to you who are being afflicted, rest with us at the revelation of the Lord Jesus from heaven with the angels of His power, in flaming fire,
+Verse_Ch: 1:8 又使你们这受患难的人，与我们同享安息； ###EN### Rendering vengeance to those who do not know God and to those who do not obey the gospel of our Lord Jesus Christ.
+Verse_Ch: 1:9 在那日，当主来，在祂圣徒身上得荣耀，并在一切信的人身上显为希奇的时候，（你们也在其中，因为你们信了我们对你们所作的见证，） ###EN### They will pay the penalty of eternal destruction from the presence of the Lord and from the glory of His strength
+Verse_Ch: 1:10 那些不顺从祂福音的人要受刑罚，就是永远沉沦，离开主的面，并离开祂力量的荣耀。 ###EN### When He comes to be glorified in His saints and to be marveled at in all those who have believed (because our testimony to you was believed) in that day.
+Verse_Ch: 1:11 因此，我们也常为你们祷告，愿我们的神算你们配得过所蒙的召，又用大能成就你们所喜悦的一切良善，和信心的工作， ###EN### For which also we pray always concerning you, that our God may count you worthy of your calling and may fulfill in power your every good intention for goodness and your work of faith,
+Verse_Ch: 1:12 照着我们的神并主耶稣基督的恩，使我们主耶稣的名在你们身上得荣耀，你们也在祂里面得荣耀。 ###EN### So that the name of our Lord Jesus may be glorified in you, and you in Him, according to the grace of our God and the Lord Jesus Christ.
+Chapter_Header: 2
+Verse_Ch: 2:1 弟兄们，关于我们主耶稣基督的来临，和我们聚集到祂那里， ###EN### Now we ask you, brothers, with regard to the coming of our Lord Jesus Christ and our gathering together to Him,
+Verse_Ch: 2:2 我们求你们，无论有灵、或言语、或冒我们名的书信，说主的日子已经来到，你们的心思都不要贸然摇动，你们也不要惊慌。 ###EN### That you be not quickly shaken in mind nor alarmed, neither by a spirit nor by word nor by a letter as if by us, to the effect that the day of the Lord has come.
+Verse_Ch: 2:3 不要让任何人用任何方法诱骗你们；因为那日子以前，必有背道的事先来，并有那不法的人，就是灭亡之子，显露出来； ###EN### Let no one deceive you in any way, because it will not come unless the apostasy comes first and the man of lawlessness is revealed, the son of perdition,
+Verse_Ch: 2:4 他是那敌对、且高抬自己超过一切称为神，或受人敬拜者的，甚至坐在神的殿里，展示自己，说他就是神。 ###EN### Who opposes and exalts himself above all that is called God or an object of worship, so that he sits in the temple of God, setting himself forth, saying that he is God.
+Verse_Ch: 2:5 我还在你们那里的时候，曾一再把这些事告诉你们，你们不记得么？ ###EN### Do you not remember that while I was still with you, I said these things to you?
+Verse_Ch: 2:6 现在你们也知道，那抑制他，使他到了自己的时候，才可以显露出来的是什么。 ###EN### And now you know that which restrains, so that he might be revealed in his own time.
+Verse_Ch: 2:7 因为那不法的奥秘已经发动，只等那现在的抑制者被除去； ###EN### For it is the mystery of lawlessness that is now operating, but only until the one now restraining goes out of the way.
+Verse_Ch: 2:8 那时这不法者必显露出来，主耶稣要用祂口中的气除灭他，并用祂来临的显现废掉他。 ###EN### And then the lawless one will be revealed (whom the Lord Jesus will slay by the breath of His mouth and bring to nothing by the manifestation of His coming),
+Verse_Ch: 2:9 这不法者的来临，是照着撒但的运行，行各样的异能、神迹、和虚谎的奇事， ###EN### The coming of whom is according to Satan's operation in all power and signs and wonders of a lie
+Verse_Ch: 2:10 并且在那灭亡的人身上，行各样不义的欺骗；因他们不领受对真理的爱，使他们得救。 ###EN### And in all deceit of unrighteousness among those who are perishing, because they did not receive the love of the truth that they might be saved.
+Verse_Ch: 2:11 所以，神就使错谬运行在他们里面，叫他们信从虚谎， ###EN### And because of this God sends to them an operation of error that they might believe the lie,
+Verse_Ch: 2:12 使一切不信真理，倒喜悦不义的人，都被判罪。 ###EN### So that all who have not believed the truth but have taken pleasure in unrighteousness might be judged.
+Verse_Ch: 2:13 主所爱的弟兄们，我们应当常为你们感谢神，因为祂从起初拣选了你们，叫你们借着那灵的圣别，并你们对真理的信，可以得救。 ###EN### But we ought to thank God always concerning you, brothers beloved of the Lord, because God chose you from the beginning unto salvation in sanctification of the Spirit and belief of the truth,
+Verse_Ch: 2:14 神借着我们所传的福音，也呼召你们到这地步，好得着我们主耶稣基督的荣耀。 ###EN### To which also He called you through our gospel unto the obtaining of the glory of our Lord Jesus Christ.
+Verse_Ch: 2:15 所以弟兄们，要站立得住，凡你们受教所得的传授，无论是口传的，或是我们信上写的，都要持守。 ###EN### So then, brothers, stand firm and hold to the things which were handed down to you and which you were taught, whether by word or by our letter.
+Verse_Ch: 2:16 但愿我们的主耶稣基督自己，和神我们的父，就是那爱我们，在恩典中将永远的安慰和美好的盼望赐给我们的， ###EN### Now our Lord Jesus Christ Himself and God our Father, who has loved us and given us eternal comfort and good hope in grace,
+Verse_Ch: 2:17 安慰你们的心，并在一切善行善言上，坚固你们。 ###EN### Comfort your hearts and establish you in every good work and word.
+Chapter_Header: 3
+Verse_Ch: 3:1 末了的话，弟兄们，请你们为我们祷告，好叫主的话快快传开，且得荣耀，正如在你们中间一样； ###EN### Finally, brothers, pray concerning us, that the word of the Lord may run and be glorified, even as it is also with you;
+Verse_Ch: 3:2 并叫我们蒙拯救，脱离不讲理的恶人，因为人不都有信心。 ###EN### And that we may be delivered from unreasonable and evil men, for the faith does not belong to all.
+Verse_Ch: 3:3 但主是信实的，祂要坚固你们，并保护你们脱离那恶者。 ###EN### But the Lord is faithful, who will establish you and guard you from the evil one.
+Verse_Ch: 3:4 关于你们，我们在主里深信，你们现在是遵行我们所嘱咐的，将来也必要遵行。 ###EN### And we have confidence in the Lord concerning you that what we charge, you both are doing and will do.
+Verse_Ch: 3:5 愿主修直你们心中的途径，引导你们的心，进入神的爱以爱神，并进入基督的忍耐以忍耐。 ###EN### And the Lord direct your hearts into the love of God and into the endurance of Christ.
+Verse_Ch: 3:6 弟兄们，我们在我们主耶稣基督的名里嘱咐你们，凡有弟兄不按规矩、且不照着你们从我们所受的传授而行，就当远离他。 ###EN### Now we charge you, brothers, in the name of our Lord Jesus Christ, that you keep away from every brother walking disorderly and not according to the things which were handed down to you and which you received from us.
+Verse_Ch: 3:7 你们自己原知道，应当怎样效法我们；因为我们在你们中间，未尝不守规矩， ###EN### For you yourselves know how you ought to imitate us, because we were not disorderly among you;
+Verse_Ch: 3:8 也未尝白吃任何人的饭，倒是劳碌辛苦，昼夜作工，免得叫你们任何人受累。 ###EN### Nor did we eat bread as a gift from anyone, but in labor and hardship we worked night and day so that we would not be burdensome to any of you;
+Verse_Ch: 3:9 这并不是因我们没有权利，乃是要给你们作榜样，叫你们效法我们。 ###EN### Not because we do not have the right, but in order that we might give ourselves to you as a pattern that you might imitate us.
+Verse_Ch: 3:10 我们在你们那里的时候，也曾将这事嘱咐你们，若有人不愿作工，就不可吃饭。 ###EN### For even when we were with you, we gave you this charge, that if anyone does not want to work, neither should he eat.
+Verse_Ch: 3:11 因我们听说，在你们中间有些人不按规矩而行，什么工都不作，反倒好管闲事。 ###EN### For we hear of some walking among you disorderly, doing no work at all, but being busybodies.
+Verse_Ch: 3:12 我们在主耶稣基督里，嘱咐并劝勉这样的人，要安静作工，吃自己的饭。 ###EN### Now such ones we charge and exhort in the Lord Jesus Christ to work with quietness and eat their own bread.
+Verse_Ch: 3:13 弟兄们，你们行善不可丧志。 ###EN### But you, brothers, do not lose heart in doing good.
+Verse_Ch: 3:14 若有人不顺从我们这信上的话，要记下这人，不和他交往，叫他自觉羞愧； ###EN### And if anyone does not obey our word through this letter, mark this one so as not to mingle with him, in order that he may be ashamed.
+Verse_Ch: 3:15 只是不要以他为仇敌，乃要劝戒他如弟兄。 ###EN### Yet do not regard him as an enemy, but admonish him as a brother.
+Verse_Ch: 3:16 愿平安的主，随时多方亲自赐你们平安；愿主与你们众人同在。 ###EN### Now the Lord of peace Himself give you peace continually in every way. The Lord be with you all.
+Verse_Ch: 3:17 我保罗亲笔问安，这是我每封信的记号，我就是这样写的。 ###EN### The greeting in my own hand -- Paul -- which is the mark in every letter; so I write.
+Verse_Ch: 3:18 愿我们主耶稣基督的恩与你们众人同在。 ###EN### The grace of our Lord Jesus Christ be with you all.

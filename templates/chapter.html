@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ book.name }} 第 {{ chapter_number }} 章</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+            color: #333;
+            line-height: 1.8; /* 增加行高以提高可读性 */
+            font-size: 1.1em; /* 稍微增大字体 */
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #0056b3;
+            margin-bottom: 20px;
+        }
+        .verse {
+            margin-bottom: 10px;
+            text-indent: -1.5em; /* 经文开头缩进，节号突出 */
+            padding-left: 1.5em;
+        }
+        .verse .verse-number {
+            font-weight: bold;
+            color: #007bff;
+            margin-right: 5px;
+            display: inline-block;
+            width: 1.5em; /* 固定节号宽度 */
+            text-align: right;
+        }
+        .navigation {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 20px;
+            padding-top: 10px;
+            border-top: 1px solid #eee;
+        }
+        .navigation a {
+            text-decoration: none;
+            color: #007bff;
+            font-weight: bold;
+            padding: 5px 10px;
+            border-radius: 5px;
+            transition: background-color 0.2s ease;
+        }
+        .navigation a:hover {
+            background-color: #e9f5ff;
+        }
+        .navigation span {
+            /* 用于禁用链接时的样式 */
+            color: #aaa;
+            padding: 5px 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>{{ book.name }} 第 {{ chapter_number }} 章</h1>
+
+        <div class="verses-content">
+            {% for verse in verses %}
+                <p class="verse"><span class="verse-number">{{ verse.verse_number }}.</span> {{ verse.content }}</p>
+            {% endfor %}
+        </div>
+
+        <div class="navigation">
+            {% if prev_chapter_book_id %}
+                <a href="/chapter/{{ prev_chapter_book_id }}/{{ prev_chapter_number }}">&lt; 上一章</a>
+            {% else %}
+                <span>&lt; 上一章</span>
+            {% endif %}
+
+            <a href="/book/{{ book.id }}">返回目录</a>
+
+            {% if next_chapter_book_id %}
+                <a href="/chapter/{{ next_chapter_book_id }}/{{ next_chapter_number }}">下一章 &gt;</a>
+            {% else %}
+                <span>下一章 &gt;</span>
+            {% endif %}
+        </div>
+    </div>
+</body>
+</html>

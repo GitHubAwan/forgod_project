@@ -1,0 +1,64 @@
+Chapter_Header: 1
+Verse_Ch: 1:1 耶稣基督的奴仆和使徒西门彼得，写信给那些因我们的神和救主，耶稣基督的义，与我们分得同样宝贵之信的人： ###EN### Simon Peter, a slave and apostle of Jesus Christ, to those who have been allotted faith equally precious as ours in the righteousness of our God and Savior, Jesus Christ:
+Verse_Ch: 1:2 愿恩典与平安，因你们充分认识神和我们的主耶稣，繁增的归与你们。 ###EN### Grace to you and peace be multiplied in the full knowledge of God and of Jesus our Lord;
+Verse_Ch: 1:3 神的神能，借着我们充分认识那用祂自己的荣耀和美德呼召我们的，已将一切关于生命和敬虔的事赐给我们。 ###EN### Seeing that His divine power has granted to us all things which relate to life and godliness, through the full knowledge of Him who has called us by His own glory and virtue,
+Verse_Ch: 1:4 藉这荣耀和美德，祂已将又宝贵又极大的应许赐给我们，叫你们既逃离世上从情欲来的败坏，就借着这些应许，得有分于神的性情。 ###EN### Through which He has granted to us precious and exceedingly great promises that through these you might become partakers of the divine nature, having escaped the corruption which is in the world by lust.
+Verse_Ch: 1:5 正因这缘故，你们要分外殷勤，在你们的信上，充足的供应美德，在美德上供应知识， ###EN### And for this very reason also, adding all diligence, supply bountifully in your faith virtue; and in virtue, knowledge;
+Verse_Ch: 1:6 在知识上供应节制，在节制上供应忍耐，在忍耐上供应敬虔， ###EN### And in knowledge, self-control; and in self-control, endurance; and in endurance, godliness;
+Verse_Ch: 1:7 在敬虔上供应弟兄相爱，在弟兄相爱上供应爱。 ###EN### And in godliness, brotherly love; and in brotherly love, love.
+Verse_Ch: 1:8 因为这几样存在你们里面，且不断增多，就必将你们构成非闲懒不结果子的，以致充分的认识我们的主耶稣基督。 ###EN### For these things, existing in you and abounding, constitute you neither idle nor unfruitful unto the full knowledge of our Lord Jesus Christ.
+Verse_Ch: 1:9 那没有这几样的，就是眼瞎、近视，忘了他旧日的罪已经得了洁净。 ###EN### For he in whom these things are not present is blind, being shortsighted, having forgotten the cleansing of his past sins.
+Verse_Ch: 1:10 所以弟兄们，应当更加殷勤，使你们所蒙的呼召和拣选坚定不移；你们行这几样，就永不失脚。 ###EN### Therefore, brothers, be the more diligent to make your calling and selection firm, for doing these things you shall by no means ever stumble.
+Verse_Ch: 1:11 这样，你们就必得着丰富充足的供应，以进入我们主和救主耶稣基督永远的国。 ###EN### For in this way the entrance into the eternal kingdom of our Lord and Savior Jesus Christ will be richly and bountifully supplied to you.
+Verse_Ch: 1:12 所以，你们虽已知道这些事，且在现有的真理上得了坚固，我还要常常提醒你们； ###EN### Therefore I will be ready always to remind you concerning these things, even though you know them and have been established in the present truth.
+Verse_Ch: 1:13 我认为趁我还在这帐幕的时候，以提醒激发你们，是正当的， ###EN### And I consider it right, as long as I am in this tabernacle, to stir you up by a reminder,
+Verse_Ch: 1:14 知道我脱去这帐幕的时候快到了，正如我们主耶稣基督所指示我的。 ###EN### Knowing that the putting off of my tabernacle is imminent, even as also our Lord Jesus Christ has made clear to me.
+Verse_Ch: 1:15 不仅如此，我也要竭力，使你们在我去世以后，时常记念这些事。 ###EN### Moreover I will also be diligent that you may be able, after my exodus, to bring these things to mind at all times.
+Verse_Ch: 1:16 我们曾将我们主耶稣基督的大能，和祂的来临告诉你们，并不是随从乖巧捏造的虚构无稽之事，乃是作祂威荣的亲眼见证人。 ###EN### For we did not follow cleverly devised myths when we made known to you the power and coming of our Lord Jesus Christ, but we became eyewitnesses of that One's majesty.
+Verse_Ch: 1:17 因为祂从父神领受尊贵荣耀的时候，从显赫的荣耀中，有这样的声音向祂发出：这是我的爱子，我所喜悦的。 ###EN### For He received from God the Father honor and glory, a voice such as this being borne to Him by the magnificent glory: This is My Son, My Beloved, in whom I delight.
+Verse_Ch: 1:18 我们同祂在圣山的时候，亲自听见这声音从天上发出。 ###EN### And this voice we heard being borne out of heaven while we were with Him in the holy mountain.
+Verse_Ch: 1:19 我们并有申言者更确定的话，你们留意这话，如同留意照在暗处的灯，直等到天发亮，晨星在你们心里出现，你们就作得好了； ###EN### And we have the prophetic word made more firm, to which you do well to give heed as to a lamp shining in a dark place, until the day dawns and the morning star rises in your hearts;
+Verse_Ch: 1:20 第一要知道，经上所有的预言，都不是人自己的见解； ###EN### Knowing this first, that no prophecy of Scripture is of one's own interpretation;
+Verse_Ch: 1:21 因为预言从来没有发自人的意思，乃是人被圣灵推动，从神说出来的。 ###EN### For no prophecy was ever borne by the will of man, but men spoke from God while being borne by the Holy Spirit.
+Chapter_Header: 2
+Verse_Ch: 2:1 从前在百姓中有假申言者，照样，在你们中间，也必有假教师，偷着引进毁坏人的异端，连买他们的主也不承认，自取速速的毁坏。 ###EN### But there arose also false prophets among the people, as also among you there will be false teachers, who will secretly bring in destructive heresies, even denying the Master who bought them, bringing upon themselves swift destruction.
+Verse_Ch: 2:2 也有许多人将要随从他们的邪荡，叫真理的路因他们的缘故被毁谤； ###EN### And many will follow their licentiousness, because of whom the way of the truth will be reviled.
+Verse_Ch: 2:3 他们因着贪婪，要用捏造的言语，在你们身上取利；他们的审判，自古以来就不松懈，他们的毁坏也必速速来到。 ###EN### And in covetousness, with fabricated words, they will make merchandise of you, for whom the judgment of old is not idle, and their destruction does not slumber.
+Verse_Ch: 2:4 就是天使犯了罪，神也没有宽容，反而把他们丢在他他拉里，交在幽暗坑中，拘留着等候审判； ###EN### For if God did not spare the angels who sinned but delivered them to gloomy pits, having cast them down to Tartarus, they being kept for judgment;
+Verse_Ch: 2:5 神也没有宽容上古的世界，曾叫洪水临到那不敬虔的世界，却保守了传扬义的挪亚一家八口； ###EN### And did not spare the ancient world but guarded Noah, a herald of righteousness, with seven others, when He brought a flood upon the world of the ungodly;
+Verse_Ch: 2:6 又判定了所多玛、蛾摩拉的罪，将二城毁灭，焚烧成灰，给那些想要过不敬虔生活的人立为鉴戒； ###EN### And having reduced to ashes the cities of Sodom and Gomorrah, condemned them to ruin, having set them as an example to those who intend to live an ungodly life,
+Verse_Ch: 2:7 只搭救了那常为不法之人的淫行抑郁的义人罗得； ###EN### And rescued righteous Lot, who had been oppressed by the licentious manner of life of the lawless
+Verse_Ch: 2:8 （因为那义人定居在他们中间，看见听见不法的行为，他的义魂就天天感到痛苦。） ( ###EN### For that righteous man, who settled down among them, in seeing and hearing tormented his righteous soul day after day with their lawless works);
+Verse_Ch: 2:9 主知道搭救敬虔的人脱离试炼，把不义的人留在刑罚之下，等候审判的日子； ###EN### The Lord knows how to deliver the godly out of trial and how to keep the unrighteous under punishment for the day of judgment,
+Verse_Ch: 2:10 对那些放纵污秽的情欲，随从肉体，并轻慢主治者的人，更是如此。他们胆大任性，毁谤在尊位的也不战惊； ###EN### And especially those who go after the flesh in the lust for defilement and despise lordship. Daring, self-willed, they do not tremble while reviling dignities;
+Verse_Ch: 2:11 就是天使，虽然力量、权能更大，还不用毁谤的判辞，在主面前告他们。 ###EN### Whereas angels, though they are greater in strength and power, do not bring a reviling judgment against them before the Lord.
+Verse_Ch: 2:12 但这些人好像没有理性的畜类，生来本性是为着被捉拿并毁坏的；他们毁谤所不晓得的事，正在败坏人的时候，自己必遭毁坏； ###EN### But these, like animals without reason, born natural for capture and destruction, reviling in things of which they are ignorant, will also in their corrupting of others be destroyed;
+Verse_Ch: 2:13 行的不义，就得了不义的工价；他们以白昼奢侈为宴乐，成为斑点和瑕疵，与你们一同坐席，以自己的诡诈为奢乐； ###EN### Suffering unrighteousness as the wages of unrighteousness; considering luxury in the day to be pleasure; spots and blemishes, reveling in their deceits while feasting together with you;
+Verse_Ch: 2:14 满眼是淫色，止不住犯罪；引诱那不坚固的人，心中习惯了贪婪，是被咒诅的儿女； ###EN### Having eyes full of adultery and not ceasing from sin; enticing unstable souls, having a heart exercised for covetousness, children of curse.
+Verse_Ch: 2:15 离弃正路而走迷了，随从比珥之子巴兰的路；巴兰曾经贪爱不义的工价， ###EN### Forsaking the straight way, they have gone astray, following the way of Balaam, the son of Beor, who loved the wages of unrighteousness
+Verse_Ch: 2:16 为自己的过犯且受了责备；那不能说话的驴，竟以人声发言，拦阻了申言者的狂妄。 ###EN### But had reproof for his own transgression: a dumb beast of burden, uttering with a man's voice, restrained the madness of the prophet.
+Verse_Ch: 2:17 这些人是无水的井，是暴风催逼的雾气，有黑暗的幽冥为他们存留。 ###EN### These are springs without water and mists driven by a storm, for whom the gloom of darkness is kept.
+Verse_Ch: 2:18 因为他们说虚妄矜夸的大话，凭肉体的情欲，用邪荡的事，引诱那些刚能逃脱在错谬中生活者的人， ###EN### For uttering great swelling words of vanity, they entice by lusts of the flesh, with licentiousness, those who are barely escaping from them who live in error;
+Verse_Ch: 2:19 应许他们自由，自己却是败坏的奴仆，因为人被谁制伏，就是谁的奴仆。 ###EN### Promising freedom to them, while they themselves are slaves of corruption; for by whom anyone has been defeated, by this one he has been enslaved.
+Verse_Ch: 2:20 倘若他们因认识主和救主耶稣基督，得以逃脱世上的污秽，却又在其中被缠住制伏，他们末后的景况，就比先前更不好了。 ###EN### For if, having escaped the defilements of the world by the knowledge of our Lord and Savior Jesus Christ but having again been entangled in these, they are defeated, the last state has become worse for them than the first.
+Verse_Ch: 2:21 他们认识义路，竟转离所传授给他们神圣的诫命，倒不如不认识为妙。 ###EN### For it would be better for them not to have known the way of righteousness than, knowing it, to turn back from the holy commandment delivered to them.
+Verse_Ch: 2:22 俗语说得真对，狗所吐的，它转过来又吃；猪洗净了，又到泥里去滚。这话在他们身上发生了。 ###EN### It has happened to them according to the true proverb: The dog has turned to its own vomit, and the washed sow to wallowing in the mud.
+Chapter_Header: 3
+Verse_Ch: 3:1 亲爱的，我现在写给你们的是第二封信；在这两封信中，我都是以提醒激发你们纯诚的心思， ###EN### This second letter, beloved, I now write to you; in them both I stir up your sincere mind with a reminder,
+Verse_Ch: 3:2 叫你们记念那借着圣申言者预先所说的话，和你们的使徒所传主和救主的命令。 ###EN### So that you would remember the words spoken before by the holy prophets and the commandment of the Lord and Savior preached by your apostles;
+Verse_Ch: 3:3 第一要知道，在末后的日子，必有好讥诮的人，带着讥诮而来，随从自己的私欲而行，并说， ###EN### Knowing this first, that in the last of days mockers will come with mocking, going on according to their own lusts
+Verse_Ch: 3:4 主来临的应许在那里？因为从列祖睡了以来，万物依然存在，如同从创造之初一样。 ###EN### And saying, Where is the promise of His coming? For since the fathers fell asleep, all things continue in this way from the beginning of creation.
+Verse_Ch: 3:5 他们故意不理这件事，就是从太古凭神的话有了诸天，和出于水并借着水存立的地。 ###EN### For this escapes them by their own choosing, that by the word of God the heavens were of old and the earth was compacted out of water and through water,
+Verse_Ch: 3:6 借着这些水，当时的世界被水淹没，就毁灭了； ###EN### Through which the world then, being flooded with water, perished.
+Verse_Ch: 3:7 但现在的诸天和地，还是凭着同样的话保留着，直留到不敬虔的人受审判遭毁坏的日子，给火焚烧。 ###EN### But the heavens and the earth now, by the same word, have been stored up for fire, being kept unto the day of judgment and destruction of ungodly men.
+Verse_Ch: 3:8 亲爱的，这一件事你们却不可不理，就是在主一日如千年，千年如一日。 ###EN### But do not let this one thing escape you, beloved, that with the Lord one day is like a thousand years and a thousand years like one day.
+Verse_Ch: 3:9 主所应许的，祂并不耽延，像有些人以为祂耽延一样；其实祂乃是宽容你们，不愿任何人遭毁坏，乃愿人人都趋前悔改。 ###EN### The Lord does not delay regarding the promise, as some count delay, but is long-suffering toward you, not intending that any perish but that all advance to repentance.
+Verse_Ch: 3:10 只是主的日子要像贼一样来到；在那日，诸天必轰然一声的过去，所有的元素都要被焚烧而销化，地和其上的工程也都要烧尽了。 ###EN### But the day of the Lord will come as a thief, in which the heavens will pass away with a roar, and the elements, burning with intense heat, will be dissolved, and the earth and the works in it will be burned up.
+Verse_Ch: 3:11 这一切既然都要如此销化，你们该当怎样为人，有圣别的生活和敬虔， ###EN### Since all these things are to be thus dissolved, what kind of persons ought you to be in holy manner of life and godliness,
+Verse_Ch: 3:12 期待并催促神的日子来临？因着那日子的来临，诸天被火烧就销化了，所有的元素都要被焚烧而熔化。 ###EN### Expecting and hastening the coming of the day of God, on account of which the heavens, being on fire, will be dissolved, and the elements, burning with intense heat, are to be melted away?
+Verse_Ch: 3:13 但我们照祂的应许，期待新天新地，有义居住在其中。 ###EN### But according to His promise we are expecting new heavens and a new earth, in which righteousness dwells.
+Verse_Ch: 3:14 所以，亲爱的，你们既期待这些事，就当殷勤，得在平安中给主看为无斑点、无瑕疵的； ###EN### Therefore, beloved, since you expect these things, be diligent to be found by Him in peace without spot and without blemish;
+Verse_Ch: 3:15 并且要以我们主的恒忍为得救的机会，就像我们所亲爱的弟兄保罗，照着所赐给他的智慧，也写了信给你们； ###EN### And count the long-suffering of our Lord to be salvation, even as also our beloved brother Paul, according to the wisdom given to him, wrote to you,
+Verse_Ch: 3:16 他在一切的信上也都是讲论这些事；信中有些是难以明白的，那无学识不坚固的人曲解，如曲解其余的经书一样，就自取毁坏。 ###EN### As also in all his letters, speaking in them concerning these things, in which some things are hard to understand, which the unlearned and unstable twist, as also the rest of the Scriptures, to their own destruction.
+Verse_Ch: 3:17 所以，亲爱的，你们既然预先知道了，就当防备，免得被不法之人的错谬带走，就从自己坚固的地步上坠落。 ###EN### You therefore, beloved, since you know these things beforehand, be on your guard lest being carried away by the error of the lawless, you fall from your own steadfastness.
+Verse_Ch: 3:18 你们却要在我们的主和救主耶稣基督的恩典和知识上长大。愿荣耀归与祂，从现今直到永远之日。阿们。 ###EN### But grow in the grace and knowledge of our Lord and Savior Jesus Christ. To Him be the glory both now and unto the day of eternity. Amen.

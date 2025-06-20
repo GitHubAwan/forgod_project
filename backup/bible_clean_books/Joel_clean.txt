@@ -1,0 +1,76 @@
+Chapter_Header: 1
+Verse_Ch: 1:1 耶和华的话临到毗土珥的儿子约珥。 ###EN### The word of Jehovah which came to Joel the son of Pethuel.
+Verse_Ch: 1:2 老年人哪，当听这话；这地的一切居民哪，都要侧耳听。在你们的日子，或你们列祖的日子，曾发生这样的事么？ ###EN### Hear this, you elders, And give heed, all you inhabitants of the land. Has this ever happened in your days, Or even in the days of your fathers?
+Verse_Ch: 1:3 你们要将这事传与子，子传与孙，孙传与后代。 ###EN### Tell your children about it, And let your children tell their children, And let their children tell the next generation.
+Verse_Ch: 1:4 剪蝗剩下的，群蝗来吃；群蝗剩下的，舔蝗来吃；舔蝗剩下的，毁蝗来吃。 ###EN### What the cutting locust has left, the swarming locust has eaten; And what the swarming locust has left, the licking locust has eaten; And what the licking locust has left, the consuming locust has eaten.
+Verse_Ch: 1:5 酒醉的人哪，要清醒哭泣；一切好酒的人哪，都要为新酒哀号；因为新酒从你们的口中断绝了。 ###EN### Awake, drunkards, and weep; Howl, all you who drink wine, Because of the fresh wine; For it has been cut off from your mouth.
+Verse_Ch: 1:6 有一国民又强盛，又无数，上来侵犯我的地；其牙齿如狮子的牙齿，大牙如母狮的大牙。 ###EN### For a nation has come up against My land, Mighty and without number; Its teeth are the teeth of a lion, And it has the cutting teeth of a lioness.
+Verse_Ch: 1:7 这民使我的葡萄树荒废，使我的无花果树成为碎堆，剥尽树皮而丢弃，使枝条露白。 ###EN### It has made My vine a desolation, And My fig tree a heap of splinters. It has stripped it bare and cast it away; Its branches are white.
+Verse_Ch: 1:8 我的民哪，你当哀号，像处女腰束麻布，为幼年的丈夫哀号。 ###EN### Wail like a virgin girded with sackcloth Over the husband of her youth.
+Verse_Ch: 1:9 素祭和奠祭从耶和华的殿中断绝；事奉耶和华的祭司都悲哀。 ###EN### The meal offering and the drink offering are cut off From the house of Jehovah; The priests, the ministers of Jehovah, mourn.
+Verse_Ch: 1:10 田荒废，地悲哀；因为五谷毁坏，新酒干竭，新油也缺乏。 ###EN### The field is a waste; The land mourns, For the grain is a waste; The new wine is dried up; The fresh oil languishes.
+Verse_Ch: 1:11 农夫阿，你们要惭愧；修理葡萄园的阿，你们要为大麦小麦哀号，因为田间的庄稼都灭绝了。 ###EN### Be ashamed, O farmers; Howl, O vinedressers, For the wheat and for the barley, Because the harvest of the field has perished.
+Verse_Ch: 1:12 葡萄树枯干，无花果树衰残，石榴树、棕树、苹果树，连田野一切的树木也都枯干；众人的喜乐尽都枯竭。 ###EN### The vine is dried up, And the fig tree languishes, The pomegranate and the palm and the apple tree-All the trees of the field are dried up; Indeed gladness has withered away From the children of men.
+Verse_Ch: 1:13 祭司阿，你们当腰束麻布痛哭；伺候祭坛的阿，你们要哀号。事奉我神的阿，你们要来披上麻布过夜；因为素祭和奠祭，从你们神的殿中停止了。 ###EN### Gird yourselves and lament, O priests; Howl, O ministers of the altar. Come, pass the night in sackcloth, O ministers of my God. For the meal offering and the drink offering Are held back from the house of your God.
+Verse_Ch: 1:14 你们要将禁食的日子分别为圣，宣告严肃会，招聚长老和这地的一切居民，到耶和华你们神的殿，向耶和华哀求。 ###EN### Sanctify a fast; Call a solemn assembly; Gather the elders And all the inhabitants of the land To the house of Jehovah your God; And cry unto Jehovah.
+Verse_Ch: 1:15 哀哉那日子！因为耶和华的日子临近了；这日子要来到，好像毁灭从全能者来到。 ###EN### Alas for the day! For the day of Jehovah has drawn near, And as the destruction from the Almighty it will come.
+Verse_Ch: 1:16 粮食不是在我们眼前断绝了么？喜乐欢腾不是从我们神的殿中止息了么？ ###EN### Is not our food Cut off before our eyes, Joy and exultation From the house of our God?
+Verse_Ch: 1:17 谷种在土块下朽烂；仓房荒凉，廪库拆毁；因为五谷枯干了。 ###EN### The seeds have shriveled Under their clods; The storehouses have been desolated; The barns have been torn down; For the grain is dried up.
+Verse_Ch: 1:18 牲畜哀鸣，牛群混乱，因为没有草场；羊群也受了灾罚。 ###EN### How the beasts groan! The herds of cattle are confused, For they have no pasture; The flocks of sheep also suffer punishment.
+Verse_Ch: 1:19 耶和华阿，我向你呼求；因为火烧灭了旷野的草场，火焰烧尽田野的树木； ###EN### To You, O Jehovah, I cry out; For fire has devoured The pastures of the wilderness, And the flame has set ablaze All the trees of the field.
+Verse_Ch: 1:20 田野的走兽也向你哀鸣；因为溪水干涸，火也烧灭旷野的草场。 ###EN### The beasts of the field also Cry to You, For the waterways Are dried up, And fire has devoured The pastures of the wilderness.
+Chapter_Header: 2
+Verse_Ch: 2:1 你们要在锡安吹角，在我的圣山吹出大声；这地的一切居民都要发颤；因为耶和华的日子将到，已经临近。 ###EN### Blow a trumpet in Zion; Sound an alarm in My holy mountain; Let all the inhabitants of the land tremble, For the day of Jehovah comes; For it draws near:
+Verse_Ch: 2:2 那是黑暗、幽冥的日子，密云、乌黑的日子，好像晨光铺满群山；有一民又多又强；从亘古以来没有这样的，以后直到万代也必没有。 ###EN### A day of darkness and gloominess, A day of clouds and deep darkness, Like the dawn spread over the mountains-A people great and mighty. There has not been any like them Since eternity, And there will not be any more after them, Even until the years of the generation of the generations.
+Verse_Ch: 2:3 他们前面有火烧灭，后面有火焰烧尽；他们来到以前，这地如伊甸园；他们过去以后，这地成了荒凉的旷野；没有一样能躲避他们的。 ###EN### A fire devours before them, And after them a flame blazes. Before them the land is like the garden of Eden, After them, like a desolate wilderness; And indeed no one escapes them.
+Verse_Ch: 2:4 他们的样子如马，奔跑如马兵。 ###EN### Their appearance is like the appearance of horses; And as horsemen, so they run.
+Verse_Ch: 2:5 在山顶跰跳的响声，如同车辆的响声，如同火焰烧碎秸的响声，又如同强盛的民摆阵预备打仗。 ###EN### Like the sound of chariots Upon the mountaintops they leap, Like the sound of a flame of fire That devours the stubble, Like a mighty people Set in battle array.
+Verse_Ch: 2:6 他们一出现，众民翻绞痛苦，脸都变暗。 ###EN### At their presence the peoples writhed in anguish; All faces became pale.
+Verse_Ch: 2:7 他们如勇士奔跑，像战士爬城；各按己路前行，不乱队伍。 ###EN### They run like mighty men; Like men of battle they climb the wall. And they march, each in his ways, And do not break their ranks.
+Verse_Ch: 2:8 彼此并不拥挤，向前各行其路。虽然在兵器中倒下，进路却不中断。 ###EN### Nor do they crowd each other; They march, each on his highway. Though they fall among weapons, They do not break off their progress.
+Verse_Ch: 2:9 他们冲上城，蹿上墙，爬上房屋，进入窗户如同盗贼。 ###EN### They rush at the city; They run against the wall; They go up into the houses; In through the windows They go, like a thief.
+Verse_Ch: 2:10 在他们前面，地震天动，日月昏暗，星宿无光。 ###EN### The earth quakes before them; The heavens shake; The sun and the moon grow dark, And the stars withdraw their shining.
+Verse_Ch: 2:11 耶和华在祂军旅前发声，祂的队伍甚大；成就祂话语的，是强盛者。因为耶和华的日子大而可畏，谁能当得起呢？ ###EN### And Jehovah utters His voice Before His army, For His camp is very great, For He who executes His word is mighty. For the day of Jehovah is great And very terrible, And who can endure it?
+Verse_Ch: 2:12 耶和华说，虽然如此，你们应当禁食、哭泣、悲哀，全心归向我； ###EN### Yet even now, Declares Jehovah, Turn to Me with all your heart And with fasting and weeping and mourning;
+Verse_Ch: 2:13 你们要撕裂心肠，不要撕裂衣服，并要归向耶和华你们的神，因为祂有恩典，有怜恤，不轻易发怒，有丰盛的慈爱，并且后悔，不降所说的灾。 ###EN### And rend your hearts, And not your garments, And turn to Jehovah your God, For He is gracious and compassionate, Long-suffering and abundant in lovingkindness And repentant of evil.
+Verse_Ch: 2:14 或者祂转意后悔，留下祝福，就是留下献给耶和华你们神的素祭和奠祭，也未可知。 ###EN### Who knows whether He will turn and repent And leave a blessing behind Him, A meal offering and a drink offering To Jehovah your God?
+Verse_Ch: 2:15 你们要在锡安吹角，将禁食的日子分别为圣，宣告严肃会。 ###EN### Blow a trumpet in Zion; Sanctify a fast; Call a solemn assembly;
+Verse_Ch: 2:16 聚集众民，使会众分别为圣；招聚老者，聚集孩童和吃奶的；使新郎出离洞房，新妇出离内室。 ###EN### Gather the people; Sanctify the congregation; Assemble the elders; Gather the children And those who suck the breasts; Let the bridegroom go forth from his chamber, And the bride from her canopy.
+Verse_Ch: 2:17 事奉耶和华的祭司，要在廊子和祭坛中间哭泣，说，耶和华阿，求你顾惜你的百姓，不要使你的产业受羞辱，受列邦管辖；为何在万民中有人说，他 们的神在那里呢？ ###EN### Let the priests, the ministers of Jehovah, Weep between the porch and the altar, And let them say, Look with pity, O Jehovah, upon Your people; And do not give Your inheritance over to reproach, That the nations should rule over them. Why should they say among the peoples, Where is their God?
+Verse_Ch: 2:18 耶和华就为自己的地起妒忌，怜惜祂的百姓。 ###EN### Then Jehovah became jealous for His land, And He spared His people.
+Verse_Ch: 2:19 耶和华应允了祂的百姓，对他们说，我必赐给你们五谷、新酒和新油，使你们饱足；我必不再使你们在列国中受羞辱； ###EN### And Jehovah answered and said to His people, I am about to send you The grain and the new wine and the fresh oil, And you will be satisfied with it; And I will no longer make you A reproach among the nations,
+Verse_Ch: 2:20 却要使北方来的军队远离你们，将那军队赶到干旱荒废之地，前队赶入东海，后队赶入西海。因为他们行了大恶，以致臭气上升，腥味腾空。 ###EN### But the northern army I will remove far from you; And I will drive it into a land Barren and desolate, With its face toward the eastern sea And its end toward the western sea. And its stench will go up, And its foul smell will go up, For it has done great things.
+Verse_Ch: 2:21 地土阿，不要惧怕，要欢喜快乐，因为耶和华行了大事。 ###EN### Do not fear, O land; Be glad and rejoice, For Jehovah has done great things.
+Verse_Ch: 2:22 田野的走兽阿，不要惧怕，因为旷野的草场发青，树木结果；无花果树、葡萄树也都效力。 ###EN### Do not fear, O beasts of the field, For the pastures of the wilderness turn green. For the tree bears its fruit; The fig tree and the vine yield their strength.
+Verse_Ch: 2:23 锡安的子女阿，你们要因耶和华你们的神欢喜快乐；因祂赐给你们公义的秋雨，为你们降下甘霖，就是秋雨、春雨，和起初的时节一样。 ###EN### O children of Zion, Be glad and rejoice In Jehovah your God. For He gives you The former rain in righteousness, And He makes the rain come down for you: The former rain and the latter rain At the beginning of the season.
+Verse_Ch: 2:24 禾场必满了谷子，酒醡与油醡必盈溢新酒和新油。 ###EN### And the threshing floors will be full of grain, And the wine vats will overflow with new wine and fresh oil.
+Verse_Ch: 2:25 我打发到你们中间的大军队，就是群蝗、舔蝗、毁蝗、剪蝗，那些年所吃的，我要补还你们。 ###EN### And I will restore to you the years That the swarming locust has eaten, The licking locust and the consuming locust and the cutting locust, My great army That I sent among you.
+Verse_Ch: 2:26 你们必多吃而得饱足，就赞美那奇妙对待你们之耶和华你们神的名；我的百姓必永不羞愧。 ###EN### And you will eat to the full and be satisfied, And you will praise the name of Jehovah your God, Who has dealt wondrously with you; And My people will never be ashamed.
+Verse_Ch: 2:27 你们必知道我是在以色列中间，又知道我是耶和华你们的神，在我以外并无别神；我的百姓必永不羞愧。 ###EN### And you will know that I am in the midst of Israel, And that I am Jehovah your God and there is none else. And My people will never be ashamed.
+Verse_Ch: 2:28 以后，我要将我的灵浇灌在一切属肉体的人身上；你们的儿女要说预言，你们的老年人要作异梦；你们的青年人要见异象。 ###EN### And afterward I will pour out My Spirit upon all flesh, And your sons and your daughters shall prophesy; Your old men shall dream dreams; Your young men shall see visions.
+Verse_Ch: 2:29 在那些日子，我要将我的灵浇灌在我的奴仆和婢女身上。 ###EN### Indeed even upon the male and female slaves In those days I will pour out My Spirit.
+Verse_Ch: 2:30 在天上地上，我要显出奇事，有血、有火、有烟柱。 ###EN### And I will show wonders in the heavens and on earth: Blood and fire and pillars of smoke.
+Verse_Ch: 2:31 在耶和华大而可畏的日子来到以前，日头要变为黑暗，月亮要变为血。 ###EN### The sun shall be turned into darkness, And the moon, into blood, Before the great and terrible Day of Jehovah comes.
+Verse_Ch: 2:32 那时，凡呼求耶和华名的，就必得救；因为照耶和华所说的，在锡安山、在耶路撒冷，必有逃脱的人，在余剩的人中，必有耶和华所召的。 ###EN### And everyone who calls on the name of Jehovah shall be saved; For in Mount Zion and in Jerusalem will be an escape, As Jehovah has said, Even for the remnant Whom Jehovah calls.
+Chapter_Header: 3
+Verse_Ch: 3:1 当那些日子，我使犹大和耶路撒冷被掳之人归回的时候， ###EN### For indeed, in those days and at that time When I turn the captivity of Judah and Jerusalem,
+Verse_Ch: 3:2 我要聚集万民，带他们下到约沙法谷；为了我的百姓，就是我的产业以色列，我要在那里审判他们，因为他们把我的百姓分散在列国中，又分取我的 地土； ###EN### I will gather all the nations And will bring them down to the valley of Jehoshaphat; And I will enter into judgment with them there Because of My people and My inheritance Israel, Whom they have scattered among the nations. And they have divided My land
+Verse_Ch: 3:3 且为我的百姓拈阄，将童男换妓女，卖童女买酒喝。 ###EN### And have cast lots for My people; And they have given a boy for a prostitute And sold a girl for wine to drink.
+Verse_Ch: 3:4 推罗、西顿、和非利士全境的人哪，你们与我何干？你们要把应得的报应回报给我么？若回报给我，我必使报应速速归到你们的头上。 ###EN### Indeed then, what are you to me, Tyre and Sidon And all the regions of Philistia? Will you repay Me with a recompense? But if you recompense Me, Swiftly, speedily, I will return your recompense upon your own head.
+Verse_Ch: 3:5 你们既然夺取我的金银，又将我美好的宝物带入你们庙中， ###EN### In that you have taken My silver and My gold, And have brought My fine precious things into your temples,
+Verse_Ch: 3:6 并将犹大人和耶路撒冷人，卖给雅完人，赶逐他们远离自己的境界； ###EN### And have sold to the children of the Javanim The children of Judah and the children of Jerusalem, In order to remove them Away from their borders;
+Verse_Ch: 3:7 我必激动他们离开你们所卖到之地，又必使报应归到你们的头上。 ###EN### I will rouse them out of the place To which you have sold them, And will return your recompense upon your own head.
+Verse_Ch: 3:8 我必将你们的儿女卖在犹大人的手中，他们必卖给远方示巴国的人；因为耶和华已经说了。 ###EN### And I will sell your sons and your daughters Into the hand of the children of Judah, And they will sell them to the Sabeans, To a nation that is far off, For Jehovah has spoken.
+Verse_Ch: 3:9 当在列国中宣告这话，说，要预备打仗；激动勇士；一切战士都要近前，都要上去。 ###EN### Proclaim this among the nations: Prepare the battle; Rouse the mighty men; Let all the men of battle Draw near; let them go up.
+Verse_Ch: 3:10 要将犁头打成刀剑，将镰刀打成戈矛；软弱的要说，我有勇力。 ###EN### Beat your plowshares into swords, And your pruning knives into spears; Let the weak say, I am mighty.
+Verse_Ch: 3:11 四围的列国阿，你们要速速的来，一同聚集。耶和华阿，求你使你的大能者在那里降临！ ###EN### Hurry and come, All you surrounding nations, And be gathered. There cause Your mighty ones to descend, O Jehovah!
+Verse_Ch: 3:12 列国都当兴起，上到约沙法谷。因为我必坐在那里，审判四围的列国。 ###EN### Let the nations rouse themselves and come up To the valley of Jehoshaphat. For there I will sit to judge All the surrounding nations.
+Verse_Ch: 3:13 伸出镰刀罢，因为庄稼熟了；前来践踏罢，因为酒醡满了；酒池盈溢，因为他们的罪恶甚大。 ###EN### Send forth the sickle, For the harvest is ripe; Come, tread, For the winepress is full; The wine vats overflow, For their evil is great.
+Verse_Ch: 3:14 许多许多的人在断定谷；因为耶和华的日子临近断定谷。 ###EN### Multitudes, multitudes, In the valley of decision; For the day of Jehovah has drawn near In the valley of decision.
+Verse_Ch: 3:15 日月昏暗，星宿无光。 ###EN### The sun and the moon grow dark, And the stars withdraw their shining.
+Verse_Ch: 3:16 耶和华必从锡安吼叫，从耶路撒冷发声，天地就震动。耶和华却要作祂百姓的避难所，作以色列人的保障。 ###EN### And Jehovah will roar from Zion, And from Jerusalem He will utter His voice, And the heavens and the earth will shake. But Jehovah will be a shelter to His people And a stronghold to the children of Israel.
+Verse_Ch: 3:17 你们就知道我是耶和华你们的神，住在锡安我的圣山。那时，耶路撒冷必成为圣，外人不再从其中经过。 ###EN### Thus you will know that I am Jehovah your God, Dwelling in Zion, My holy mountain. And Jerusalem will be holy, And strangers will pass through her no longer.
+Verse_Ch: 3:18 到那日，大山要滴新酒，小山要流奶；犹大一切的溪河都有水流，必有泉源从耶和华的殿中流出来，浇灌什亭谷。 ###EN### And in that day The mountains will drop down fresh wine, And the hills will flow with milk; And all the waterways of Judah Will flow with water, And a fountain will go forth from the house of Jehovah, And it will water the valley of Shittim.
+Verse_Ch: 3:19 埃及必然荒凉，以东变为荒凉的旷野，都因向犹大人所行的强暴，因他们在本地流了无辜人的血。 ###EN### Egypt will be a desolation, And Edom will be a desolate wilderness, Because of the violence against the children of Judah, In that they have shed innocent blood in their land.
+Verse_Ch: 3:20 但犹大必有人居住，直到永远；耶路撒冷必有人居住，直到万代。 ###EN### But Judah will abide forever, And Jerusalem, from generation to generation;
+Verse_Ch: 3:21 我未曾赦免他们流血的罪，现在我要赦免，因为耶和华住在锡安。 ###EN### And I will acquit them of their bloodshed that I had not acquitted them of, For Jehovah dwells in Zion.
