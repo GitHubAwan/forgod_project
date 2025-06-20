@@ -92,5 +92,9 @@ def chapter(book_id, chapter_number):
                            next_chapter_book_id=next_chapter_book_id,
                            next_chapter_number=next_chapter_number)
 
+@app.route('/about')
+def about():
+    return render_template('about.html')
+
 if __name__ == '__main__':
     app.run(debug=True, host='0.0.0.0', port=50001)

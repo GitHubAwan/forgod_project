@@ -11,8 +11,8 @@
             padding: 20px;
             background-color: #f4f4f4;
             color: #333;
-            line-height: 1.8; /* 增加行高以提高可读性 */
-            font-size: 1.1em; /* 稍微增大字体 */
+            line-height: 1.8;
+            font-size: 1.1em;
         }
         .container {
             max-width: 600px;
@@ -21,6 +21,13 @@
             padding: 20px;
             border-radius: 8px;
             box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            min-height: 80vh; /* 确保内容不足时底部导航也能在页面下方 */
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between; /* 将内容和页脚推开 */
+        }
+        .content-area {
+            flex-grow: 1; /* 内容区域占据剩余空间 */
         }
         h1 {
             text-align: center;
@@ -29,7 +36,7 @@
         }
         .verse {
             margin-bottom: 10px;
-            text-indent: -1.5em; /* 经文开头缩进，节号突出 */
+            text-indent: -1.5em;
             padding-left: 1.5em;
         }
         .verse .verse-number {
@@ -37,7 +44,7 @@
             color: #007bff;
             margin-right: 5px;
             display: inline-block;
-            width: 1.5em; /* 固定节号宽度 */
+            width: 1.5em;
             text-align: right;
         }
         .navigation {
@@ -46,6 +53,8 @@
             margin-top: 20px;
             padding-top: 10px;
             border-top: 1px solid #eee;
+            flex-wrap: wrap;
+            gap: 10px;
         }
         .navigation a {
             text-decoration: none;
@@ -59,36 +68,59 @@
             background-color: #e9f5ff;
         }
         .navigation span {
-            /* 用于禁用链接时的样式 */
             color: #aaa;
             padding: 5px 10px;
+        }
+        .footer-navigation {
+            display: flex;
+            justify-content: center;
+            margin-top: 30px;
+            padding-top: 15px;
+            border-top: 1px solid #eee;
+            gap: 20px;
+        }
+        .footer-navigation a {
+            text-decoration: none;
+            color: #007bff;
+            font-weight: bold;
+            padding: 5px 10px;
+            border-radius: 5px;
+            transition: background-color 0.2s ease;
+        }
+        .footer-navigation a:hover {
+            background-color: #e9f5ff;
         }
     </style>
 </head>
 <body>
     <div class="container">
-        <h1>{{ book.name }} 第 {{ chapter_number }} 章</h1>
+        <div class="content-area">
+            <h1>{{ book.name }} 第 {{ chapter_number }} 章</h1>
 
-        <div class="verses-content">
-            {% for verse in verses %}
-                <p class="verse"><span class="verse-number">{{ verse.verse_number }}.</span> {{ verse.content }}</p>
-            {% endfor %}
+            <div class="verses-content">
+                {% for verse in verses %}
+                    <p class="verse"><span class="verse-number">{{ verse.verse_number }}.</span> {{ verse.content }}</p>
+                {% endfor %}
+            </div>
+
+            <div class="navigation">
+                {% if prev_chapter_book_id %}
+                    <a href="/chapter/{{ prev_chapter_book_id }}/{{ prev_chapter_number }}">&lt; 上一章</a>
+                {% else %}
+                    <span>&lt; 上一章</span>
+                {% endif %}
+
+                {% if next_chapter_book_id %}
+                    <a href="/chapter/{{ next_chapter_book_id }}/{{ next_chapter_number }}">下一章 &gt;</a>
+                {% else %}
+                    <span>下一章 &gt;</span>
+                {% endif %}
+            </div>
         </div>
 
-        <div class="navigation">
-            {% if prev_chapter_book_id %}
-                <a href="/chapter/{{ prev_chapter_book_id }}/{{ prev_chapter_number }}">&lt; 上一章</a>
-            {% else %}
-                <span>&lt; 上一章</span>
-            {% endif %}
-
-            <a href="/book/{{ book.id }}">返回目录</a>
-
-            {% if next_chapter_book_id %}
-                <a href="/chapter/{{ next_chapter_book_id }}/{{ next_chapter_number }}">下一章 &gt;</a>
-            {% else %}
-                <span>下一章 &gt;</span>
-            {% endif %}
+        <div class="footer-navigation">
+            <a href="/">返回主页</a>
+            <a href="/about">关于本站</a>
         </div>
     </div>
 </body>

@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>圣经主页</title>
+    <title>话语点亮生命 Light from the Word</title>
     <style>
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -20,6 +20,13 @@
             padding: 20px;
             border-radius: 8px;
             box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            min-height: 80vh; /* 确保内容不足时底部导航也能在页面下方 */
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between; /* 将内容和页脚推开 */
+        }
+        .content-area {
+            flex-grow: 1; /* 内容区域占据剩余空间 */
         }
         h1, h2 {
             text-align: center;
@@ -54,24 +61,50 @@
             border-bottom: 2px solid #0056b3;
             padding-bottom: 5px;
         }
+        .footer-navigation {
+            display: flex;
+            justify-content: center;
+            margin-top: 30px;
+            padding-top: 15px;
+            border-top: 1px solid #eee;
+            gap: 20px;
+        }
+        .footer-navigation a {
+            text-decoration: none;
+            color: #007bff;
+            font-weight: bold;
+            padding: 5px 10px;
+            border-radius: 5px;
+            transition: background-color 0.2s ease;
+        }
+        .footer-navigation a:hover {
+            background-color: #e9f5ff;
+        }
     </style>
 </head>
 <body>
     <div class="container">
-        <h1>圣经全书</h1>
+        <div class="content-area">
+            <h1>圣经全书</h1>
 
-        <div class="section-title">旧约</div>
-        <div class="book-list">
-            {% for book in old_testament %}
-                <a href="/book/{{ book.id }}">{{ book.name }}</a>
-            {% endfor %}
+            <div class="section-title">旧约</div>
+            <div class="book-list">
+                {% for book in old_testament %}
+                    <a href="/book/{{ book.id }}">{{ book.name }}</a>
+                {% endfor %}
+            </div>
+
+            <div class="section-title">新约</div>
+            <div class="book-list">
+                {% for book in new_testament %}
+                    <a href="/book/{{ book.id }}">{{ book.name }}</a>
+                {% endfor %}
+            </div>
         </div>
 
-        <div class="section-title">新约</div>
-        <div class="book-list">
-            {% for book in new_testament %}
-                <a href="/book/{{ book.id }}">{{ book.name }}</a>
-            {% endfor %}
+        <div class="footer-navigation">
+            <a href="/">返回主页</a>
+            <a href="/about">关于本站</a>
         </div>
     </div>
 </body>
