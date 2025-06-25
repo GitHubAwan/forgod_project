@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}话语点亮生命 Light from the Word{% endblock %}</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+            color: #333;
+            line-height: 1.6;
+        }
+        .container {
+            max-width: 600px; /* 默认最大宽度 */
+            margin: auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            min-height: 80vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+        .content-area {
+            flex-grow: 1;
+        }
+
+        /* ----- 通用标题和导航样式 ----- */
+        h1 {
+            text-align: center;
+            color: #0056b3;
+            margin-bottom: 20px; /* 默认h1的底部外边距 */
+        }
+        h2 { /* 主要用于 about 页面，但也可以是通用标题 */
+            color: #007bff;
+            margin-top: 30px;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 5px;
+        }
+        h3 { /* 主要用于 about 页面 */
+            color: #007bff;
+            margin-top: 25px;
+        }
+
+        /* 修复 section-title 样式 */
+        .section-title {
+            text-align: center;
+            margin-top: 30px;
+            margin-bottom: 15px;
+            font-size: 1.2em; /* 保持原有字体大小 */
+            color: #0056b3; /* 保持原有颜色 */
+            border-bottom: 2px solid #0056b3; /* 恢复横线 */
+            padding-bottom: 5px;
+        }
+
+        /* 底部导航样式 */
+        .footer-navigation {
+            display: flex;
+            justify-content: center;
+            margin-top: 30px;
+            padding-top: 15px;
+            border-top: 1px solid #eee;
+            gap: 20px;
+        }
+        .footer-navigation a {
+            text-decoration: none;
+            color: #007bff;
+            font-weight: bold;
+            padding: 5px 10px;
+            border-radius: 5px;
+            transition: background-color 0.2s ease;
+        }
+        .footer-navigation a:hover {
+            background-color: #e9f5ff;
+        }
+
+        /* ----- 列表和导航按钮通用样式 ----- */
+        .book-list, .chapter-list {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+        .chapter-list {
+             grid-template-columns: repeat(auto-fit, minmax(60px, 1fr)); /* book.html特有 */
+        }
+        .book-list a, .chapter-list a {
+            display: block;
+            background-color: #e9f5ff;
+            color: #0056b3;
+            padding: 10px;
+            text-align: center;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background-color 0.2s ease;
+            font-size: 0.9em; /* book-list 字体大小 */
+        }
+        .chapter-list a {
+            font-weight: bold; /* chapter-list 字体加粗 */
+        }
+        .book-list a:hover, .chapter-list a:hover {
+            background-color: #d0e7ff;
+        }
+
+        /* 上下页导航样式 (book.html 和 chapter.html) */
+        .navigation {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 20px;
+            padding-top: 10px;
+            border-top: 1px solid #eee;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+        .navigation a {
+            text-decoration: none;
+            color: #007bff;
+            font-weight: bold;
+            padding: 5px 10px;
+            border-radius: 5px;
+            transition: background-color 0.2s ease;
+        }
+        .navigation a:hover {
+            background-color: #e9f5ff;
+        }
+        .navigation span { /* 禁用状态的上一章/下一章 */
+            color: #aaa;
+            padding: 5px 10px;
+        }
+
+        /* ----- 章节内容样式 (chapter.html) ----- */
+        /* 注意：如果需要在 chapter.html 中调整 body 字体大小，可以考虑在 content 块内部设置一个 div，然后给 div 设置样式 */
+        /* 例如：<div style="font-size: 1.1em; line-height: 1.8;"> </div> */
+        /* 这里我保持了 base 的 body 字体和行高，如果需要 specific 修改可以在 chapter.html 的 style block 或 content 内部 div 上设置 */
+        .verses-content {
+            line-height: 1.8; /* 从 chapter.html 移过来，仅影响经文内容 */
+            font-size: 1.1em; /* 从 chapter.html 移过来，仅影响经文内容 */
+        }
+
+        .verse {
+            margin-bottom: 10px;
+            text-indent: -1.5em;
+            padding-left: 1.5em;
+        }
+        .verse .verse-number {
+            font-weight: bold;
+            color: #007bff;
+            margin-right: 5px;
+            display: inline-block;
+            width: 1.5em;
+            text-align: right;
+        }
+
+        /* ----- about.html 页面特定样式覆盖 ----- */
+        .container.about-page {
+            max-width: 700px;
+            /* font-size: 0.9em;  这里注意，如果 base body 已经设了 font-size, 建议通过相对单位调整 */
+            /* 我在 about.html 中把 body 的 font-size: 0.9em; 移除了，以避免冲突 */
+        }
+        .about-page h1 {
+            margin-bottom: 25px;
+            font-size: 2em;
+        }
+        .about-page h2 {
+            margin-top: 30px;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 5px;
+        }
+        .about-page h3 {
+            margin-top: 25px;
+        }
+        .about-page p {
+            margin-bottom: 15px;
+            text-align: justify;
+        }
+        .about-page strong {
+            color: #0056b3;
+        }
+        .about-page .section-separator {
+            margin-top: 40px;
+            border-top: 2px solid #0056b3;
+            padding-top: 20px;
+        }
+        .about-page .signature {
+            text-align: right;
+            margin-top: 20px;
+            font-style: italic;
+            color: #555;
+        }
+        .about-page .about-image {
+            display: block;
+            margin: 15px auto; /* 居中显示 */
+            max-width: 150px;
+            height: auto;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+    </style>
+     <script async src="https://www.googletagmanager.com/gtag/js?id=G-6HP42GZ6NS"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-6HP42GZ6NS');
+    </script>
+    {% block head_extra %}{% endblock %} {# 保留这个块，以便子模板可以添加自己的额外头部内容 #}
+</head>
+<body>
+    <div class="container {% block container_class %}{% endblock %}">
+        <div class="content-area">
+            {% block content %}{% endblock %}
+        </div>
+
+        <div class="footer-navigation">
+            <a href="/">返回主页</a>
+            <a href="/about">关于本站</a>
+        </div>
+    </div>
+</body>
+</html>

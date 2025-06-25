@@ -1,127 +1,27 @@
-<!DOCTYPE html>
-<html lang="zh">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ book.name }} 第 {{ chapter_number }} 章</title>
-    <style>
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            margin: 0;
-            padding: 20px;
-            background-color: #f4f4f4;
-            color: #333;
-            line-height: 1.8;
-            font-size: 1.1em;
-        }
-        .container {
-            max-width: 600px;
-            margin: auto;
-            background: #fff;
-            padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-            min-height: 80vh; /* 确保内容不足时底部导航也能在页面下方 */
-            display: flex;
-            flex-direction: column;
-            justify-content: space-between; /* 将内容和页脚推开 */
-        }
-        .content-area {
-            flex-grow: 1; /* 内容区域占据剩余空间 */
-        }
-        h1 {
-            text-align: center;
-            color: #0056b3;
-            margin-bottom: 20px;
-        }
-        .verse {
-            margin-bottom: 10px;
-            text-indent: -1.5em;
-            padding-left: 1.5em;
-        }
-        .verse .verse-number {
-            font-weight: bold;
-            color: #007bff;
-            margin-right: 5px;
-            display: inline-block;
-            width: 1.5em;
-            text-align: right;
-        }
-        .navigation {
-            display: flex;
-            justify-content: space-between;
-            margin-top: 20px;
-            padding-top: 10px;
-            border-top: 1px solid #eee;
-            flex-wrap: wrap;
-            gap: 10px;
-        }
-        .navigation a {
-            text-decoration: none;
-            color: #007bff;
-            font-weight: bold;
-            padding: 5px 10px;
-            border-radius: 5px;
-            transition: background-color 0.2s ease;
-        }
-        .navigation a:hover {
-            background-color: #e9f5ff;
-        }
-        .navigation span {
-            color: #aaa;
-            padding: 5px 10px;
-        }
-        .footer-navigation {
-            display: flex;
-            justify-content: center;
-            margin-top: 30px;
-            padding-top: 15px;
-            border-top: 1px solid #eee;
-            gap: 20px;
-        }
-        .footer-navigation a {
-            text-decoration: none;
-            color: #007bff;
-            font-weight: bold;
-            padding: 5px 10px;
-            border-radius: 5px;
-            transition: background-color 0.2s ease;
-        }
-        .footer-navigation a:hover {
-            background-color: #e9f5ff;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <div class="content-area">
-            <h1>{{ book.name }} 第 {{ chapter_number }} 章</h1>
+{% extends "base.html" %}
 
-            <div class="verses-content">
-                {% for verse in verses %}
-                    <p class="verse"><span class="verse-number">{{ verse.verse_number }}.</span> {{ verse.content }}</p>
-                {% endfor %}
-            </div>
+{% block title %}{{ book.name }} 第 {{ chapter_number }} 章{% endblock %}
 
-            <div class="navigation">
-                {% if prev_chapter_book_id %}
-                    <a href="/chapter/{{ prev_chapter_book_id }}/{{ prev_chapter_number }}">&lt; 上一章</a>
-                {% else %}
-                    <span>&lt; 上一章</span>
-                {% endif %}
+{% block content %}
+    <h1>{{ book.name }} 第 {{ chapter_number }} 章</h1>
 
-                {% if next_chapter_book_id %}
-                    <a href="/chapter/{{ next_chapter_book_id }}/{{ next_chapter_number }}">下一章 &gt;</a>
-                {% else %}
-                    <span>下一章 &gt;</span>
-                {% endif %}
-            </div>
-        </div>
-
-        <div class="footer-navigation">
-            <a href="/">返回主页</a>
-            <a href="/about">关于本站</a>
-        </div>
+    <div class="verses-content">
+        {% for verse in verses %}
+            <p class="verse"><span class="verse-number">{{ verse.verse_number }}.</span> {{ verse.content }}</p>
+        {% endfor %}
     </div>
-</body>
-</html>
+
+    <div class="navigation">
+        {% if prev_chapter_book_id %}
+            <a href="/chapter/{{ prev_chapter_book_id }}/{{ prev_chapter_number }}">&lt; 上一章</a>
+        {% else %}
+            <span>&lt; 上一章</span>
+        {% endif %}
+
+        {% if next_chapter_book_id %}
+            <a href="/chapter/{{ next_chapter_book_id }}/{{ next_chapter_number }}">下一章 &gt;</a>
+        {% else %}
+            <span>下一章 &gt;</span>
+        {% endif %}
+    </div>
+{% endblock %}
