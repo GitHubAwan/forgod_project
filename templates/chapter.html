@@ -1,7 +1,13 @@
 {% extends "base.html" %}
 
 {% block title %}{{ book.name }} 第 {{ chapter_number }} 章{% endblock %}
-
+{% block head_extra %}
+    <meta property="og:title" content="{{ book.name }} 第 {{ chapter_number }} 章" />
+    <meta property="og:description" content="阅读{{ book.name }} 第 {{ chapter_number }} 章的经文，每日灵粮，安静亲近神。" />
+    <meta property="og:image" content="https://wordsgod.com/static/default_chapter_share_image.jpg" /> {# Consider a more specific image if available #}
+    <meta property="og:url" content="https://wordsgod.com/chapter/{{ book.id }}/{{ chapter_number }}" />
+    <meta property="og:type" content="article" /> {# For specific chapters, 'article' might be more appropriate #}
+{% endblock %}
 {% block content %}
     <h1>{{ book.name }} 第 {{ chapter_number }} 章</h1>
 
