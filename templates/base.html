@@ -4,11 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{% block title %}话语点亮生命 Light from the Word{% endblock %}</title>
-    <meta property="og:title" content="话语点亮生命 Light from the Word" />
-    <meta property="og:description" content="Welcome to WordsGod.com — a space created by followers of Christ to share the living Word of God with simplicity, reverence, and consistency." />
-    <meta property="og:image" content="https://wordsgod.com/static/default_share_image.jpg" /> {# Replace with your actual domain and image path #}
-    <meta property="og:url" content="https://wordsgod.com/" /> {# Replace with your actual domain #}
-    <meta property="og:type" content="website" />
+    {# 为OG标签定义可覆盖的块 #}
+    {% block og_title %}<meta property="og:title" content="话语点亮生命 Light from the Word" />{% endblock %}
+    {% block og_description %}<meta property="og:description" content="Welcome to WordsGod.com — a space created by followers of Christ to share the living Word of God with simplicity, reverence, and consistency." />{% endblock %}
+    {% block og_image %}<meta property="og:image" content="https://wordsgod.com/static/default_share_image.jpg" />{% endblock %}
+    {% block og_url %}<meta property="og:url" content="https://wordsgod.com/" />{% endblock %}
+    {% block og_type %}<meta property="og:type" content="website" />{% endblock %}
     <style>
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
